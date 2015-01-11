@@ -1,10 +1,10 @@
 #!/bin/sh
 
 
-DATA_DIR=/home/tan/kaldi/swahili/data
-WORK_DIR=/home/tan/kaldi/swahili
-KALDI_DIR=/home/tan/kaldi-trunk
-LEXICON=swahili_train.dict
+DATA_DIR=$WORK_DIR/data
+WORK_DIR=`pwd`
+KALDI_DIR=/home/kaldi-trunk
+LEXICON=$DATA_DIR/local/dict/lexicon.txt
 EXP_DIR="test"
 TRAIN_DIR="train"
 
@@ -12,7 +12,3 @@ PATH=$PATH:./:$KALDI_DIR/src/bin:$KALDI_DIR/src/gmmbin:$KALDI_DIR/src/latbin:$KA
 
 export PATH
 export LC_ALL=C
-
-cd $WORK_DIR
-
-
