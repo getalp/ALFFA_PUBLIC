@@ -35,7 +35,7 @@ Description: training data in Kaldi format about 10 hours. Note: The path of wav
 Directory: /data/test
 Files: text (test transcription), wav.scp (file id and path), utt2spk (file id and audio id), spk2utt (audio id and file id), wav (.wav files)
 Description: testing data in Kaldi format about 1.8 hours. The audio files for testing has the format 
-16k-emission_swahili_TThTT_-_TThTT_tu_YYYYMMDD_part001Q, where T is the time, Y is the year, M is the month and D is the day of recording. The 
+ID_16k-emission_swahili_TThTT_-_TThTT_tu_YYYYMMDD_part001Q, where ID is the audio id, T is the time, Y is the year, M is the month and D is the day of recording. The 
 last character Q indicate the quality of the utterance. g is good, m is utterance with background music, n is utterance with noise, s is utterance
 with overlap speech, l is very noise utterance. Note: The path of wav files in wav.scp have to be modified to point to the actual locatiion. 
 
@@ -73,15 +73,16 @@ Description: lexicon contains words and their respective pronunciation, non-spee
 ### SCRIPTS
 in /kaldi-scripts you find the scripts used to train and test models
 (path has to be changed to make it work in your own directory!)
-from the existing data and lang directory you can directly start run the sequence : 04_train_mono.sh + 04a_train_triphone.sh + 04b_train_MLLT_LDA.sh + 04c_train_SAT_FMLLR.sh + 04e_train_sgmm.sh
+from the existing data and lang directory you can directly start run the sequence : 04_train_mono.sh + 04a_train_triphone.sh + 04b_train_MLLT_LDA.sh + 04c_train_SAT_FMLLR.sh + 04d_train_MMI_FMMI.sh + 04e_train_sgmm.sh
 
 ### WER RESULTS OBTAINED SO FAR (you should obtain the same on this data if same protocol used)
-Monophone (13 MFCC): 48.9% (All), 38.5 (Good)
-Triphone (13 MFCC): 33.4% (All), 23.2% (Good)
-Triphone (13 MFCC + delta + delta2): 33.2% (All), 24.4% (Good)
-Triphone (39 features) + LDA and MLLT: 31.7% (All), 22.3% (Good)
-Triphone (39 features) + LDA and MLLT + SAT and FMLLR: 31.1 % (All), 22.4% (Good)
-Triphone (39 features) + LDA and MLLT + SGMM: 29.3% (All), 20.7% (Good)
+Monophone (13 MFCC): 49.28% (All), 38.5 (Good)
+Triphone (13 MFCC): 33.55% (All), 23.2% (Good)
+Triphone (13 MFCC + delta + delta2): 33.61% (All), 24.4% (Good)
+Triphone (39 features) + LDA and MLLT: 31.92% (All), 22.3% (Good)
+Triphone (39 features) + LDA and MLLT + SAT and FMLLR: 31.56% (All), 22.4% (Good)
+Triphone (39 features) + LDA and MLLT + SAT and FMLLR + MMI and fMMI: 30.87% (All)
+Triphone (39 features) + LDA and MLLT + SGMM: 27.36% (All), 20.7% (Good)
 
 
 
