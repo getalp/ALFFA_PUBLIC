@@ -24,9 +24,10 @@ Files: text (test transcription), wav.scp (file id and path), utt2spk (file id a
 Description: testing data in Kaldi format about 2 hours. The audio files for testing has the format 
 
 ### Amharic TEXT CORPUS
-Directory: /LM/
-Files: amharic.train.lm.data.arpa
-A language model created using SRILM using 3-grams ; the text is segmented in morphemes using morfessor 2.0 [2][3] 
+Directory: /lm
+Files: amharic_lm_PART1.zip, amharic_lm_PART2.zip
+Those files have to be unzipped and reassembled in one file to constitute the original language model "amharic.train.lm.data.arpa".
+This language model is created using SRILM using 3-grams ; the text is segmented in morphemes using morfessor 2.0 [2][3] 
 
 ### LEXICON/PRONUNCIATION DICTIONARY
 Directory: /lang
