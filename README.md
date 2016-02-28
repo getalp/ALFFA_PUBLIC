@@ -1,14 +1,15 @@
 ALFFA_PUBLIC
 ============
 
-(prepared by Laurent Besacier and Elodie Gauthier - Laurent.Besacier@imag.fr - Elodie Gauthier@imag.fr) 
+(prepared by Laurent Besacier and Elodie Gauthier - Laurent.Besacier@imag.fr - Elodie.Gauthier@imag.fr) 
 
 This repository is a result of the ALFFA project
 http://alffa.imag.fr
 
 We distribute READY-to-use (or READY-to-train) KALDI ASR systems and (when possible) associated corpora....
 
-A summary of these resources and ASR performacnes, as well as the project will be published soon in the following paper:
+A summary of these resources and ASR performances, as well as a description of the ALFFA project will be published soon in the following paper:
+
 Collecting Resources in Sub-Saharan African Languages for Automatic Speech Recognition: a Case Study of Wolof. Elodie Gauthier, Laurent Besacier, Sylvie Voisin, Michael Melese and Uriel Pascal Elingui. To appear at LREC 2016
 
 So far, the ASR directory contains Kaldi recipes for 3 languages : Amharic, Swahili and Hausa (Wolof will follow soon, stay tuned !).
@@ -34,6 +35,8 @@ In ASR/HAUSA/ you will find kaldi recipes but YOU NEED TO BUY THE RESOURCES AT E
  performance results that you should be able to reproduce
 
 ===============SWAHILI====================================================
+
+(this swahili ASR system is now available by default in the KALDI trunk when you install Kaldi on your machines)
 
 In ASR/SWAHILI/ you will find kaldi recipes + ressources - see README file for more details and ASR
  performance results that you should be able to reproduce - please cite this paper if you publish w
