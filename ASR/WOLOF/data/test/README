@@ -8,3 +8,4 @@ text: original transcript file formatting for Kaldi use
 test.ref: original transcript file formatting for Sclite use (scoring)
 test-checked_and_good.trs: cleaned transcript file formatting for sclite use (scoring)
 test-checked_and_good.ref: cleaned transcript file
+metadata_test.txt: some infos about the testing set
