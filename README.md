@@ -12,7 +12,7 @@ A summary of these resources and ASR performances, as well as a description of t
 
 Collecting Resources in Sub-Saharan African Languages for Automatic Speech Recognition: a Case Study of Wolof. Elodie Gauthier, Laurent Besacier, Sylvie Voisin, Michael Melese and Uriel Pascal Elingui. To appear at LREC 2016
 
-So far, the ASR directory contains Kaldi recipes for 3 languages : Amharic, Swahili and Hausa (Wolof will follow soon, stay tuned !).
+So far, the ASR directory contains Kaldi recipes for 4 languages : Amharic, Swahili, Hausa and Wolof. 
 
 ================AMHARIC=======================================
 
@@ -29,7 +29,6 @@ In ASR/AMHARIC/ you will find kaldi recipes + ressources - see README file for m
         Year = {2014}}
 
 ===============HAUSA==================================================
-
 
 In ASR/HAUSA/ you will find kaldi recipes but YOU NEED TO BUY THE RESOURCES AT ELDA - see README file for more details and ASR
  performance results that you should be able to reproduce
@@ -53,8 +52,18 @@ ork using theses resources
   url = {http://hal.inria.fr/hal-00954048},
 }
 
+===============WOLOF====================================================
 
-=============================================================================
+In ASR/WOLOF/ you will find kaldi recipes + ressources - see README file for more details and ASR performance results that you should be able to reproduce - please cite this paper if you publish work using theses resources
+
+  @article{gauthier2016collect,
+        Author = {Gauthier, Elodie and Besacier, Laurent and Voisin, Sylvie and Melese, Michael and Elingui, Uriel Pascal},
+        Journal = {LREC},
+        Title = {Collecting Resources in Sub-Saharan African Languages for Automatic Speech Recognition: a Case Study of Wolof},
+        Year = {2016}
+  }
+
+t============================================================================
 
 
 In the CORPUS.old directory, you can find the corpus collected for Swahili but this directory is obsolete since you can find everything in each ASR sub-directory
