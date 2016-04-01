@@ -63,7 +63,7 @@ In ASR/WOLOF/ you will find kaldi recipes + ressources - see README file for mor
         Year = {2016}
   }
 
-t============================================================================
+============================================================================
 
 
 In the CORPUS.old directory, you can find the corpus collected for Swahili but this directory is obsolete since you can find everything in each ASR sub-directory
