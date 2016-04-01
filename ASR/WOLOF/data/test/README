@@ -1,0 +1,10 @@
+### Description of the file list
+
+## Directory: test/
+05: directory containing the wave files of the speaker 05
+10: directory containing the wave files of the speaker 10
+test.trs: original transcript file
+text: original transcript file formatting for Kaldi use
+test.ref: original transcript file formatting for Sclite use (scoring)
+test-checked_and_good.trs: cleaned transcript file formatting for sclite use (scoring)
+test-checked_and_good.ref: cleaned transcript file
