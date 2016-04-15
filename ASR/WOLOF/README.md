@@ -1,22 +1,21 @@
 ## Wolof Data collected by Elodie Gauthier & Pascal Uriel Elingui 
 ## Prepared by Elodie Gauthier & Laurent Besacier
-### GETALP LIG, Grenoble, France & Voxygen SAS, Dakar, Sénégal
-
+### GETALP LIG, Grenoble, France & Voxygen SAS, Dakar, Sénégal     
 
 #### OVERVIEW
-The package contains Wolof speech corpus with audio data in the directory /data. The data directory contains 3 subdirectories:
-a. train - speech data and transcription for training automatic speech recognition system (Kaldi ASR format [1])
-b. dev - speech data and transcription to evaluate the ASR system (Kaldi ASR format)
-c. test - speech data and transcription for testing the ASR system (Kaldi ASR format)
+The package contains Wolof speech corpus with audio data in the directory /data. The data directory contains 3 subdirectories:    
+1. **train** - speech data and transcription for training automatic speech recognition system (Kaldi ASR format [1])    
+2. **dev** - speech data and transcription to evaluate the ASR system (Kaldi ASR format)    
+3. **test** - speech data and transcription for testing the ASR system (Kaldi ASR format)    
 
-LM/ directory contains 2 text corpus and the language model.
+*LM/* directory contains 2 text corpus and the language model.
 
-The package contains also 2 lang/ directories to build whether an ASR system without vowel length contrast modelling whether with vowel length contrast modelling.
-a. lang_o3g_NoLengthContrast - contains the lexicon without vowel length tag
-b. lang_o3g_LengthContrast  - contains the lexicon with the vowel length tag
+The package contains also 2 lang/ directories to build whether an ASR system without vowel length contrast modelling whether with vowel length contrast modelling.    
+1. **lang_o3g_NoLengthContrast** - contains the lexicon without vowel length tag
+2. **lang_o3g_LengthContrast**  - contains the lexicon with the vowel length tag
 
 #### PUBLICATION ON WOLOF SPEECH & LM DATA
-More details on the corpus and how it was collected can be found on the following publication (please cite this bibtex if you use this data)
+More details on the corpus and how it was collected can be found on the following publication (please cite this bibtex if you use this data).    
 
   @article{gauthier2016collect,
 	Author = {Gauthier, Elodie and Besacier, Laurent and Voisin, Sylvie and Melese, Michael and Elingui, Uriel Pascal},
@@ -26,13 +25,12 @@ More details on the corpus and how it was collected can be found on the followin
 
 
 ### SCRIPTS
-a. In kaldi-scripts/ you will find the scripts used to train and test models
+1. In kaldi-scripts/ you will find the scripts used to train and test models
 (PATH variable has to be changed to make it work in your own directory!)
-from the existing data and lang directory you can directly start run the sequence : 04_train_mono.sh + 04a_train_triphone.sh + 04b_train_MLLT_LDA.sh + 04c_train_SAT_FMLLR.sh + 04d_train_MMI_FMMI.sh + 04e_train_sgmm.sh + 05_train_dnn.sh
-ASR system WITHOUT vowel length contrast has been taking as example in the scripts.
-For more information about the format, please refer to Kaldi website http://kaldi.sourceforge.net/data_prep.html
-
-b. In useful_scripts/ you will find some scripts you can use if you desire calculate the CER of your ASR system or calculate the WER/CER on the cleaned data only, etc.
+from the existing data and lang directory you can directly start run the sequence : 04\_train\_mono.sh + 04a\_train\_triphone.sh + 04b\_train\_MLLT\_LDA.sh + 04c\_train\_SAT\_FMLLR.sh + 04d\_train\_MMI\_FMMI.sh + 04e\_train_sgmm.sh + 05\_train\_dnn.sh    
+ASR system WITHOUT vowel length contrast has been taking as example in the scripts.    
+For more information about the format, please refer to Kaldi website http://kaldi.sourceforge.net/data_prep.html    
+2. In useful_scripts/ you will find some scripts you can use if you desire calculate the CER of your ASR system or calculate the WER/CER on the cleaned data only, etc.    
 
 ### WER RESULTS OBTAINED SO FAR 
 ##### (you should obtain the same on these data if same protocol used)
