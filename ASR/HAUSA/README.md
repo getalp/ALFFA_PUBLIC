@@ -3,6 +3,8 @@
 ## Prepared by Elodie Gauthier & Laurent Besacier
 ### GETALP LIG, Grenoble, France
 
+
+
 #### IMPORTANT FOREWORD
 ------------------------------------------------------------------------------------
 To be able to train/test this hausa ASR system, you need to buy the necessary corpora available on ELDA catalog
