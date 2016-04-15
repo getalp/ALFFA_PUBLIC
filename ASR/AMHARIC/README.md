@@ -1,12 +1,11 @@
-### 
-# Amharic speech data Acquired from Solomon T. and Martha Y.
-# Prepared by 
-# Michael Melese (Addis Ababa University, Ethiopia)
-# Laurent Besacier, ELodie Gauthier (GETALP LIG, Grenoble, France)
-# Million Meshesha (Addis Ababa University, Ethiopia)
-###
+## Amharic speech data Acquired from Solomon T. and Martha Y.
+## Prepared by 
+### Michael Melese (Addis Ababa University, Ethiopia)
+### Laurent Besacier, ELodie Gauthier (GETALP LIG, Grenoble, France)
+### Million Meshesha (Addis Ababa University, Ethiopia)
 
-### OVERVIEW
+
+#### OVERVIEW
 The package contains Amharic speech corpus with audio data in the directory /data. The data directory contains 2 subdirectories:
 a. train - speech data and transription for training automatic speech recognition Kaldi ASR format [1]
 b. test - speech data and transription for testing automatic speech recognition Kaldi ASR format
@@ -150,7 +149,7 @@ If you use this data, please cite the following paper for the ressources
 as well as the following repository for the ASR system: https://github.com/besacier/ALFFA_PUBLIC/tree/master/ASR
 
 
-### REFERENCES
+#### REFERENCES
 [1] KALDI: http://kaldi.sourceforge.net/tutorial_running.html
 [2] SRILM: http://www.speech.sri.com/projects/srilm/ 
 [3] Mathias Creutz and Krista Lagus. Unsupervised discovery of morphemes. In Proceedings of the Workshop on Morphological and Phonological Learning of ACL-02, pages 21-30, Philadelphia, Pennsylvania, 11 July, 2002.
