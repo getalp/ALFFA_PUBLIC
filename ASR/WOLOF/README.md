@@ -37,7 +37,7 @@ b. In useful_scripts/ you will find some scripts you can use if you desire calcu
 ### WER RESULTS OBTAINED SO FAR 
 ##### (you should obtain the same on these data if same protocol used)
 
-###### + WITHOUT vowel length duration modelling
+###### +++ WITHOUT vowel length duration modelling +++
 
 ##### dev set
 Acoustic models        | WER score *(%)* on **Initial** set  | WER score *(%)* on **Cleaned** set      |
@@ -57,7 +57,7 @@ Triphone *(39 features)* + LDA and MLLT + SGMM + MMI  |     33.6      |        2
 DNNs                   |                35.7                 |                                          |
 DNNs + sMBR            |                33.6                 |                 `24.9`                   |
 
-###### + WITH vowel length duration modelling (only /a/, /e/, /E/, /o/, and /O/)
+###### +++ WITH vowel length duration modelling (only /a/, /e/, /E/, /o/, and /O/) +++
 
 ##### dev set
 Acoustic models        | WER score *(%)* on **Initial** set  | WER score *(%)* on **Cleaned** set       |
