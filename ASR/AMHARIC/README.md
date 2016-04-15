@@ -46,90 +46,147 @@ in /kaldi-scripts you find the scripts used to train and test models
 ### THE FOLLOWING RESULTS OBTAINED SO FAR (you should obtain the same result on this data if same protocol used)
 
 ######## MER stands for Morpheme Error Rate
+
 ######## SER stands for Sentence Error Rate
+
 ######## CER stands for Character Error Rate per utterance [4]
-Monophone (13 MFCC)
+
+##### Monophone (13 MFCC)
+
 ---- %MER 19.89 [ 1234 / 6203, 91 ins, 362 del, 781 sub ]
+
 ---- %SER 80.78 [ 290 / 359 ]
+
 ---- %CER 15.02
 
-Triphone (13 MFCC)
+##### Triphone (13 MFCC)
 
 ---- %MER 10.83 [ 672 / 6203, 71 ins, 156 del, 445 sub ]
+
 ---- %SER 62.12 [ 223 / 359 ]
+
 ---- %CER 6.94
 
-Triphone (13 MFCC + delta + delta2)
+##### Triphone (13 MFCC + delta + delta2)
 
 ---- %WER 9.62 [ 597 / 6203, 94 ins, 106 del, 397 sub ]
+
 ---- %SER 60.45 [ 217 / 359 ]
+
 ---- %CER 6.46
 
-Triphone (39 features) with LDA+MLLT
+##### Triphone (39 features) with LDA+MLLT
 
 ---- %WER 8.61 [ 534 / 6203, 76 ins, 101 del, 357 sub ]
+
 ---- %SER 56.27 [ 202 / 359 ]
+
 ---- %CER 5.34
 
-Triphone (39 features) SAT+FMLLR
+##### Triphone (39 features) SAT+FMLLR
 
 ---- %WER 9.24 [ 573 / 6203, 86 ins, 109 del, 378 sub ]
+
 ---- %SER 59.89 [ 215 / 359 ]
+
 ---- %CER 6.27
 
-Triphone (39 features) MMI
+##### Triphone (39 features) MMI
 ---- %MER 10.83 [ 672 / 6203, 85 ins, 157 del, 430 sub ]
+
 ---- %SER 64.07 [ 230 / 359 ]
+
 ---- %CER 7.66
 
-Triphone (39 features) fMMI + mmi with indirect differential
+##### Triphone (39 features) fMMI + mmi with indirect differential
 
 Iteration 3
 ---- %MER 10.56 [ 655 / 6203, 80 ins, 154 del, 421 sub ]
+
 ---- %SER 64.62 [ 232 / 359 ]
+
 ---- %CER 7.13
+
 Iteration 4
 ---- %MER 10.59 [ 657 / 6203, 75 ins, 162 del, 420 sub ]
+
+
 ---- %SER 64.90 [ 233 / 359 ]
+
 ---- %CER 7.31
+
 Iteration 5
+
 ---- %MER 10.37 [ 643 / 6203, 81 ins, 145 del, 417 sub ]
+
 ---- %SER 63.51 [ 228 / 359 ]
+
 ---- %CER 7.07
+
 Iteration 6
+
 ---- %MER 10.45 [ 648 / 6203, 83 ins, 147 del, 418 sub ]
+
 ---- %SER 64.07 [ 230 / 359 ]
+
 ---- %CER 7.21
+
 Iteration 7
+
 ---- %MER 10.35 [ 642 / 6203, 79 ins, 147 del, 416 sub ]
+
 ---- %SER 64.62 [ 232 / 359 ]
+
 ---- %CER 7.05
+
 Iteration 8
+
 ---- %MER 10.43 [ 647 / 6203, 79 ins, 155 del, 413 sub ]
+
 ---- %SER 64.62 [ 232 / 359 ]
+
 ---- %CER 7.34
 
 Triphone (39 features) SGMM
+
 ---- %MER 8.75 [ 543 / 6203, 52 ins, 134 del, 357 sub ]
+
 ---- %SER 57.10 [ 205 / 359 ]
+
 ---- %CER 5.50
 
 Triphone (39 features) SGMM+MMI
+
 Iteration 1
+
 ---- %MER 8.59 [ 533 / 6203, 46 ins, 131 del, 356 sub ]
+
 ---- %SER 55.71 [ 200 / 359 ]
+
 ---- %CER 5.47
+
 Iteration 2
+
 ---- %MER 8.48 [ 526 / 6203, 51 ins, 122 del, 353 sub ]
+
 ---- %SER 54.60 [ 196 / 359 ]
+
 ---- %CER 5.38
+
 Iteration 3
+
 ---- %MER 8.43 [ 523 / 6203, 51 ins, 125 del, 347 sub ]
+
 ---- %SER 55.15 [ 198 / 359 ]
+
 ---- %CER 5.45
+
 Iteration 4
+
 ---- %MER 8.59 [ 533 / 6203, 51 ins, 130 del, 352 sub ]
+
 ---- %SER 55.99 [ 201 / 359 ]
+
 ---- %CER 5.57
 
 
