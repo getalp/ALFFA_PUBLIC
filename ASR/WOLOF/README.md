@@ -1,11 +1,9 @@
-### 
-# Wolof Data collected by Elodie Gauthier & Pascal Uriel Elingui 
-# Prepared by Elodie Gauthier & Laurent Besacier
-# GETALP LIG, Grenoble, France & Voxygen SAS, Dakar, Sénégal
-###
+## Wolof Data collected by Elodie Gauthier & Pascal Uriel Elingui 
+## Prepared by Elodie Gauthier & Laurent Besacier
+### GETALP LIG, Grenoble, France & Voxygen SAS, Dakar, Sénégal
 
 
-### OVERVIEW
+#### OVERVIEW
 The package contains Wolof speech corpus with audio data in the directory /data. The data directory contains 3 subdirectories:
 a. train - speech data and transcription for training automatic speech recognition system (Kaldi ASR format [1])
 b. dev - speech data and transcription to evaluate the ASR system (Kaldi ASR format)
@@ -17,7 +15,7 @@ The package contains also 2 lang/ directories to build whether an ASR system wit
 a. lang_o3g_NoLengthContrast - contains the lexicon without vowel length tag
 b. lang_o3g_LengthContrast  - contains the lexicon with the vowel length tag
 
-### PUBLICATION ON WOLOF SPEECH & LM DATA
+#### PUBLICATION ON WOLOF SPEECH & LM DATA
 More details on the corpus and how it was collected can be found on the following publication (please cite this bibtex if you use this data)
 
   @article{gauthier2016collect,
@@ -38,30 +36,30 @@ b. In useful_scripts/ you will find some scripts you can use if you desire calcu
 
 ### WER RESULTS OBTAINED SO FAR (you should obtain the same on these data if same protocol used)
 
-## WITHOUT vowel length duration modelling
-#dev set
+#### WITHOUT vowel length duration modelling
+##### dev set
 Monophone (13 MFCC): 58.3% (Initial)
 Triphone (13 MFCC): 31.7% (Initial), 25.2% (Cleaned)
 Triphone (39 features) + LDA and MLLT + SGMM + MMI: 28.56% (Initial), 22.0% (Cleaned)
 DNNs: 28.6% (Initial)
 DNNs + sMBR: 27.21% (Initial), 20.5% (Cleaned)
 
-#test set
+##### test set
 Monophone (13 MFCC): 64.0% (Initial)
 Triphone (13 MFCC): 36.0% (Initial), 27.6% (Cleaned)
 Triphone (39 features) + LDA and MLLT + SGMM + MMI: 33.6% (Initial), 25.1% (Cleaned)
 DNNs: 35.7% (Initial)
 DNNs + sMBR: 33.6% (Initial), 24.9% (Cleaned)
 
-## WITH vowel length duration modelling (only /a/, /e/, /E/, /o/, and /O/)
-#dev set
+#### WITH vowel length duration modelling (only /a/, /e/, /E/, /o/, and /O/)
+##### dev set
 Monophone (13 MFCC): 57.7% (Initial)
 Triphone (13 MFCC): 31.6% (Initial)
 Triphone (39 features) + LDA and MLLT + SGMM + MMI: % (Initial) 
 DNNs: 27.8% (Initial)
 DNNs + sMBR: 26.4% (Initial), 20.0% (Cleaned)
 
-#test set
+##### test set
 Monophone (13 MFCC): 63.0% (Initial), % (Cleaned)
 Triphone (13 MFCC): 36.2% (Initial), % (Cleaned)
 Triphone (39 features) + LDA and MLLT + SGMM + MMI: % (Initial), % (Cleaned)
@@ -69,5 +67,5 @@ DNNs: 34.0% (Initial)cd ex
 DNNs + sMBR: 32.3% (Initial), 24.5% (Cleaned)
 
 
-### REFERENCES
+#### REFERENCES
 [1] KALDI: http://kaldi.sourceforge.net/tutorial_running.html
