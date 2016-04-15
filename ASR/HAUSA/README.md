@@ -1,10 +1,10 @@
 ### 
-# Hausa Data collected by Tim Schlippe and al.
-# Prepared by Elodie Gauthier & Laurent Besacier
-# GETALP LIG, Grenoble, France
+## Hausa Data collected by Tim Schlippe and al.
+## Prepared by Elodie Gauthier & Laurent Besacier
+## GETALP LIG, Grenoble, France
 ###
 
-### IMPORTANT FOREWORD
+#### IMPORTANT FOREWORD
 
 To be able to train/test this hausa ASR system, you need to buy the necessary corpora available on ELDA catalog
 -Corpus GlobalPhone Hausa :  http://catalog.elra.info/product_info.php?products_id=1177 
@@ -15,7 +15,7 @@ To be able to train/test this hausa ASR system, you need to buy the necessary co
 
 -Once acquired, the wav files must be copied in data/(train,dev,test)/wav directories following the protocol/organization mentionned in data/(train,dev,test)/utt2spk ; the prononciation dictionary must be copied in lang/lexicon.txt. You can have a preview of the pronunciation dictionary in the lang/ directory.
 
-### OVERVIEW
+#### OVERVIEW
 The package contains hausa speech corpus with audio data in the directory data/. The data directory contains 3 subdirectories:
 a. train/ - speech data and transription for training automatic speech recognition system (Kaldi ASR format [1])
 b. dev/ - speech data and transcription for testing automatic speech recognition system (Kaldi ASR format) 
@@ -23,7 +23,7 @@ c. test/ - speech data and transription for evaluating automatic speech recognit
 
 A text corpus and language model in the directory LM/, a sample of the lexicon in the directory lang/, some scripts you need to run before started anything in formatting_scripts/ and the Kaldi scripts in kaldi-scripts/ 
  
-### PUBLICATION ON HAUSA SPEECH & LM DATA
+#### PUBLICATION ON HAUSA SPEECH & LM DATA
 More details on the corpus and how it was collected can be found on the following publication (please cite this bibtex if you use this data)
 
  @InProceedings { schlippe:hausa,
