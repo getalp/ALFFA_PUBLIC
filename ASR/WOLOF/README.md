@@ -34,9 +34,10 @@ For more information about the format, please refer to Kaldi website http://kald
 
 b. In useful_scripts/ you will find some scripts you can use if you desire calculate the CER of your ASR system or calculate the WER/CER on the cleaned data only, etc.
 
-### WER RESULTS OBTAINED SO FAR (you should obtain the same on these data if same protocol used)
+### WER RESULTS OBTAINED SO FAR 
+##### (you should obtain the same on these data if same protocol used)
 
-#### WITHOUT vowel length duration modelling
++ WITHOUT vowel length duration modelling
 ##### dev set
 Monophone (13 MFCC): 58.3% (Initial)
 Triphone (13 MFCC): 31.7% (Initial), 25.2% (Cleaned)
@@ -51,7 +52,7 @@ Triphone (39 features) + LDA and MLLT + SGMM + MMI: 33.6% (Initial), 25.1% (Clea
 DNNs: 35.7% (Initial)
 DNNs + sMBR: 33.6% (Initial), 24.9% (Cleaned)
 
-#### WITH vowel length duration modelling (only /a/, /e/, /E/, /o/, and /O/)
++ WITH vowel length duration modelling (only /a/, /e/, /E/, /o/, and /O/)
 ##### dev set
 Monophone (13 MFCC): 57.7% (Initial)
 Triphone (13 MFCC): 31.6% (Initial)
