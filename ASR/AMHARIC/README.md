@@ -92,6 +92,7 @@ in /kaldi-scripts you find the scripts used to train and test models
 ---- %CER 6.27
 
 ##### Triphone (39 features) MMI
+
 ---- %MER 10.83 [ 672 / 6203, 85 ins, 157 del, 430 sub ]
 
 ---- %SER 64.07 [ 230 / 359 ]
@@ -101,6 +102,7 @@ in /kaldi-scripts you find the scripts used to train and test models
 ##### Triphone (39 features) fMMI + mmi with indirect differential
 
 Iteration 3
+
 ---- %MER 10.56 [ 655 / 6203, 80 ins, 154 del, 421 sub ]
 
 ---- %SER 64.62 [ 232 / 359 ]
@@ -108,6 +110,7 @@ Iteration 3
 ---- %CER 7.13
 
 Iteration 4
+
 ---- %MER 10.59 [ 657 / 6203, 75 ins, 162 del, 420 sub ]
 
 
@@ -190,8 +193,8 @@ Iteration 4
 ---- %CER 5.57
 
 
-====IMPORTANT=========
-If you use this data, please cite the following paper for the ressources
+#### IMPORTANT
+#####If you use this data, please cite the following paper for the ressources
 
 @article{tachbelie2014,
 	Author = {Martha Tachbelie and Solomon Teferra Abate and Laurent Besacier},
