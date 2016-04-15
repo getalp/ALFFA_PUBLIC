@@ -11,7 +11,7 @@ The package contains Wolof speech corpus with audio data in the directory /data.
 *LM/* directory contains 2 text corpus and the language model.
 
 The package contains also 2 lang/ directories to build whether an ASR system without vowel length contrast modelling whether with vowel length contrast modelling.    
-1. **lang_o3g_NoLengthContrast** - contains the lexicon without vowel length tag
+1. **lang_o3g_NoLengthContrast** - contains the lexicon without vowel length tag    
 2. **lang_o3g_LengthContrast**  - contains the lexicon with the vowel length tag
 
 #### PUBLICATION ON WOLOF SPEECH & LM DATA
