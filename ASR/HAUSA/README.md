@@ -103,18 +103,22 @@ At this end of each Kaldi scripts, you obtain some WER score, but no alignment r
 ####(you should obtain the same on this data if same protocol used)
 ------------------------------------------------------------------------------------
 ##### These results were obtained from the Kaldi's version of June 2014
-Monophone (13 MFCC): 24.38% 
-Triphone (13 MFCC): 16.75%
-Triphone (13 MFCC + delta + delta2): 16.99%
-Triphone (39 features) + LDA and MLLT: 16.46% 
-Triphone (39 features) + LDA and MLLT + SAT and FMLLR: 13.25%
-Triphone (39 features) + LDA and MLLT + SAT and FMLLR + MMI: 11.89%
-Triphone (39 features) + LDA and MLLT + SGMM: 10.04%
-Triphone (39 features) + LDA and MLLT + SGMM + MMI: 9.93%
 
+Acoustic models        | WER score *(%)* on **Initial** set   |
+:--------------------- |:------------------------------------:| 
+Monophone *(13 MFCC)*  |                24.38                 |
+Triphone *(13 MFCC)*   |                16.75                 |
+Triphone *(13 MFCC + delta + delta2)* | 16.99                 |
+Triphone *(39 features)* + LDA and MLLT | 16.46               |
+Triphone *(39 features)* + LDA and MLLT + SAT and FMLLR | 13.25 |
+Triphone (39 features) + LDA and MLLT + SAT and FMLLR + MMI | 11.89 |
+Triphone (39 features) + LDA and MLLT + SGMM | 10.04          |
+Triphone *(39 features)* + LDA and MLLT + SGMM + MMI |  `9.93` |
 
 #### REFERENCES
 ------------------------------------------------------------------------------------
 [1] KALDI: http://kaldi.sourceforge.net/tutorial_running.html
+
 [2] SRILM: http://www.speech.sri.com/projects/srilm/
+
 [3] Sclite: http://www1.icsi.berkeley.edu/Speech/docs/sctk-1.2/sclite.htm
