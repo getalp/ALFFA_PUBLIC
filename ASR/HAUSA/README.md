@@ -1,7 +1,7 @@
 ### 
 ## Hausa Data collected by Tim Schlippe and al.
-Prepared by Elodie Gauthier & Laurent Besacier
-GETALP LIG, Grenoble, France
+## Prepared by Elodie Gauthier & Laurent Besacier
+### GETALP LIG, Grenoble, France
 ###
 
 #### IMPORTANT FOREWORD
