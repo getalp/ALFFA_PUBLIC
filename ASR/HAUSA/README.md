@@ -60,28 +60,28 @@ Note: The path of wav files in wav.scp have to be modified to point to the actua
 Note : The audio corpus you have acquired is in a raw format .adc . For Kaldi scripts work, you need .wav format. To convert those files, you have to run the python script adc2wav.py which is in formatting_data/ directory. Once converted, the  audio files are classified by speaker's id with one directory for each (e.g.: "OO1", "002", "003", ...). In this speaker directory, you will find one .wav file corresponding to one utterance in the transcription file (i.e.: "text"). The format of the .wav file is "HA{speaker id}_{utterance id}.wav" (e.g.: "HA001_1.wav" "HA098_17.wav", etc.). You have to put adc2wav.py script in the same directory as adc/ but outside (e.g.: path of adc: audio_data/adc/*   ;   path of adc2wav.py script: audio_data/adc2wav.py) 
 
 
-##### HAUSA TEXT CORPUS
+### HAUSA TEXT CORPUS
 Directory: /LM
 Files: HAU.3gram_Tolower.arpa, textTrain.trs, hausa.arpa, hausa.vocab
 
-###### /HAU.3gram_Tolower.arpa
+##### /HAU.3gram_Tolower.arpa
 Contains 41k words. Transcribed speech data from GlobalPhone corpus and converted into lower case. The original language model can be found on http://csl.ira.uka.de/GlobalPhone/
-###### /textTrain.trs
+##### /textTrain.trs
 Transcriptions of the training data corpus for LM
-###### /hausa.arpa
+##### /hausa.arpa
 A language model created using SRILM [2] using the text from textTrain.trs 
-###### /hausa.vocab
+##### /hausa.vocab
 Words used in hausa.arpa language model 
 
 
-##### LEXICON/PRONUNCIATION DICTIONARY
+### LEXICON/PRONUNCIATION DICTIONARY
 Directory: lang/
 Files: small_lexicon.txt (lexicon sample), nonsilence_phones.txt (speech phones), optional_silence.txt (silence phone)
 Description: lexicon sample contains words and their respective pronunciation, non-speech sound and noise in Kaldi format. 
 Note: The lexicon no including tone and vowel length information.
 
 
-##### SCRIPTS
+### SCRIPTS
 In formatting_scripts/ you find scripts used to format the data acquired.
 a. GPDictHAscript.py python script formats the lexicon.txt 
 b. adc2wav.py python script formats the audio data. 
@@ -94,8 +94,8 @@ Note: You have to run the script 00_init_paths.sh before run any script (as from
 At this end of each Kaldi scripts, you obtain some WER score, but no alignment reference/hypothesis or global score. For this, you can run the script results-sclite-hausa.sh. However, to use this script you have to install the program sclite [3] and to change all path in the script they are appropriate for your data.
 
  
-##### WER RESULTS OBTAINED SO FAR (you should obtain the same on this data if same protocol used)
-###### These results were obtained from the Kaldi's version of June 2014
+### WER RESULTS OBTAINED SO FAR (you should obtain the same on this data if same protocol used)
+##### These results were obtained from the Kaldi's version of June 2014
 Monophone (13 MFCC): 24.38% 
 Triphone (13 MFCC): 16.75%
 Triphone (13 MFCC + delta + delta2): 16.99%
@@ -106,7 +106,7 @@ Triphone (39 features) + LDA and MLLT + SGMM: 10.04%
 Triphone (39 features) + LDA and MLLT + SGMM + MMI: 9.93%
 
 
-##### REFERENCES
+#### REFERENCES
 [1] KALDI: http://kaldi.sourceforge.net/tutorial_running.html
 [2] SRILM: http://www.speech.sri.com/projects/srilm/
 [3] Sclite: http://www1.icsi.berkeley.edu/Speech/docs/sctk-1.2/sclite.htm
