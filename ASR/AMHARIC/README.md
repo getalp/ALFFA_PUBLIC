@@ -150,7 +150,7 @@ Iteration 8
 
 ---- %CER 7.34
 
-Triphone (39 features) SGMM
+##### Triphone (39 features) SGMM
 
 ---- %MER 8.75 [ 543 / 6203, 52 ins, 134 del, 357 sub ]
 
@@ -158,7 +158,7 @@ Triphone (39 features) SGMM
 
 ---- %CER 5.50
 
-Triphone (39 features) SGMM+MMI
+##### Triphone (39 features) SGMM+MMI
 
 Iteration 1
 
