@@ -38,6 +38,7 @@ b. In useful_scripts/ you will find some scripts you can use if you desire calcu
 ##### (you should obtain the same on these data if same protocol used)
 
 + WITHOUT vowel length duration modelling
+
 ##### dev set
 Monophone (13 MFCC): 58.3% (Initial)
 Triphone (13 MFCC): 31.7% (Initial), 25.2% (Cleaned)
@@ -53,6 +54,7 @@ DNNs: 35.7% (Initial)
 DNNs + sMBR: 33.6% (Initial), 24.9% (Cleaned)
 
 + WITH vowel length duration modelling (only /a/, /e/, /E/, /o/, and /O/)
+
 ##### dev set
 Monophone (13 MFCC): 57.7% (Initial)
 Triphone (13 MFCC): 31.6% (Initial)
