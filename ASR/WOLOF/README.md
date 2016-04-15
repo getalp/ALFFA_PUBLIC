@@ -40,42 +40,42 @@ b. In useful_scripts/ you will find some scripts you can use if you desire calcu
 + WITHOUT vowel length duration modelling
 
 ##### dev set
-Acoustic models        | WER score *(%)* on **Initial** set  | WER score *(%)* on **Cleaned** set     |
-:--------------------- |:-----------------------------------:| :-------------------------------------:|
-Monophone *(13 MFCC)*  |                58.3                 |                                        |
-Triphone *(13 MFCC)*   |                31.7                 |                 25.2                   |
-Triphone *(39 features)* + LDA and MLLT + SGMM + MMI |     28.56      |        22.0                   |
-DNNs                   |                28.6                 |                                        |
-DNNs + sMBR            |                27.21                |                 20.5                   |
+Acoustic models        | WER score *(%)* on **Initial** set  | WER score *(%)* on **Cleaned** set      |
+:--------------------- |:-----------------------------------:| :--------------------------------------:|
+Monophone *(13 MFCC)*  |                58.3                 |                                         |
+Triphone *(13 MFCC)*   |                31.7                 |                 25.2                    |
+Triphone *(39 features)* + LDA and MLLT + SGMM + MMI |     28.56      |        22.0                    |
+DNNs                   |                28.6                 |                                         |
+DNNs + sMBR            |                27.21                |                `20.5`                   |
 
 ##### test set
-Acoustic models        | WER score *(%)* on **Initial** set  | WER score *(%)* on **Cleaned** set     |
-:--------------------- |:-----------------------------------:| :-------------------------------------:|
-Monophone *(13 MFCC)*  |                64.0                 |                                        |
-Triphone *(13 MFCC)*   |                36.0                 |                 27.6                   |
-Triphone *(39 features)* + LDA and MLLT + SGMM + MMI  |     33.6      |        25.1                   |
-DNNs                   |                35.7                 |                                        |
-DNNs + sMBR            |                33.6                 |                 24.9                   |
+Acoustic models        | WER score *(%)* on **Initial** set  | WER score *(%)* on **Cleaned** set       |
+:--------------------- |:-----------------------------------:| :---------------------------------------:|
+Monophone *(13 MFCC)*  |                64.0                 |                                          |
+Triphone *(13 MFCC)*   |                36.0                 |                 27.6                     |
+Triphone *(39 features)* + LDA and MLLT + SGMM + MMI  |     33.6      |        25.1                     |
+DNNs                   |                35.7                 |                                          |
+DNNs + sMBR            |                33.6                 |                 `24.9`                   |
 
 + WITH vowel length duration modelling (only /a/, /e/, /E/, /o/, and /O/)
 
 ##### dev set
-Acoustic models        | WER score *(%)* on **Initial** set  | WER score *(%)* on **Cleaned** set     |
-:--------------------- |:-----------------------------------:| :-------------------------------------:|
-Monophone *(13 MFCC)*  |                57.7                 |                                        |
-Triphone *(13 MFCC)*   |                31.6                 |                                        |
-Triphone *(39 features)* + LDA and MLLT + SGMM + MMI  |                      |                        |
-DNNs                   |                27.8                 |                                        |
-DNNs + sMBR            |                26.4                 |                 20.0                   |
+Acoustic models        | WER score *(%)* on **Initial** set  | WER score *(%)* on **Cleaned** set       |
+:--------------------- |:-----------------------------------:| :---------------------------------------:|
+Monophone *(13 MFCC)*  |                57.7                 |                                          |
+Triphone *(13 MFCC)*   |                31.6                 |                                          |
+Triphone *(39 features)* + LDA and MLLT + SGMM + MMI  |                      |                          |
+DNNs                   |                27.8                 |                                          |
+DNNs + sMBR            |                26.4                 |                 `20.0`                   |
 
 ##### test set
-Acoustic models        | WER score *(%)* on **Initial** set  | WER score *(%)* on **Cleaned** set     |
-:--------------------- |:-----------------------------------:| :-------------------------------------:|
-Monophone *(13 MFCC)*  |                63.0                 |                                        |
-Triphone *(13 MFCC)*   |                36.2                 |                                        |
-Triphone *(39 features)* + LDA and MLLT + SGMM + MMI  |                      |                        |
-DNNs                   |                34.0                 |                                        |
-DNNs + sMBR            |                32.3                 |                 24.5                   |
+Acoustic models        | WER score *(%)* on **Initial** set  | WER score *(%)* on **Cleaned** set       |
+:--------------------- |:-----------------------------------:| :---------------------------------------:|
+Monophone *(13 MFCC)*  |                63.0                 |                                          |
+Triphone *(13 MFCC)*   |                36.2                 |                                          |
+Triphone *(39 features)* + LDA and MLLT + SGMM + MMI  |                      |                          |
+DNNs                   |                34.0                 |                                          |
+DNNs + sMBR            |                32.3                 |                 `24.5`                   |
 
 
 #### REFERENCES
