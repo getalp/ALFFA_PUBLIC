@@ -63,6 +63,7 @@ Note : The audio corpus you have acquired is in a raw format .adc . For Kaldi sc
 
 
 ### HAUSA TEXT CORPUS
+------------------------------------------------------------------------------------
 Directory: /LM
 Files: HAU.3gram_Tolower.arpa, textTrain.trs, hausa.arpa, hausa.vocab
 
@@ -77,6 +78,7 @@ Words used in hausa.arpa language model
 
 
 ### LEXICON/PRONUNCIATION DICTIONARY
+------------------------------------------------------------------------------------
 Directory: lang/
 Files: small_lexicon.txt (lexicon sample), nonsilence_phones.txt (speech phones), optional_silence.txt (silence phone)
 Description: lexicon sample contains words and their respective pronunciation, non-speech sound and noise in Kaldi format. 
@@ -84,6 +86,7 @@ Note: The lexicon no including tone and vowel length information.
 
 
 ### SCRIPTS
+------------------------------------------------------------------------------------
 In formatting_scripts/ you find scripts used to format the data acquired.
 a. GPDictHAscript.py python script formats the lexicon.txt 
 b. adc2wav.py python script formats the audio data. 
@@ -96,7 +99,9 @@ Note: You have to run the script 00_init_paths.sh before run any script (as from
 At this end of each Kaldi scripts, you obtain some WER score, but no alignment reference/hypothesis or global score. For this, you can run the script results-sclite-hausa.sh. However, to use this script you have to install the program sclite [3] and to change all path in the script they are appropriate for your data.
 
  
-### WER RESULTS OBTAINED SO FAR (you should obtain the same on this data if same protocol used)
+### WER RESULTS OBTAINED SO FAR 
+####(you should obtain the same on this data if same protocol used)
+------------------------------------------------------------------------------------
 ##### These results were obtained from the Kaldi's version of June 2014
 Monophone (13 MFCC): 24.38% 
 Triphone (13 MFCC): 16.75%
@@ -109,6 +114,7 @@ Triphone (39 features) + LDA and MLLT + SGMM + MMI: 9.93%
 
 
 #### REFERENCES
+------------------------------------------------------------------------------------
 [1] KALDI: http://kaldi.sourceforge.net/tutorial_running.html
 [2] SRILM: http://www.speech.sri.com/projects/srilm/
 [3] Sclite: http://www1.icsi.berkeley.edu/Speech/docs/sctk-1.2/sclite.htm
