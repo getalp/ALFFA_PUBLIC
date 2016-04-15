@@ -35,9 +35,9 @@ For more information about the format, please refer to Kaldi website http://kald
 ### WER RESULTS OBTAINED SO FAR 
 ##### (you should obtain the same on these data if same protocol used)
 
-###### +++ WITHOUT vowel length duration modelling +++
+######           +++ WITHOUT vowel length duration modelling +++
 
-##### dev set
+ - dev set
 Acoustic models        | WER score *(%)* on **Initial** set  | WER score *(%)* on **Cleaned** set      |
 :--------------------- |:-----------------------------------:| :--------------------------------------:|
 Monophone *(13 MFCC)*  |                58.3                 |                                         |
@@ -46,7 +46,7 @@ Triphone *(39 features)* + LDA and MLLT + SGMM + MMI |     28.56      |        2
 DNNs                   |                28.6                 |                                         |
 DNNs + sMBR            |                27.21                |                `20.5`                   |
 
-##### test set
+ - test set
 Acoustic models        | WER score *(%)* on **Initial** set  | WER score *(%)* on **Cleaned** set       |
 :--------------------- |:-----------------------------------:| :---------------------------------------:|
 Monophone *(13 MFCC)*  |                64.0                 |                                          |
@@ -57,7 +57,7 @@ DNNs + sMBR            |                33.6                 |                 `
 
 ###### +++ WITH vowel length duration modelling (only /a/, /e/, /E/, /o/, and /O/) +++
 
-##### dev set
+ - dev set
 Acoustic models        | WER score *(%)* on **Initial** set  | WER score *(%)* on **Cleaned** set       |
 :--------------------- |:-----------------------------------:| :---------------------------------------:|
 Monophone *(13 MFCC)*  |                57.7                 |                                          |
@@ -66,7 +66,7 @@ Triphone *(39 features)* + LDA and MLLT + SGMM + MMI  |                      |  
 DNNs                   |                27.8                 |                                          |
 DNNs + sMBR            |                26.4                 |                 `20.0`                   |
 
-##### test set
+ - test set
 Acoustic models        | WER score *(%)* on **Initial** set  | WER score *(%)* on **Cleaned** set       |
 :--------------------- |:-----------------------------------:| :---------------------------------------:|
 Monophone *(13 MFCC)*  |                63.0                 |                                          |
