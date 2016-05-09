@@ -70,7 +70,7 @@ In this speaker directory, you will find one .wav file corresponding to one utte
 **Files:** HAU.3gram_Tolower.arpa, textTrain.trs, hausa.arpa, hausa.vocab    
 
   - **HAU.3gram_Tolower.arpa**    
-Contains 42k words. Transcribed speech data from GlobalPhone corpus and converted into lower case. The original language model can be found on http://csl.ira.uka.de/GlobalPhone/    
+Contains 8M words. Transcribed speech data from GlobalPhone corpus and converted into lower case. The original language model can be found on http://csl.ira.uka.de/GlobalPhone/    
   - **textTrain.trs**    
 Transcriptions of the training data corpus for LM    
   - **hausa.arpa**    
