@@ -43,9 +43,9 @@ Acoustic models        | WER score *(%)* on **Initial** set  | WER score *(%)* o
 :--------------------- |:-----------------------------------:| :--------------------------------------:|
 Monophone *(13 MFCC)*  |                58.3                 |                                         |
 Triphone *(13 MFCC)*   |                31.7                 |                 25.2                    |
-Triphone *(39 features)* + LDA and MLLT + SGMM + MMI |     28.56      |        22.0                    |
+Triphone *(39 features)* + LDA and MLLT + SGMM + MMI |     28.6       |        22.0                    |
 DNNs                   |                28.6                 |                                         |
-DNNs + sMBR            |                27.21                |                `20.5`                   |
+DNNs + sMBR            |                27.2                 |                `20.5`                   |
 
  - test set     
  
