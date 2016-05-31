@@ -15,7 +15,7 @@ A text corpus and language model in the directory /LM, and lexicon in the direct
 ### Amharic SPEECH CORPUS
 Directory: /data/train
 Files: text (training transcription), wav.scp (file id and path), utt2spk (file id and audio id), spk2utt (audio id and file id), wav (.wav files). 
-For more information about the format, please refer to Kaldi website http://kaldi.sourceforge.net/data_prep.html
+For more information about the format, please refer to Kaldi website http://kaldi-asr.org/doc/data_prep.html
 Description: training data in Kaldi format about 20 hours. Note: The path of wav files in wav.scp have to be modified to point to the actual locatiion.  
 
 Directory: /data/test
