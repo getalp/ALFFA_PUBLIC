@@ -16,14 +16,22 @@ The package contains also 2 *lang/* directories to build whether an ASR system w
 
 #### PUBLICATION ON WOLOF SPEECH & LM DATA
 More details on the corpus and how it was collected can be found on the following publication (please cite this bibtex if you use this data).    
-
-  @article{gauthier2016collect,
-	Author = {Gauthier, Elodie and Besacier, Laurent and Voisin, Sylvie and Melese, Michael and Elingui, Uriel Pascal},
-	Journal = {LREC},
-	Title = {Collecting Resources in Sub-Saharan African Languages for Automatic Speech Recognition: a Case Study of Wolof},
-	Year = {2016}}
-
-
+  @inproceedings{gauthier2016collecting,
+  	title={Collecting resources in sub-saharan african languages for automatic speech recognition: a case study of wolof},
+  	author={Gauthier, Elodie and Besacier, Laurent and Voisin, Sylvie and Melese, Michael and Elingui, Uriel Pascal},
+  	year={2016},
+  	organization={LREC}}     
+ 
+More details on the vowel length contrast modelling can be found on the following publication (please cite this bibtex if you use this data).   
+   @article{gauthier2016automatic,
+  	title={Automatic Speech Recognition for African Languages with Vowel Length Contrast},
+  	author={Gauthier, Elodie and Besacier, Laurent and Voisin, Sylvie},
+  	journal={Procedia Computer Science},
+  	volume={81},
+  	pages={136--143},
+  	year={2016},
+  	publisher={Elsevier}}   
+	
 ### SCRIPTS
 1. In *kaldi-scripts/* you will find the scripts used to train and test models
 (PATH variable has to be changed to make it work in your own directory!)
