@@ -8,7 +8,7 @@ http://alffa.imag.fr
 
 We distribute READY-to-use (or READY-to-train) KALDI ASR systems and (when possible) associated corpora....
 
-A summary of these resources and ASR performances, as well as a description of the ALFFA project will be published soon in the following paper:
+A summary of these resources and ASR performances, as well as a description of the ALFFA project has been published in the following paper:
 
 Collecting Resources in Sub-Saharan African Languages for Automatic Speech Recognition: a Case Study of Wolof. Elodie Gauthier, Laurent Besacier, Sylvie Voisin, Michael Melese and Uriel Pascal Elingui. To appear at LREC 2016
 
