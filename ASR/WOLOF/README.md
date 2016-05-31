@@ -29,7 +29,7 @@ More details on the corpus and how it was collected can be found on the followin
 (PATH variable has to be changed to make it work in your own directory!)
 from the existing data and lang directory you can directly start run the sequence : 04\_train\_mono.sh + 04a\_train\_triphone.sh + 04b\_train\_MLLT\_LDA.sh + 04c\_train\_SAT\_FMLLR.sh + 04d\_train\_MMI\_FMMI.sh + 04e\_train\_sgmm.sh + 05\_train\_dnn.sh    
 ASR system WITHOUT vowel length contrast has been taking as example in the scripts.    
-For more information about the format, please refer to Kaldi website http://kaldi.sourceforge.net/data_prep.html     
+For more information about the format, please refer to Kaldi website http://kaldi-asr.org/doc/data_prep.html     
 2. In *useful_scripts/* you will find some scripts you can use if you desire calculate the CER of your ASR system or calculate the WER/CER on the cleaned data only, etc.    
 
 ### WER RESULTS OBTAINED SO FAR 
