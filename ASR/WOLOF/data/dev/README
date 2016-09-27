@@ -4,8 +4,8 @@
 03: directory containing the wave files of the speaker 03 
 06: directory containing the wave files of the speaker 06 
 dev.trs: original transcript file
-text: original transcript file formatting for Kaldi use
-dev.ref: original transcript file formatting for Sclite use (scoring)
-dev-checked_and_good.ref: cleaned transcript file formatting for sclite use (scoring)
+text: original transcript file formatted for Kaldi use
+dev.ref: original transcript file formatted for Sclite use (scoring)
+dev-checked_and_good.ref: cleaned transcript file formatted for sclite use (scoring)
 dev-checked_and_good.trs: cleaned transcript file
 metadata_dev.txt: some infos about the evaluation set
