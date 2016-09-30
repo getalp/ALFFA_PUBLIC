@@ -3,7 +3,7 @@
 . ./path.sh
 
 # /!\ MODIFY THE PATH TO LINK TO YOUR KALDI DIR
-KALDI_DIR=$HOME/kaldi/wolof
+KALDI_DIR=$HOME/kaldi-trunk
 # /!\ OR COMMENT IT AND CREATE SYMBOLIC LINKS OF utils/ and steps/
 # /!\ IN YOUR CURRENT WORK DIRECTORY
 
@@ -26,4 +26,4 @@ echo "SIL" > lang/dict/optional_silence.txt
 echo "<UNK>" > lang/oov.txt
 echo "SIL" >> lang/dict/silence_phones.txt
 
-$KALDI_DIR/utils/prepare_lang.sh lang/dict "<UNK>" lang/tmp lang
+$KALDI_DIR/egs/wsj/s5/utils/prepare_lang.sh lang/dict "<UNK>" lang/tmp lang

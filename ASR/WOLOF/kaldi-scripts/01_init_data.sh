@@ -3,7 +3,7 @@
 . ./path.sh
 
 # /!\ MODIFY THE PATH TO LINK TO YOUR KALDI DIR
-KALDI_DIR=$HOME/kaldi/wolof
+KALDI_DIR=$HOME/kaldi-trunk
 # /!\ OR COMMENT IT AND CREATE SYMBOLIC LINKS OF utils/ and steps/
 # /!\ IN YOUR CURRENT WORK DIRECTORY
 
@@ -17,7 +17,7 @@ do
     cat text | cut -d' ' -f1 > utt
     cat text | cut -d'_' -f2 > spk
     paste utt spk > utt2spk
-    $KALDI_DIR/utils/utt2spk_to_spk2utt.pl utt2spk | sort -k1 > spk2utt
+    $KALDI_DIR/egs/wsj/s5/utils/utt2spk_to_spk2utt.pl utt2spk | sort -k1 > spk2utt
     rm utt spk
   popd
 done
@@ -42,7 +42,7 @@ echo "compute mfcc for train dev test..."
 
 for dir in data/train data/dev data/test
 do
-  $KALDI_DIR/steps/make_mfcc.sh --nj 4 $dir log mfcc
-  $KALDI_DIR/steps/compute_cmvn_stats.sh $dir log mfcc
+  $KALDI_DIR/egs/wsj/s5/steps/make_mfcc.sh --nj 4 $dir log mfcc
+  $KALDI_DIR/egs/wsj/s5/steps/compute_cmvn_stats.sh $dir log mfcc
 done
 echo -e "compute mfcc done.\n"
