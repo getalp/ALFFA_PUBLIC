@@ -5,8 +5,10 @@
 #### OVERVIEW
 The package contains Wolof speech corpus with audio data in the directory *data/*. The data directory contains 3 subdirectories:    
 1. **train** - speech data and transcription for training automatic speech recognition system (Kaldi ASR format [1])    
-2. **dev** - speech data and transcription to evaluate the ASR system (Kaldi ASR format)    
-3. **test** - speech data and transcription for testing the ASR system (Kaldi ASR format)    
+2. **dev** - speech data and transcription (verified) to evaluate the ASR system (Kaldi ASR format)    
+3. **test** - speech data and transcription (verified) for testing the ASR system (Kaldi ASR format)    
+4. **dev_unverified** - original speech data and transcription (NOT verified, contains mispronunciations)        
+5. **test_unverified** - original speech data and transcription (NOT verified, contains mispronunciations)    
 
 *LM/* directory contains 2 text corpus and the language model.
 
@@ -38,54 +40,28 @@ More details on the vowel length contrast modelling can be found on the followin
 from the existing data and lang directory you can directly start run the sequence : 04\_train\_mono.sh + 04a\_train\_triphone.sh + 04b\_train\_MLLT\_LDA.sh + 04c\_train\_SAT\_FMLLR.sh + 04d\_train\_MMI\_FMMI.sh + 04e\_train\_sgmm.sh + 05\_train\_dnn.sh    
 ASR system WITHOUT vowel length contrast has been taking as example in the scripts.    
 For more information about the format, please refer to Kaldi website http://kaldi-asr.org/doc/data_prep.html     
-2. In *useful_scripts/* you will find some scripts you can use if you desire calculate the CER of your ASR system or calculate the WER/CER on the cleaned data only, etc.    
+2. In *useful_scripts/* you will find some scripts you can use if you desire calculate the CER of your ASR system.        
 
 ### WER RESULTS OBTAINED SO FAR 
 ##### (you should obtain the same on these data if same protocol used)
 
 ######           +++ WITHOUT vowel length duration modelling +++
 
- - dev set     
  
-Acoustic models        | WER score *(%)* on **Initial** set  | WER score *(%)* on **Cleaned** set      |
+Acoustic models        | WER score *(%)* on **dev**  | WER score *(%)* on **test**      |
 :--------------------- |:-----------------------------------:| :--------------------------------------:|
-Monophone *(13 MFCC)*  |                58.3                 |                                         |
-Triphone *(13 MFCC)*   |                31.7                 |                 25.2                    |
-Triphone *(39 features)* + LDA and MLLT + SGMM + MMI |     28.6       |        22.0                    |
-DNNs                   |                28.6                 |                                         |
-DNNs + sMBR            |                27.2                 |                `20.5`                   |
-
- - test set     
+Triphone *(13 MFCC)*   |                 25.2                |                 27.6                    |
+Triphone *(39 features)* + LDA and MLLT + SGMM + MMI |     22.0       |        25.1                    |
+DNNs + sMBR            |                `20.5`               |                `24.9`                   |
  
-Acoustic models        | WER score *(%)* on **Initial** set  | WER score *(%)* on **Cleaned** set       |
-:--------------------- |:-----------------------------------:| :---------------------------------------:|
-Monophone *(13 MFCC)*  |                64.0                 |                                          |
-Triphone *(13 MFCC)*   |                36.0                 |                 27.6                     |
-Triphone *(39 features)* + LDA and MLLT + SGMM + MMI  |     33.6      |        25.1                     |
-DNNs                   |                35.7                 |                                          |
-DNNs + sMBR            |                33.6                 |                 `24.9`                   |
 
 ###### +++ WITH vowel length duration modelling (only /a/, /e/, /E/, /o/, and /O/) +++
 
- - dev set   
  
-Acoustic models        | WER score *(%)* on **Initial** set  | WER score *(%)* on **Cleaned** set       |
+Acoustic models        | WER score *(%)* on **dev**  | WER score *(%)* on **test**       |
 :--------------------- |:-----------------------------------:| :---------------------------------------:|
-Monophone *(13 MFCC)*  |                57.7                 |                                          |
-Triphone *(13 MFCC)*   |                31.6                 |                                          |
-Triphone *(39 features)* + LDA and MLLT + SGMM + MMI  |                      |                          |
-DNNs                   |                27.8                 |                                          |
-DNNs + sMBR            |                26.4                 |                 `20.0`                   |
-
- - test set     
- 
-Acoustic models        | WER score *(%)* on **Initial** set  | WER score *(%)* on **Cleaned** set       |
-:--------------------- |:-----------------------------------:| :---------------------------------------:|
-Monophone *(13 MFCC)*  |                63.0                 |                                          |
-Triphone *(13 MFCC)*   |                36.2                 |                                          |
-Triphone *(39 features)* + LDA and MLLT + SGMM + MMI  |                      |                          |
-DNNs                   |                34.0                 |                                          |
-DNNs + sMBR            |                32.3                 |                 `24.5`                   |
+Triphone *(13 MFCC)*   |                 25.1                |                  27.9                    |
+DNNs + sMBR            |                `20.0                |                 `24.5`                   |
 
 
 #### REFERENCES
