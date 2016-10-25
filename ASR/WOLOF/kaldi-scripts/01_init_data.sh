@@ -29,8 +29,8 @@ echo "make wav.scp for train dev test..."
 for dir in data/train data/dev data/test
 do
   pushd $dir
-    ls */*.wav |  sed 's/^/data\/'$dir'\//g' > tutu1  #The path of wav files in wav.scp have to be modified to point to the actual location 
-    cat tutu1 | cut -d'/' -f4 | sed 's/.wav//g' > tutu2 #modify the number of field to cut (depending the path you set previously)
+    readlink -e */*.wav > tutu1  #The path of wav files in wav.scp have to be modified to point to the actual location 
+    cat tutu1 | awk -F'/' '{print $NF}' | sed 's/.wav//g' > tutu2 # get the final field as the recording name, remove .wav
     paste tutu2 tutu1 > wav.scp
     rm tutu2 tutu1
   popd
