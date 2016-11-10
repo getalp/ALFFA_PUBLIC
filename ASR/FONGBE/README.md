@@ -23,7 +23,7 @@ More details on the corpus and how it was collected can be found on the followin
 In *kaldi-scripts/* you will find:    
   * **00_init_paths.sh** - it initializes your PATH variable (**_NOTE_**: you have to modify this file by yourself)    
   * **01_init_symlink.sh** - it creates the symbolic links required to run the Kaldi scripts
-  * **02_dict_script.sh** - it creates the dict/ directory used by Kaldi    
+  * **02_lexicon.sh** - it creates the dict/ directory used by Kaldi    
   * **03_lm_preparation.sh** - it creates the lang/ directory used by Kaldi      
                 
                 

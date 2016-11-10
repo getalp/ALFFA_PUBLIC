@@ -14,6 +14,10 @@ while read -r ligne; do
   echo -e "$ligne $(echo -e $ligne | sed -r 's/([^ ])/\1 /g')" >> lexicon.txt
 done < ../fongbe_wordlist.txt 
 
+#write UNK symbol (useful for Kaldi)
+echo -e "<UNK> SPN" >> lexicon.txt
+echo -e "!SIL SIL" >> lexicon.txt
+
 #nonsilence_phones.txt file creation
 echo -e "ɖ" >> nonsilence_phones.txt
 echo -e "a" >> nonsilence_phones.txt

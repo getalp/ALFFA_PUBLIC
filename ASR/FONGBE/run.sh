@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # initialization PATH
-. ./kaldi-scripts/00_init_paths.sh || die "00_init_paths.sh expected";
+. ./kaldi-scripts/00_init_paths.sh || { echo -e "\n00_init_paths.sh expected.\n"; exit; }
 
 
 ##### DATA PREPARATION #####
@@ -22,7 +22,7 @@ steps/compute_cmvn_stats.sh data/test data/exp/make_mfcc/test data/test/mfcc/
 
 ##### ASR BUILDING #####
 # initialization commands
-. ./cmd.sh || die "cmd.sh expected";
+. ./cmd.sh || { echo -e "\n cmd.sh expected.\n"; exit; }
 
 ### Mono
 # Training
