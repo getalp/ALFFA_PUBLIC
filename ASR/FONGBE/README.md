@@ -28,17 +28,17 @@ In *kaldi-scripts/* you will find:
                 
                 
 ### WER RESULTS OBTAINED
-##### (you should obtain the same on this data if same protocol used)
+##### (you should obtain the same on this data if you use the FONGBE-VM with Vagrant)
                
 Acoustic models                                      | WER score *(%)* on **test**  |
 :--------------------------------------------------- |:----------------------------:|
-Monophone *(13 MFCC)*                                |             37.16            |
-Triphone *(13 MFCC)*                                 |             27.88            |
-Triphone (13 MFCC + delta + delta2)                  |             27.65            |
-Triphone (39 features) + LDA and MLLT                |             23.55            |
-Triphone (39 features) + LDA and MLLT + SAT and FMLLR|             18.47            |
-Triphone (39 features) + LDA and MLLT + SGMM         |           `17.03`            |
-Triphone *(39 features)* + LDA and MLLT + SGMM + MMI |             18.09            |      
+Monophone *(13 MFCC)*                                |             35.34            |
+Triphone *(13 MFCC)*                                 |             27.42            |
+Triphone (13 MFCC + delta + delta2)                  |             26.75            |
+Triphone (39 features) + LDA and MLLT                |             22.25            |
+Triphone (39 features) + LDA and MLLT + SAT and FMLLR|             17.77            |
+Triphone (39 features) + LDA and MLLT + SGMM         |           `16.57`            |
+
             
             
 #### REFERENCES      
