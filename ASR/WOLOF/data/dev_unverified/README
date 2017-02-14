@@ -1,8 +1,9 @@
 ### Description of the file list
 
 ## Directory: dev_unverified/
-03: directory containing initial WAV files of the speaker 03 (not verified, ie. contains mispronunciations against the associated script)
-06: directory containing initial WAV files of the speaker 06 (not verified, ie. contains mispronunciations against the associated script)
+wav:
+  - 03: directory containing initial WAV files of the speaker 03 (not verified, ie. contains mispronunciations against the associated script)
+  - 06: directory containing initial WAV files of the speaker 06 (not verified, ie. contains mispronunciations against the associated script)
 dev.trs: original script file
 text: original script file formatted for Kaldi use
 dev.ref: original script file formatted for Sclite use (scoring)

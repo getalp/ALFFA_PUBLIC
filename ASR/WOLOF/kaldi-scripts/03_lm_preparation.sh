@@ -1,24 +1,19 @@
 #!/bin/sh
 
-. ./path.sh
-
-# /!\ MODIFY THE PATH TO LINK TO YOUR KALDI DIR
-KALDI_DIR=$HOME/kaldi-trunk
-# /!\ OR COMMENT IT AND CREATE SYMBOLIC LINKS OF utils/ and steps/
-# /!\ IN YOUR CURRENT WORK DIRECTORY
+. ./kaldi-scripts/00_init_paths.sh  || { echo -e "\n00_init_paths.sh expected.\n"; exit; } 
 
 #convert to FST format for Kaldi
-cat lang/combineV1-web-W0.9-3gram.arpa | $KALDI_DIR/egs/wsj/s5/utils/find_arpa_oovs.pl lang/words.txt  > lang/oovs.txt
-cat lang/combineV1-web-W0.9-3gram.arpa | \
+cat ./LM/combineV1-web-W0.9-3gram.arpa | ./utils/find_arpa_oovs.pl data/lang/words.txt  > LM/oovs.txt
+cat ./LM/combineV1-web-W0.9-3gram.arpa | \
   grep -v '<s> <s>' | \
   grep -v '</s> <s>' | \
   grep -v '</s> </s>' | \
-  $KALDI_DIR/src/bin/arpa2fst - | $KALDI_DIR/tools/openfst-1.3.4/bin/fstprint | \
-  $KALDI_DIR/egs/wsj/s5/utils/remove_oovs.pl lang/oovs.txt | \
-  $KALDI_DIR/egs/wsj/s5/utils/eps2disambig.pl | $KALDI_DIR/egs/wsj/s5/utils/s2eps.pl | $KALDI_DIR/tools/openfst-1.3.4/bin/fstcompile --isymbols=lang/words.txt \
-  --osymbols=lang/words.txt  --keep_isymbols=false --keep_osymbols=false | \
-  $KALDI_DIR/tools/openfst-1.3.4/bin/fstrmepsilon > lang/G.fst
+  arpa2fst - | fstprint | \
+  utils/remove_oovs.pl LM/oovs.txt | \
+  utils/eps2disambig.pl | utils/s2eps.pl | fstcompile --isymbols=data/lang/words.txt \
+  --osymbols=data/lang/words.txt  --keep_isymbols=false --keep_osymbols=false | \
+  fstrmepsilon > ./data/lang/G.fst
 
 #if prep_lang.sh returns G.fst is not ilabel sorted, run this to sort
-fstarcsort --sort_type=ilabel lang/G.fst > lang/G_new.fst
-mv lang/G_new.fst lang/G.fst
+fstarcsort --sort_type=ilabel data/lang/G.fst > data/lang/G_new.fst
+mv data/lang/G_new.fst data/lang/G.fst

@@ -1,6 +1,0 @@
-### Description of the file list
-
-## Directory: train/
-01,02,04,07,08,09,11,12,13,14,15,16,17,18 : directories containing the wave files of the speakers used for training
-text: original transcript file formatted for Kaldi use
-metadata_train.txt: some info about the training set

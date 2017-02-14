@@ -1,2 +1,0 @@
-file ../data/test/test.trs: 2000 sentences, 18855 words, 969 OOVs
-0 zeroprobs, logprob= -49910.5 ppl= 323.467 ppl1= 617.273
