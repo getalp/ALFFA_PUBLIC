@@ -1,6 +1,6 @@
-## Wolof Data collected by Elodie Gauthier & Pascal Uriel Elingui 
+## Wolof Data collected by Sylvie Voisin & Elodie Gauthier 
 ### Prepared by Elodie Gauthier & Laurent Besacier
-#### GETALP LIG, Grenoble, France & Voxygen SAS, Dakar, Sénégal    
+#### GETALP LIG, Grenoble, France & DDL, Lyon, France    
      
      
 #### OVERVIEW    
