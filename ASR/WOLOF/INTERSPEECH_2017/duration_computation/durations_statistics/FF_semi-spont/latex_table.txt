@@ -1,0 +1,48 @@
+\begin{table}[h!]
+\centering
+\caption{{\it Table gathering parameters to judge the degree of bimodality of the distributions. Example using vowels duration from ** <A_MODIFIER> ** , range from worse parameters scores to better (top down).}}
+\renewcommand{\arraystretch}{1.2}
+\begin{scriptsize}
+\begin{tabular}{c|c|c|c|c|c|c}
+\multirow{3}{*}{\bf Phoneme} & \textbf{\#occurences} & \multirow{3}{*}{$\mathbf{\mu}$ \tiny{(in ms)}} & \multirow{3}{*}{$\mathbf{r_1}$} & \multirow{3}{*}{$\mathbf{r_2}$} & \multirow{3}{*}{$\mathbf{\mathscr{A}}$} & \multirow{3}{*}{$\Delta$ \tiny{(in ms)}} \\ 
+& short & & & & \\ 
+& long & & & & \\ \hline
+\multirow{2}{*}{ \bf \textipa{/e/} } & 77 & 74.16 & \multirow{2}{*}{ \bf 0.87} & 
+\multirow{2}{*}{ \bf 1.41} & 
+\multirow{2}{*}{ \bf 0.21} & 
+\multirow{2}{*}{ \bf 11.26} \\
+ & 116 & 
+83.02 & & & & \\ \hline
+\multirow{2}{*}{ \bf \textipa{/O/} } & 197 & 63.35 & \multirow{2}{*}{ \bf 1.12} & 
+\multirow{2}{*}{ \bf 0.90} & 
+\multirow{2}{*}{ \bf 0.06} & 
+\multirow{2}{*}{ \bf 3.26} \\
+ & 112 & 
+67.68 & & & & \\ \hline
+\multirow{2}{*}{ \bf \textipa{/i/} } & 882 & 68.65 & \multirow{2}{*}{ \bf 0.91} & 
+\multirow{2}{*}{ \bf 1.14} & 
+\multirow{2}{*}{ \bf 0.09} & 
+\multirow{2}{*}{ \bf 7.51} \\
+ & 167 & 
+74.73 & & & & \\ \hline
+\multirow{2}{*}{ \bf \textipa{/E/} } & 197 & 68.78 & \multirow{2}{*}{ \bf 1.17} & 
+\multirow{2}{*}{ \bf 1.06} & 
+\multirow{2}{*}{ \bf 0.18} & 
+\multirow{2}{*}{ \bf 17.18} \\
+ & 176 & 
+86.53 & & & & \\ \hline
+\multirow{2}{*}{ \bf \textipa{/a/} } & 909 & 63.12 & \multirow{2}{*}{ \bf 1.76} & 
+\multirow{2}{*}{ \bf 1.02} & 
+\multirow{2}{*}{ \bf 0.32} & 
+\multirow{2}{*}{ \bf 27.22} \\
+ & 188 & 
+94.15 & & & & \\ \hline
+\multirow{2}{*}{ \bf \textipa{/o/} } & 24 & 53.33 & \multirow{2}{*}{ \bf 2.76} & 
+\multirow{2}{*}{ \bf 1.40} & 
+\multirow{2}{*}{ \bf 0.46} & 
+\multirow{2}{*}{ \bf 20.97} \\
+ & 50 & 
+77.40 & & & & \\ \hline
+\end{tabular}
+\end{scriptsize}
+\end{table}

@@ -1,0 +1,473 @@
+
+
+		DUMP OF SYSTEM ALIGNMENT STRUCTURE
+
+System name:   TRAJ_WW_EHD.hyp
+
+Speakers: 
+    0:  traj
+
+Speaker sentences   0:  traj   #utts: 77
+id: (traj_ww_ehd_16khz_noisecancelling_1)
+Scores: (#C #S #D #I) 7 1 1 0
+REF:  ku gã³or ak jigã©en ã±u ngi sã neente A BAL  
+HYP:  ku gã³or ak jigã©en ã±u ngi sã neente * ABAL 
+Eval:                                       D S    
+
+id: (traj_ww_ehd_16khz_noisecancelling_10)
+Scores: (#C #S #D #I) 9 1 1 0
+REF:  XALE BU      gã³or baa ngi tã«dd ci ã±ax mi di nelaw 
+HYP:  **** XALEELU gã³or baa ngi tã«dd ci ã±ax mi di nelaw 
+Eval: D    S                                               
+
+id: (traj_ww_ehd_16khz_noisecancelling_11)
+Scores: (#C #S #D #I) 8 1 1 0
+REF:  XALE BU      gã³or baa ngi romb ci gannaaw garab gi 
+HYP:  **** XALEELU gã³or baa ngi romb ci gannaaw garab gi 
+Eval: D    S                                              
+
+id: (traj_ww_ehd_16khz_noisecancelling_12)
+Scores: (#C #S #D #I) 4 3 3 0
+REF:  ndaw SAA NGI  toog CI ã±ax mi DI PEÃ±E WU    
+HYP:  ndaw *** SAAY toog ** ã±ax mi ** TE    Ã±Ã³W 
+Eval:      D   S         D          D  S     S     
+
+id: (traj_ww_ehd_16khz_noisecancelling_13)
+Scores: (#C #S #D #I) 11 1 0 0
+REF:  xale bu gã³or baa ngi jaar ci yoon wi LEERU  tund wi 
+HYP:  xale bu gã³or baa ngi jaar ci yoon wi LEERUL tund wi 
+Eval:                                       S              
+
+id: (traj_ww_ehd_16khz_noisecancelling_14)
+Scores: (#C #S #D #I) 7 0 1 0
+REF:  xale YU jigã©en yaa ngi jã©ggi pom bi 
+HYP:  xale ** jigã©en yaa ngi jã©ggi pom bi 
+Eval:      D                                
+
+id: (traj_ww_ehd_16khz_noisecancelling_15)
+Scores: (#C #S #D #I) 7 2 1 1
+REF:  XALE BU      gã³or baa ngi ** CÃ«PPÃ©ELU ci biir gã©ej gi 
+HYP:  **** XALEELU gã³or baa ngi CA PIILU      ci biir gã©ej gi 
+Eval: D    S                     I  S                           
+
+id: (traj_ww_ehd_16khz_noisecancelling_16)
+Scores: (#C #S #D #I) 7 1 1 0
+REF:  XALE BU      gã³or baa ngi xuus ci ndox mi 
+HYP:  **** XALEELU gã³or baa ngi xuus ci ndox mi 
+Eval: D    S                                     
+
+id: (traj_ww_ehd_16khz_noisecancelling_17)
+Scores: (#C #S #D #I) 11 3 1 0
+REF:  xale bu gã³or baa ngi jã«m ci ndaw SU jigã©en SI tã«dd ci Ã±AX MI    
+HYP:  xale bu gã³or baa ngi jã«m ci ndaw SI jigã©en CI tã«dd ci **** Ã±AMI 
+Eval:                                    S          S           D    S     
+
+id: (traj_ww_ehd_16khz_noisecancelling_18)
+Scores: (#C #S #D #I) 7 1 1 0
+REF:  XALE BU      gã³or baa ngi witt xobi garab gi 
+HYP:  **** XALEELU gã³or baa ngi witt xobi garab gi 
+Eval: D    S                                        
+
+id: (traj_ww_ehd_16khz_noisecancelling_19)
+Scores: (#C #S #D #I) 7 0 0 0
+REF:  ndaw saa ngi jã«msi ci garab gi 
+HYP:  ndaw saa ngi jã«msi ci garab gi 
+Eval:                                 
+
+id: (traj_ww_ehd_16khz_noisecancelling_2)
+Scores: (#C #S #D #I) 5 2 1 0
+REF:  soxna SAA NGI      lal mbalaanam DI waaja toog 
+HYP:  soxna *** SÃ Ã±Ã±I lal mbalaanam DU waaja toog 
+Eval:       D   S                      S             
+
+id: (traj_ww_ehd_16khz_noisecancelling_20)
+Scores: (#C #S #D #I) 10 1 2 0
+REF:  XALE BU      gã³or BI romb na nit ã±i dugg ci biir xunt mi 
+HYP:  **** XALEELU gã³or ** romb na nit ã±i dugg ci biir xunt mi 
+Eval: D    S             D                                       
+
+id: (traj_ww_ehd_16khz_noisecancelling_21)
+Scores: (#C #S #D #I) 8 0 0 0
+REF:  ndaw saa ngi door bal bi ak tã nkam 
+HYP:  ndaw saa ngi door bal bi ak tã nkam 
+Eval:                                     
+
+id: (traj_ww_ehd_16khz_noisecancelling_22)
+Scores: (#C #S #D #I) 8 1 0 0
+REF:  ndaw SU jigã©en saa ngi dã«ddu garabi di dem 
+HYP:  ndaw SI jigã©en saa ngi dã«ddu garabi di dem 
+Eval:      S                                       
+
+id: (traj_ww_ehd_16khz_noisecancelling_23)
+Scores: (#C #S #D #I) 8 0 0 0
+REF:  xale bu gã³or baa ngi romb di daw 
+HYP:  xale bu gã³or baa ngi romb di daw 
+Eval:                                   
+
+id: (traj_ww_ehd_16khz_noisecancelling_25)
+Scores: (#C #S #D #I) 11 0 2 0
+REF:  xale bu jigã©en BI gã©nn NA ci xunt mi jã«l paã±e bi duggaat 
+HYP:  xale bu jigã©en ** gã©nn ** ci xunt mi jã«l paã±e bi duggaat 
+Eval:                 D        D                                   
+
+id: (traj_ww_ehd_16khz_noisecancelling_26)
+Scores: (#C #S #D #I) 12 1 2 0
+REF:  XALE BU      gã³or BI dooraat na bal bi mu dem ci xale bu jigã©en bi 
+HYP:  **** XALEELU gã³or ** dooraat na bal bi mu dem ci xale bu jigã©en bi 
+Eval: D    S             D                                                 
+
+id: (traj_ww_ehd_16khz_noisecancelling_27)
+Scores: (#C #S #D #I) 6 2 1 0
+REF:  ndaw SAA NGI Ã±Ã BB sag dugg ci tool bi 
+HYP:  ndaw *** SA  Ã±AM   sag dugg ci tool bi 
+Eval:      D   S   S                          
+
+id: (traj_ww_ehd_16khz_noisecancelling_28)
+Scores: (#C #S #D #I) 7 1 1 0
+REF:  XALE BU      gã³or baa ngiy dugg ci ã ll bi 
+HYP:  **** XALEELU gã³or baa ngiy dugg ci ã ll bi 
+Eval: D    S                                      
+
+id: (traj_ww_ehd_16khz_noisecancelling_29)
+Scores: (#C #S #D #I) 6 4 1 1
+REF:  XALE BU      gã³or bi ** CÃ«PPÃ©ELOO NA ci xeer bi di DAW 
+HYP:  **** XALEELU gã³or bi CA PELLO       LA ci xeer bi di DOW 
+Eval: D    S                I  S           S                S   
+
+id: (traj_ww_ehd_16khz_noisecancelling_3)
+Scores: (#C #S #D #I) 7 1 1 0
+REF:  XALE BU      gã³or baa ngi wã cc ci tund wi 
+HYP:  **** XALEELU gã³or baa ngi wã cc ci tund wi 
+Eval: D    S                                      
+
+id: (traj_ww_ehd_16khz_noisecancelling_30)
+Scores: (#C #S #D #I) 9 1 1 0
+REF:  ndaw si sã©ddoo na banaana bi ak XALE BU      gã³or bi 
+HYP:  ndaw si sã©ddoo na banaana bi ak **** XALEELU gã³or bi 
+Eval:                                  D    S                
+
+id: (traj_ww_ehd_16khz_noisecancelling_31)
+Scores: (#C #S #D #I) 9 0 0 0
+REF:  xale bu jigã©en baa ngi toog di lã©tt boppam 
+HYP:  xale bu jigã©en baa ngi toog di lã©tt boppam 
+Eval:                                              
+
+id: (traj_ww_ehd_16khz_noisecancelling_32)
+Scores: (#C #S #D #I) 9 1 1 0
+REF:  xale bu jigã©en bi GÃ©NN NA     ci ã ll bi di dem 
+HYP:  xale bu jigã©en bi ***** GÃ©NNE ci ã ll bi di dem 
+Eval:                    D     S                        
+
+id: (traj_ww_ehd_16khz_noisecancelling_33)
+Scores: (#C #S #D #I) 5 1 2 0
+REF:  XALE BU      gã³or BI tã«b na xeer wi 
+HYP:  **** XALEELU gã³or ** tã«b na xeer wi 
+Eval: D    S             D                  
+
+id: (traj_ww_ehd_16khz_noisecancelling_34)
+Scores: (#C #S #D #I) 13 0 1 0
+REF:  xaleelu gã³or baa ngiy jã«gg pom bi DI dem romb ã±ett xale yu jigã©en 
+HYP:  xaleelu gã³or baa ngiy jã«gg pom bi ** dem romb ã±ett xale yu jigã©en 
+Eval:                                     D                                 
+
+id: (traj_ww_ehd_16khz_noisecancelling_35)
+Scores: (#C #S #D #I) 13 1 1 0
+REF:  xale jigã©en baa ngi sottil ndox XALE BU      gã³or bi ci kaas bi mu naan 
+HYP:  xale jigã©en baa ngi sottil ndox **** XALEELU gã³or bi ci kaas bi mu naan 
+Eval:                                  D    S                                   
+
+id: (traj_ww_ehd_16khz_noisecancelling_36)
+Scores: (#C #S #D #I) 11 0 0 0
+REF:  xale bu jigã©en baa ngi jã³ge ci garab gi di daw 
+HYP:  xale bu jigã©en baa ngi jã³ge ci garab gi di daw 
+Eval:                                                  
+
+id: (traj_ww_ehd_16khz_noisecancelling_37)
+Scores: (#C #S #D #I) 13 1 1 0
+REF:  XALE BU      gã³or gi romb na paã±e bi tege mu dugg ci biir xunt mi 
+HYP:  **** XALEELU gã³or gi romb na paã±e bi tege mu dugg ci biir xunt mi 
+Eval: D    S                                                              
+
+id: (traj_ww_ehd_16khz_noisecancelling_38)
+Scores: (#C #S #D #I) 12 1 1 0
+REF:  xale bu jigã©en bi GÃ©NN NA     ci ã ll bi jã©ggi yoon wi di dem 
+HYP:  xale bu jigã©en bi ***** GÃ©NNE ci ã ll bi jã©ggi yoon wi di dem 
+Eval:                    D     S                                       
+
+id: (traj_ww_ehd_16khz_noisecancelling_39)
+Scores: (#C #S #D #I) 7 1 1 0
+REF:  XALE BU      gã³or baa ngiy dugg ci ã ll bi 
+HYP:  **** XALEELU gã³or baa ngiy dugg ci ã ll bi 
+Eval: D    S                                      
+
+id: (traj_ww_ehd_16khz_noisecancelling_4)
+Scores: (#C #S #D #I) 5 2 2 0
+REF:  XALE BU      gã³or bi GÃ©NN NA     ci gã©ej gi 
+HYP:  **** XALEELU gã³or bi ***** GÃ©NNE ci gã©ej gi 
+Eval: D    S                D     S                  
+
+id: (traj_ww_ehd_16khz_noisecancelling_40)
+Scores: (#C #S #D #I) 7 2 1 0
+REF:  XALE BU      gã³or baa ngi jaar ci yoon wi DAW 
+HYP:  **** XALEELU gã³or baa ngi jaar ci yoon wi DOW 
+Eval: D    S                                     S   
+
+id: (traj_ww_ehd_16khz_noisecancelling_41)
+Scores: (#C #S #D #I) 11 1 2 0
+REF:  xale bu jigã©en bi gã©nne NA ci xunt bi JAAR SI    yoon wi dem 
+HYP:  xale bu jigã©en bi gã©nne ** ci xunt bi **** JAASI yoon wi dem 
+Eval:                           D             D    S                 
+
+id: (traj_ww_ehd_16khz_noisecancelling_42)
+Scores: (#C #S #D #I) 8 2 4 2
+REF:  XALE BU      gã³or baa ngiy WÃ©ERU ci garab gi *** NÃ BB ab LIVRE DI liir **** 
+HYP:  **** XALEELU gã³or baa ngiy ****** ci garab gi NGA BA    ab ***** ** liir DIIR 
+Eval: D    S                      D                  I   S        D     D       I    
+
+id: (traj_ww_ehd_16khz_noisecancelling_43)
+Scores: (#C #S #D #I) 12 1 0 0
+REF:  xale bu jigã©en baa ngiy jaar ci yoon wi di YÃ©EG  xunt wi 
+HYP:  xale bu jigã©en baa ngiy jaar ci yoon wi di YÃ©KKU xunt wi 
+Eval:                                             S              
+
+id: (traj_ww_ehd_16khz_noisecancelling_44)
+Scores: (#C #S #D #I) 8 0 0 0
+REF:  xale bu jigã©en bi lem na yã©re yi 
+HYP:  xale bu jigã©en bi lem na yã©re yi 
+Eval:                                    
+
+id: (traj_ww_ehd_16khz_noisecancelling_45)
+Scores: (#C #S #D #I) 7 3 2 0
+REF:  xale bu jigã©en baa ngi GÃ©NNE ci xunt BI YÃ©EG ESKALE YI     
+HYP:  xale bu jigã©en baa ngi NE     ci xunt ** ***** BII    ESKÃ«Y 
+Eval:                         S              D  D     S      S      
+
+id: (traj_ww_ehd_16khz_noisecancelling_46)
+Scores: (#C #S #D #I) 11 0 0 0
+REF:  xale bu jigã©en baa ngiy jaar ci yoon wi di ã±ã³w 
+HYP:  xale bu jigã©en baa ngiy jaar ci yoon wi di ã±ã³w 
+Eval:                                                   
+
+id: (traj_ww_ehd_16khz_noisecancelling_47)
+Scores: (#C #S #D #I) 12 1 0 0
+REF:  xale bu jigã©en baa ngiy jaar yoon wi jã«m ci biir xunt MI 
+HYP:  xale bu jigã©en baa ngiy jaar yoon wi jã«m ci biir xunt WI 
+Eval:                                                         S  
+
+id: (traj_ww_ehd_16khz_noisecancelling_48)
+Scores: (#C #S #D #I) 9 0 1 0
+REF:  xale BU jigã©en baa ngi romb ci kanamu garab gi 
+HYP:  xale ** jigã©en baa ngi romb ci kanamu garab gi 
+Eval:      D                                          
+
+id: (traj_ww_ehd_16khz_noisecancelling_49)
+Scores: (#C #S #D #I) 10 1 0 0
+REF:  xale BU     jigã©en baa ngi jã³ge ci yoon wi di ã±ã³w 
+HYP:  xale DÃ QAL jigã©en baa ngi jã³ge ci yoon wi di ã±ã³w 
+Eval:      S                                                
+
+id: (traj_ww_ehd_16khz_noisecancelling_5)
+Scores: (#C #S #D #I) 6 1 0 0
+REF:  ku gã³or ki MA  ngi naan ndox 
+HYP:  ku gã³or ki MAA ngi naan ndox 
+Eval:             S                 
+
+id: (traj_ww_ehd_16khz_noisecancelling_50)
+Scores: (#C #S #D #I) 3 5 2 0
+REF:  ã±etti nit JOGE NANU CI   YÃ³ON   WI JÃ DD SEEN ndeyjoor 
+HYP:  ã±etti nit **** **** JENN JIGÃ©EN BI JADD  CI   ndeyjoor 
+Eval:            D    D    S    S       S  S     S             
+
+id: (traj_ww_ehd_16khz_noisecancelling_51)
+Scores: (#C #S #D #I) 9 1 1 0
+REF:  xale bu jigã©en baa ngi XALE BU      gã³or baa ngi summiku 
+HYP:  xale bu jigã©en baa ngi **** XALEELU gã³or baa ngi summiku 
+Eval:                         D    S                             
+
+id: (traj_ww_ehd_16khz_noisecancelling_52)
+Scores: (#C #S #D #I) 7 4 1 0
+REF:  xale bu jigã©en bi GÃ©NNE NA    ci tool bi NAAB AB PAÃ±E 
+HYP:  xale bu jigã©en bi ****** GÃ©NN ci tool bi NAA  BA PARE  
+Eval:                    D      S                S    S  S     
+
+id: (traj_ww_ehd_16khz_noisecancelling_53)
+Scores: (#C #S #D #I) 8 2 1 0
+REF:  XALE BU      gã³or du tã«b NA yã©eg ci kow xeer wi 
+HYP:  **** XALEELU gã³or du tã«b NE yã©eg ci kow xeer wi 
+Eval: D    S                     S                       
+
+id: (traj_ww_ehd_16khz_noisecancelling_54)
+Scores: (#C #S #D #I) 10 4 3 0
+REF:  XALE BU      gã³or BI GÃ©NNE na ci xunt wi taxaw ci wetu morom XALE BU      gã³or BI 
+HYP:  **** XALEELU gã³or GI GÃ©NN  na ci xunt wi taxaw ci wetu morom **** XALEELU gã³or ** 
+Eval: D    S             S  S                                        D    S             D  
+
+id: (traj_ww_ehd_16khz_noisecancelling_55)
+Scores: (#C #S #D #I) 11 1 0 0
+REF:  xale bu jigã©en baa ngi WÃ CC  iskale taxaw ci kanamu ndox mi 
+HYP:  xale bu jigã©en baa ngi WÃ CCE iskale taxaw ci kanamu ndox mi 
+Eval:                         S                                     
+
+id: (traj_ww_ehd_16khz_noisecancelling_56)
+Scores: (#C #S #D #I) 10 3 1 0
+REF:  xale bu jigã©en baa ngi jã©ggi POM BI romb XALE BU      gã³or bi taxaw 
+HYP:  xale bu jigã©en baa ngi jã©ggi PO  MI romb **** XALEELU gã³or bi taxaw 
+Eval:                                S   S       D    S                      
+
+id: (traj_ww_ehd_16khz_noisecancelling_57)
+Scores: (#C #S #D #I) 10 2 0 0
+REF:  xale bu jigã©en baa ngi WÃ CC  iskale taxaw CI kanam ndox mi 
+HYP:  xale bu jigã©en baa ngi WÃ CCE iskale taxaw CA kanam ndox mi 
+Eval:                         S                   S                
+
+id: (traj_ww_ehd_16khz_noisecancelling_58)
+Scores: (#C #S #D #I) 7 1 1 0
+REF:  XALE BU      gã³or baa ngi gã©nne ci ã ll bi 
+HYP:  **** XALEELU gã³or baa ngi gã©nne ci ã ll bi 
+Eval: D    S                                       
+
+id: (traj_ww_ehd_16khz_noisecancelling_59)
+Scores: (#C #S #D #I) 9 4 3 0
+REF:  XALE BU      gã³or baa ngi jã³ge ci wetu ndaw si TÃ«DD CII Ã±AX MI DI    dem 
+HYP:  **** XALEELU gã³or baa ngi jã³ge ci wetu ndaw si ***** *** TEG  CI Ã±AMI dem 
+Eval: D    S                                           D     D   S    S  S         
+
+id: (traj_ww_ehd_16khz_noisecancelling_6)
+Scores: (#C #S #D #I) 9 2 0 0
+REF:  ndaw saa ngi GÃ©NNE ci ndox mi di yã©eg iskale YI  
+HYP:  ndaw saa ngi NE     ci ndox mi di yã©eg iskale YII 
+Eval:              S                                 S   
+
+id: (traj_ww_ehd_16khz_noisecancelling_60)
+Scores: (#C #S #D #I) 10 1 1 0
+REF:  XALE BU      gã³or baa ngi jã©ggi yoon wi dugg ci ã ll bi 
+HYP:  **** XALEELU gã³or baa ngi jã©ggi yoon wi dugg ci ã ll bi 
+Eval: D    S                                                    
+
+id: (traj_ww_ehd_16khz_noisecancelling_61)
+Scores: (#C #S #D #I) 8 2 2 0
+REF:  xale BU jigã©en BAA NGI  jaar ci ginnaaw garab gi di DAW 
+HYP:  xale ** jigã©en *** BAAY jaar ci ginnaaw garab gi di DOW 
+Eval:      D          D   S                                S   
+
+id: (traj_ww_ehd_16khz_noisecancelling_63)
+Scores: (#C #S #D #I) 7 2 1 1
+REF:  XALE BU      gã³or ba weer garab gi di lekk ** BANAANA 
+HYP:  **** XALEELU gã³or ba weer garab gi di lekk BA NAAN    
+Eval: D    S                                      I  S       
+
+id: (traj_ww_ehd_16khz_noisecancelling_64)
+Scores: (#C #S #D #I) 4 5 7 0
+REF:  XALE BU      gã³or BAA NGI   jonkan CI WETU NDOW MI DI SÃ NE   KANAARA YI      ã±u lekk 
+HYP:  **** XALEELU gã³or *** BAYIT jonkan ** **** **** ** ** JONGAMA GISAANE KANAARI ã±u lekk 
+Eval: D    S             D   S            D  D    D    D  D  S       S       S                
+
+id: (traj_ww_ehd_16khz_noisecancelling_65)
+Scores: (#C #S #D #I) 9 0 1 0
+REF:  xale BU jigã©en baa ngi romb dugg ci ã ll bi 
+HYP:  xale ** jigã©en baa ngi romb dugg ci ã ll bi 
+Eval:      D                                       
+
+id: (traj_ww_ehd_16khz_noisecancelling_66)
+Scores: (#C #S #D #I) 8 0 0 0
+REF:  xale bu jigã©en baa ngi yã©eg iskale yi 
+HYP:  xale bu jigã©en baa ngi yã©eg iskale yi 
+Eval:                                         
+
+id: (traj_ww_ehd_16khz_noisecancelling_67)
+Scores: (#C #S #D #I) 5 3 2 0
+REF:  XALE BU      gã³or baa ngi TÃ«B taxaw ci WENEEN XEER 
+HYP:  **** XALEELU gã³or baa ngi **** taxaw ci YENEEN XEET 
+Eval: D    S                     D             S      S    
+
+id: (traj_ww_ehd_16khz_noisecancelling_68)
+Scores: (#C #S #D #I) 8 0 0 0
+REF:  xale bu jigã©en baa ngi sol ay dã llam 
+HYP:  xale bu jigã©en baa ngi sol ay dã llam 
+Eval:                                        
+
+id: (traj_ww_ehd_16khz_noisecancelling_69)
+Scores: (#C #S #D #I) 5 5 3 0
+REF:  XALE BU      gã³or baa ngi GÃ©NNE ci xunt MI DI JÃ©GGAT XEER    YI   
+HYP:  **** XALEELU gã³or baa ngi GÃ©NN  ci xunt ** ** BI      JÃ©GGAL XERI 
+Eval: D    S                     S              D  D  S       S       S    
+
+id: (traj_ww_ehd_16khz_noisecancelling_7)
+Scores: (#C #S #D #I) 9 2 2 0
+REF:  xale bu jigã©en BAA NGI  WÃ CC  iskale YI dugg ci biir xunt mi 
+HYP:  xale bu jigã©en *** BAAY WÃ CCE iskale ** dugg ci biir xunt mi 
+Eval:                 D   S    S             D                       
+
+id: (traj_ww_ehd_16khz_noisecancelling_70)
+Scores: (#C #S #D #I) 9 0 2 0
+REF:  xale BU JIGÃ©EN baa ngi daw jaar ci kanamu garab gi 
+HYP:  xale ** ******* baa ngi daw jaar ci kanamu garab gi 
+Eval:      D  D                                           
+
+id: (traj_ww_ehd_16khz_noisecancelling_71)
+Scores: (#C #S #D #I) 6 2 2 0
+REF:  NDAW SAA NGI     SUMMI dã llam taxaw ci kow basan bi 
+HYP:  **** *** COSAANU SUNU  dã llam taxaw ci kow basan bi 
+Eval: D    D   S       S                                   
+
+id: (traj_ww_ehd_16khz_noisecancelling_73)
+Scores: (#C #S #D #I) 6 1 1 0
+REF:  XALE BU      gã³or baa ngi sol ay yã©reem 
+HYP:  **** XALEELU gã³or baa ngi sol ay yã©reem 
+Eval: D    S                                    
+
+id: (traj_ww_ehd_16khz_noisecancelling_75)
+Scores: (#C #S #D #I) 8 1 0 1
+REF:  xale bu jigã©en baa ngiy **** DUGGSI ci xunt mi 
+HYP:  xale bu jigã©en baa ngiy DUGG CI     ci xunt mi 
+Eval:                          I    S                 
+
+id: (traj_ww_ehd_16khz_noisecancelling_76)
+Scores: (#C #S #D #I) 8 2 2 0
+REF:  XALE BU      gã³or baa ngi jã©ggi XÃ©ER YI   dugg ci xunt wi 
+HYP:  **** XALEELU gã³or baa ngi jã©ggi ***** XERI dugg ci xunt wi 
+Eval: D    S                            D     S                    
+
+id: (traj_ww_ehd_16khz_noisecancelling_77)
+Scores: (#C #S #D #I) 6 0 0 0
+REF:  xale bu jigã©en baa ngi summiku 
+HYP:  xale bu jigã©en baa ngi summiku 
+Eval:                                 
+
+id: (traj_ww_ehd_16khz_noisecancelling_79)
+Scores: (#C #S #D #I) 8 1 0 0
+REF:  xale bu jigã©en baa ngi GÃ©NNE ci xunt wi 
+HYP:  xale bu jigã©en baa ngi GÃ©NN  ci xunt wi 
+Eval:                         S                 
+
+id: (traj_ww_ehd_16khz_noisecancelling_8)
+Scores: (#C #S #D #I) 4 3 1 0
+REF:  XALE BU      gã³or bi TÃ«B na DÃ«X gi 
+HYP:  **** XALEELU gã³or bi PEER na DEX  gi 
+Eval: D    S                S       S       
+
+id: (traj_ww_ehd_16khz_noisecancelling_81)
+Scores: (#C #S #D #I) 9 1 0 0
+REF:  xale bu jigã©en bi toog na ci kow NÃ PP bi 
+HYP:  xale bu jigã©en bi toog na ci kow NAB   bi 
+Eval:                                   S        
+
+id: (traj_ww_ehd_16khz_noisecancelling_82)
+Scores: (#C #S #D #I) 6 3 1 1
+REF:  XALE BU  jigã©en baa ngiy dox ** TAXAW WETU garab bi 
+HYP:  **** XAL jigã©en baa ngiy dox DI DARA  JOTU garab bi 
+Eval: D    S                        I  S     S             
+
+id: (traj_ww_ehd_16khz_noisecancelling_83)
+Scores: (#C #S #D #I) 7 0 0 0
+REF:  nit ã±aa ngi ã nd jã©ggi yoon wi 
+HYP:  nit ã±aa ngi ã nd jã©ggi yoon wi 
+Eval:                                  
+
+id: (traj_ww_ehd_16khz_noisecancelling_9)
+Scores: (#C #S #D #I) 9 1 0 0
+REF:  xale BU gã³or baa ngiy jaar ci kow pom bi 
+HYP:  xale BI gã³or baa ngiy jaar ci kow pom bi 
+Eval:      S                                    
+
+

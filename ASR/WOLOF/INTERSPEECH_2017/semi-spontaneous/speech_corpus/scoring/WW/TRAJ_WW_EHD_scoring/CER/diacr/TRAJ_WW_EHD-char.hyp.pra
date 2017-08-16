@@ -1,0 +1,473 @@
+
+
+		DUMP OF SYSTEM ALIGNMENT STRUCTURE
+
+System name:   TRAJ_WW_EHD-char.hyp
+
+Speakers: 
+    0:  traj
+
+Speaker sentences   0:  traj   #utts: 77
+id: (traj_ww_ehd_16khz_noisecancelling_1)
+Scores: (#C #S #D #I) 31 0 0 0
+REF:  k u g ã³ o r a k j i g ã© e n ã± u n g i s ã  n e e n t e a b a l 
+HYP:  k u g ã³ o r a k j i g ã© e n ã± u n g i s ã  n e e n t e a b a l 
+Eval:                                                                   
+
+id: (traj_ww_ehd_16khz_noisecancelling_10)
+Scores: (#C #S #D #I) 33 1 0 1
+REF:  x a l * e B u g ã³ o r b a a n g i t ã« d d c i ã± a x m i d i n e l a w 
+HYP:  x a l E e L u g ã³ o r b a a n g i t ã« d d c i ã± a x m i d i n e l a w 
+Eval:       I   S                                                              
+
+id: (traj_ww_ehd_16khz_noisecancelling_11)
+Scores: (#C #S #D #I) 35 1 0 1
+REF:  x a l * e B u g ã³ o r b a a n g i r o m b c i g a n n a a w g a r a b g i 
+HYP:  x a l E e L u g ã³ o r b a a n g i r o m b c i g a n n a a w g a r a b g i 
+Eval:       I   S                                                                
+
+id: (traj_ww_ehd_16khz_noisecancelling_12)
+Scores: (#C #S #D #I) 19 3 7 0
+REF:  n d a w s a a N G I t o o g C I ã± a x m I D i P e ã± E  w U 
+HYP:  n d a w s a a * * Y t o o g * * ã± a x m * * i T e ã± Ã³ w * 
+Eval:               D D S         D D          D D   S      S    D 
+
+id: (traj_ww_ehd_16khz_noisecancelling_13)
+Scores: (#C #S #D #I) 39 0 0 1
+REF:  x a l e b u g ã³ o r b a a n g i j a a r c i y o o n w i l e e r u * t u n d w i 
+HYP:  x a l e b u g ã³ o r b a a n g i j a a r c i y o o n w i l e e r u L t u n d w i 
+Eval:                                                                    I             
+
+id: (traj_ww_ehd_16khz_noisecancelling_14)
+Scores: (#C #S #D #I) 26 0 2 0
+REF:  x a l e Y U j i g ã© e n y a a n g i j ã© g g i p o m b i 
+HYP:  x a l e * * j i g ã© e n y a a n g i j ã© g g i p o m b i 
+Eval:         D D                                               
+
+id: (traj_ww_ehd_16khz_noisecancelling_15)
+Scores: (#C #S #D #I) 31 4 1 1
+REF:  x a l * e B u g ã³ o r b a a n g i c Ã« P p Ã© E l u c i b i i r g ã© e j g i 
+HYP:  x a l E e L u g ã³ o r b a a n g i c ** A p I  I l u c i b i i r g ã© e j g i 
+Eval:       I   S                          D  S   S  S                              
+
+id: (traj_ww_ehd_16khz_noisecancelling_16)
+Scores: (#C #S #D #I) 27 1 0 1
+REF:  x a l * e B u g ã³ o r b a a n g i x u u s c i n d o x m i 
+HYP:  x a l E e L u g ã³ o r b a a n g i x u u s c i n d o x m i 
+Eval:       I   S                                                
+
+id: (traj_ww_ehd_16khz_noisecancelling_17)
+Scores: (#C #S #D #I) 43 2 1 0
+REF:  x a l e b u g ã³ o r b a a n g i j ã« m c i n d a w s U j i g ã© e n S i t ã« d d c i ã± a X m i 
+HYP:  x a l e b u g ã³ o r b a a n g i j ã« m c i n d a w s I j i g ã© e n C i t ã« d d c i ã± a * m i 
+Eval:                                                       S              S                     D     
+
+id: (traj_ww_ehd_16khz_noisecancelling_18)
+Scores: (#C #S #D #I) 30 1 0 1
+REF:  x a l * e B u g ã³ o r b a a n g i w i t t x o b i g a r a b g i 
+HYP:  x a l E e L u g ã³ o r b a a n g i w i t t x o b i g a r a b g i 
+Eval:       I   S                                                      
+
+id: (traj_ww_ehd_16khz_noisecancelling_19)
+Scores: (#C #S #D #I) 24 0 0 0
+REF:  n d a w s a a n g i j ã« m s i c i g a r a b g i 
+HYP:  n d a w s a a n g i j ã« m s i c i g a r a b g i 
+Eval:                                                  
+
+id: (traj_ww_ehd_16khz_noisecancelling_2)
+Scores: (#C #S #D #I) 29 4 1 0
+REF:  s o x n a s A A  N  G  i l a l m b a l a a n a m d I w a a j a t o o g 
+HYP:  s o x n a s * Ã  Ã± Ã± i l a l m b a l a a n a m d U w a a j a t o o g 
+Eval:             D S  S  S                              S                   
+
+id: (traj_ww_ehd_16khz_noisecancelling_20)
+Scores: (#C #S #D #I) 36 1 2 1
+REF:  x a l * e B u g ã³ o r B I r o m b n a n i t ã± i d u g g c i b i i r x u n t m i 
+HYP:  x a l E e L u g ã³ o r * * r o m b n a n i t ã± i d u g g c i b i i r x u n t m i 
+Eval:       I   S            D D                                                        
+
+id: (traj_ww_ehd_16khz_noisecancelling_21)
+Scores: (#C #S #D #I) 27 0 0 0
+REF:  n d a w s a a n g i d o o r b a l b i a k t ã  n k a m 
+HYP:  n d a w s a a n g i d o o r b a l b i a k t ã  n k a m 
+Eval:                                                        
+
+id: (traj_ww_ehd_16khz_noisecancelling_22)
+Scores: (#C #S #D #I) 33 1 0 0
+REF:  n d a w s U j i g ã© e n s a a n g i d ã« d d u g a r a b i d i d e m 
+HYP:  n d a w s I j i g ã© e n s a a n g i d ã« d d u g a r a b i d i d e m 
+Eval:           S                                                           
+
+id: (traj_ww_ehd_16khz_noisecancelling_23)
+Scores: (#C #S #D #I) 25 0 0 0
+REF:  x a l e b u g ã³ o r b a a n g i r o m b d i d a w 
+HYP:  x a l e b u g ã³ o r b a a n g i r o m b d i d a w 
+Eval:                                                    
+
+id: (traj_ww_ehd_16khz_noisecancelling_25)
+Scores: (#C #S #D #I) 40 0 4 0
+REF:  x a l e b u j i g ã© e n B I g ã© N n n A c i x u n t m i j ã« l p a ã± e b i d u g g a a t 
+HYP:  x a l e b u j i g ã© e n * * g ã© * n n * c i x u n t m i j ã« l p a ã± e b i d u g g a a t 
+Eval:                          D D      D     D                                                   
+
+id: (traj_ww_ehd_16khz_noisecancelling_26)
+Scores: (#C #S #D #I) 44 1 2 1
+REF:  x a l * e B u g ã³ o r B I d o o r a a t n a b a l b i m u d e m c i x a l e b u j i g ã© e n b i 
+HYP:  x a l E e L u g ã³ o r * * d o o r a a t n a b a l b i m u d e m c i x a l e b u j i g ã© e n b i 
+Eval:       I   S            D D                                                                        
+
+id: (traj_ww_ehd_16khz_noisecancelling_27)
+Scores: (#C #S #D #I) 22 2 5 0
+REF:  n d a w s A a N G I ã± Ã  B B s a g d u g g c i t o o l b i 
+HYP:  n d a w s * a * * * ã± ** A M s a g d u g g c i t o o l b i 
+Eval:           D   D D D    D  S S                               
+
+id: (traj_ww_ehd_16khz_noisecancelling_28)
+Scores: (#C #S #D #I) 27 1 0 1
+REF:  x a l * e B u g ã³ o r b a a n g i y d u g g c i ã  l l b i 
+HYP:  x a l E e L u g ã³ o r b a a n g i y d u g g c i ã  l l b i 
+Eval:       I   S                                                 
+
+id: (traj_ww_ehd_16khz_noisecancelling_29)
+Scores: (#C #S #D #I) 29 5 2 1
+REF:  x a l * e B u g ã³ o r b i c Ã« P p Ã© e l O o N a c i x e e r b i d i d A w 
+HYP:  x a l E e L u g ã³ o r b i c ** A p ** e l L o L a c i x e e r b i d i d O w 
+Eval:       I   S                  D  S   D      S   S                         S   
+
+id: (traj_ww_ehd_16khz_noisecancelling_3)
+Scores: (#C #S #D #I) 27 1 0 1
+REF:  x a l * e B u g ã³ o r b a a n g i w ã  c c c i t u n d w i 
+HYP:  x a l E e L u g ã³ o r b a a n g i w ã  c c c i t u n d w i 
+Eval:       I   S                                                 
+
+id: (traj_ww_ehd_16khz_noisecancelling_30)
+Scores: (#C #S #D #I) 36 1 0 1
+REF:  n d a w s i s ã© d d o o n a b a n a a n a b i a k x a l * e B u g ã³ o r b i 
+HYP:  n d a w s i s ã© d d o o n a b a n a a n a b i a k x a l E e L u g ã³ o r b i 
+Eval:                                                          I   S                
+
+id: (traj_ww_ehd_16khz_noisecancelling_31)
+Scores: (#C #S #D #I) 34 0 0 0
+REF:  x a l e b u j i g ã© e n b a a n g i t o o g d i l ã© t t b o p p a m 
+HYP:  x a l e b u j i g ã© e n b a a n g i t o o g d i l ã© t t b o p p a m 
+Eval:                                                                       
+
+id: (traj_ww_ehd_16khz_noisecancelling_32)
+Scores: (#C #S #D #I) 30 1 1 0
+REF:  x a l e b u j i g ã© e n b i g ã© N n n A c i ã  l l b i d i d e m 
+HYP:  x a l e b u j i g ã© e n b i g ã© * n n E c i ã  l l b i d i d e m 
+Eval:                                   D     S                          
+
+id: (traj_ww_ehd_16khz_noisecancelling_33)
+Scores: (#C #S #D #I) 20 1 2 1
+REF:  x a l * e B u g ã³ o r B I t ã« b n a x e e r w i 
+HYP:  x a l E e L u g ã³ o r * * t ã« b n a x e e r w i 
+Eval:       I   S            D D                        
+
+id: (traj_ww_ehd_16khz_noisecancelling_34)
+Scores: (#C #S #D #I) 50 0 2 0
+REF:  x a l e e l u g ã³ o r b a a n g i y j ã« g g p o m b I D i d e m r o m b ã± e t t x a l e y u j i g ã© e n 
+HYP:  x a l e e l u g ã³ o r b a a n g i y j ã« g g p o m b * * i d e m r o m b ã± e t t x a l e y u j i g ã© e n 
+Eval:                                                       D D                                                   
+
+id: (traj_ww_ehd_16khz_noisecancelling_35)
+Scores: (#C #S #D #I) 51 1 0 1
+REF:  x a l e j i g ã© e n b a a n g i s o t t i l n d o x x a l * e B u g ã³ o r b i c i k a a s b i m u n a a n 
+HYP:  x a l e j i g ã© e n b a a n g i s o t t i l n d o x x a l E e L u g ã³ o r b i c i k a a s b i m u n a a n 
+Eval:                                                            I   S                                            
+
+id: (traj_ww_ehd_16khz_noisecancelling_36)
+Scores: (#C #S #D #I) 36 0 0 0
+REF:  x a l e b u j i g ã© e n b a a n g i j ã³ g e c i g a r a b g i d i d a w 
+HYP:  x a l e b u j i g ã© e n b a a n g i j ã³ g e c i g a r a b g i d i d a w 
+Eval:                                                                           
+
+id: (traj_ww_ehd_16khz_noisecancelling_37)
+Scores: (#C #S #D #I) 45 1 0 1
+REF:  x a l * e B u g ã³ o r g i r o m b n a p a ã± e b i t e g e m u d u g g c i b i i r x u n t m i 
+HYP:  x a l E e L u g ã³ o r g i r o m b n a p a ã± e b i t e g e m u d u g g c i b i i r x u n t m i 
+Eval:       I   S                                                                                     
+
+id: (traj_ww_ehd_16khz_noisecancelling_38)
+Scores: (#C #S #D #I) 41 1 1 0
+REF:  x a l e b u j i g ã© e n b i g ã© N n n A c i ã  l l b i j ã© g g i y o o n w i d i d e m 
+HYP:  x a l e b u j i g ã© e n b i g ã© * n n E c i ã  l l b i j ã© g g i y o o n w i d i d e m 
+Eval:                                   D     S                                                 
+
+id: (traj_ww_ehd_16khz_noisecancelling_39)
+Scores: (#C #S #D #I) 27 1 0 1
+REF:  x a l * e B u g ã³ o r b a a n g i y d u g g c i ã  l l b i 
+HYP:  x a l E e L u g ã³ o r b a a n g i y d u g g c i ã  l l b i 
+Eval:       I   S                                                 
+
+id: (traj_ww_ehd_16khz_noisecancelling_4)
+Scores: (#C #S #D #I) 23 2 1 1
+REF:  x a l * e B u g ã³ o r b i g ã© N n n A c i g ã© e j g i 
+HYP:  x a l E e L u g ã³ o r b i g ã© * n n E c i g ã© e j g i 
+Eval:       I   S                     D     S                  
+
+id: (traj_ww_ehd_16khz_noisecancelling_40)
+Scores: (#C #S #D #I) 29 2 0 1
+REF:  x a l * e B u g ã³ o r b a a n g i j a a r c i y o o n w i d A w 
+HYP:  x a l E e L u g ã³ o r b a a n g i j a a r c i y o o n w i d O w 
+Eval:       I   S                                                  S   
+
+id: (traj_ww_ehd_16khz_noisecancelling_41)
+Scores: (#C #S #D #I) 41 0 3 0
+REF:  x a l e b u j i g ã© e n b i g ã© n n e N A c i x u n t b i j a a R s i y o o n w i d e m 
+HYP:  x a l e b u j i g ã© e n b i g ã© n n e * * c i x u n t b i j a a * s i y o o n w i d e m 
+Eval:                                         D D                       D                       
+
+id: (traj_ww_ehd_16khz_noisecancelling_42)
+Scores: (#C #S #D #I) 36 4 8 2
+REF:  x a l * e B u g ã³ o r b a a n g i y W Ã© E R U c i g a r a b g i n * Ã  b B a b l i V r E d I L i i r 
+HYP:  x a l E e L u g ã³ o r b a a n g i y * ** * * * c i g a r a b g i n G A  b A a b l i I r * d * * i i r 
+Eval:       I   S                          D D  D D D                     I S    S         S   D   D D       
+
+id: (traj_ww_ehd_16khz_noisecancelling_43)
+Scores: (#C #S #D #I) 41 2 0 1
+REF:  x a l e b u j i g ã© e n b a a n g i y j a a r c i y o o n w i d i y ã© * E G x u n t w i 
+HYP:  x a l e b u j i g ã© e n b a a n g i y j a a r c i y o o n w i d i y ã© K K U x u n t w i 
+Eval:                                                                         I S S             
+
+id: (traj_ww_ehd_16khz_noisecancelling_44)
+Scores: (#C #S #D #I) 25 0 0 0
+REF:  x a l e b u j i g ã© e n b i l e m n a y ã© r e y i 
+HYP:  x a l e b u j i g ã© e n b i l e m n a y ã© r e y i 
+Eval:                                                     
+
+id: (traj_ww_ehd_16khz_noisecancelling_45)
+Scores: (#C #S #D #I) 32 2 9 0
+REF:  x a l e b u j i g ã© e n b a a n g i G Ã© N n e c i x u n t b i Y Ã© E G e s k A L E  y I 
+HYP:  x a l e b u j i g ã© e n b a a n g i * ** * n e c i x u n t b i * ** * I e s k * * Ã« y * 
+Eval:                                      D D  D                     D D  D S       D D S    D 
+
+id: (traj_ww_ehd_16khz_noisecancelling_46)
+Scores: (#C #S #D #I) 36 0 0 0
+REF:  x a l e b u j i g ã© e n b a a n g i y j a a r c i y o o n w i d i ã± ã³ w 
+HYP:  x a l e b u j i g ã© e n b a a n g i y j a a r c i y o o n w i d i ã± ã³ w 
+Eval:                                                                            
+
+id: (traj_ww_ehd_16khz_noisecancelling_47)
+Scores: (#C #S #D #I) 43 1 0 0
+REF:  x a l e b u j i g ã© e n b a a n g i y j a a r y o o n w i j ã« m c i b i i r x u n t M i 
+HYP:  x a l e b u j i g ã© e n b a a n g i y j a a r y o o n w i j ã« m c i b i i r x u n t W i 
+Eval:                                                                                       S   
+
+id: (traj_ww_ehd_16khz_noisecancelling_48)
+Scores: (#C #S #D #I) 35 0 2 0
+REF:  x a l e B U j i g ã© e n b a a n g i r o m b c i k a n a m u g a r a b g i 
+HYP:  x a l e * * j i g ã© e n b a a n g i r o m b c i k a n a m u g a r a b g i 
+Eval:         D D                                                                
+
+id: (traj_ww_ehd_16khz_noisecancelling_49)
+Scores: (#C #S #D #I) 33 2 0 3
+REF:  x a l e * ** * B U j i g ã© e n b a a n g i j ã³ g e c i y o o n w i d i ã± ã³ w 
+HYP:  x a l e D Ã  Q A L j i g ã© e n b a a n g i j ã³ g e c i y o o n w i d i ã± ã³ w 
+Eval:         I I  I S S                                                               
+
+id: (traj_ww_ehd_16khz_noisecancelling_5)
+Scores: (#C #S #D #I) 21 0 0 1
+REF:  k u g ã³ o r k i m * a n g i n a a n n d o x 
+HYP:  k u g ã³ o r k i m A a n g i n a a n n d o x 
+Eval:                    I                         
+
+id: (traj_ww_ehd_16khz_noisecancelling_50)
+Scores: (#C #S #D #I) 26 8 6 0
+REF:  ã± e t t i n i t j O G e n A n U C i Y Ã³ O n W i j Ã  d d S E E N n d e y j o o r 
+HYP:  ã± e t t i n i t j * * e n * n * J i G Ã© E n B i j A  d d * * C I n d e y j o o r 
+Eval:                    D D     D   D S   S S  S   S     S      D D S S                 
+
+id: (traj_ww_ehd_16khz_noisecancelling_51)
+Scores: (#C #S #D #I) 40 1 0 1
+REF:  x a l e b u j i g ã© e n b a a n g i x a l * e B u g ã³ o r b a a n g i s u m m i k u 
+HYP:  x a l e b u j i g ã© e n b a a n g i x a l E e L u g ã³ o r b a a n g i s u m m i k u 
+Eval:                                            I   S                                      
+
+id: (traj_ww_ehd_16khz_noisecancelling_52)
+Scores: (#C #S #D #I) 34 1 4 0
+REF:  x a l e b u j i g ã© e n b i g ã© N n E n A c i t o o l b i n a a b a B p a Ã± e 
+HYP:  x a l e b u j i g ã© e n b i g ã© * n * n * c i t o o l b i n a a b a * p a R  e 
+Eval:                                   D   D   D                           D     S    
+
+id: (traj_ww_ehd_16khz_noisecancelling_53)
+Scores: (#C #S #D #I) 30 2 0 1
+REF:  x a l * e B u g ã³ o r d u t ã« b n A y ã© e g c i k o w x e e r w i 
+HYP:  x a l E e L u g ã³ o r d u t ã« b n E y ã© e g c i k o w x e e r w i 
+Eval:       I   S                         S                                
+
+id: (traj_ww_ehd_16khz_noisecancelling_54)
+Scores: (#C #S #D #I) 49 3 3 2
+REF:  x a l * e B u g ã³ o r B i g ã© n n E n a c i x u n t w i t a x a w c i w e t u m o r o m x a l * e B u g ã³ o r B I 
+HYP:  x a l E e L u g ã³ o r G i g ã© n n * n a c i x u n t w i t a x a w c i w e t u m o r o m x a l E e L u g ã³ o r * * 
+Eval:       I   S            S            D                                                           I   S            D D 
+
+id: (traj_ww_ehd_16khz_noisecancelling_55)
+Scores: (#C #S #D #I) 47 0 0 1
+REF:  x a l e b u j i g ã© e n b a a n g i w ã  c c * i s k a l e t a x a w c i k a n a m u n d o x m i 
+HYP:  x a l e b u j i g ã© e n b a a n g i w ã  c c E i s k a l e t a x a w c i k a n a m u n d o x m i 
+Eval:                                               I                                                   
+
+id: (traj_ww_ehd_16khz_noisecancelling_56)
+Scores: (#C #S #D #I) 47 1 1 1
+REF:  x a l e b u j i g ã© e n b a a n g i j ã© g g i p o m B i r o m b x a l * e B u g ã³ o r b i t a x a w 
+HYP:  x a l e b u j i g ã© e n b a a n g i j ã© g g i p o m * i r o m b x a l E e L u g ã³ o r b i t a x a w 
+Eval:                                                       D                 I   S                          
+
+id: (traj_ww_ehd_16khz_noisecancelling_57)
+Scores: (#C #S #D #I) 45 1 0 1
+REF:  x a l e b u j i g ã© e n b a a n g i w ã  c c * i s k a l e t a x a w c I k a n a m n d o x m i 
+HYP:  x a l e b u j i g ã© e n b a a n g i w ã  c c E i s k a l e t a x a w c A k a n a m n d o x m i 
+Eval:                                               I                         S                       
+
+id: (traj_ww_ehd_16khz_noisecancelling_58)
+Scores: (#C #S #D #I) 27 1 0 1
+REF:  x a l * e B u g ã³ o r b a a n g i g ã© n n e c i ã  l l b i 
+HYP:  x a l E e L u g ã³ o r b a a n g i g ã© n n e c i ã  l l b i 
+Eval:       I   S                                                  
+
+id: (traj_ww_ehd_16khz_noisecancelling_59)
+Scores: (#C #S #D #I) 41 3 5 1
+REF:  x a l * e B u g ã³ o r b a a n g i j ã³ g e c i w e t u n d a w s i t Ã« D D c I i ã± a X m I D i d e m 
+HYP:  x a l E e L u g ã³ o r b a a n g i j ã³ g e c i w e t u n d a w s i t ** E G c * i ã± a * m * * i d e m 
+Eval:       I   S                                                           D  S S   D        D   D D         
+
+id: (traj_ww_ehd_16khz_noisecancelling_6)
+Scores: (#C #S #D #I) 34 0 3 1
+REF:  n d a w s a a n g i G Ã© N n e c i n d o x m i d i y ã© e g i s k a l e y * i 
+HYP:  n d a w s a a n g i * ** * n e c i n d o x m i d i y ã© e g i s k a l e y I i 
+Eval:                     D D  D                                                I   
+
+id: (traj_ww_ehd_16khz_noisecancelling_60)
+Scores: (#C #S #D #I) 37 1 0 1
+REF:  x a l * e B u g ã³ o r b a a n g i j ã© g g i y o o n w i d u g g c i ã  l l b i 
+HYP:  x a l E e L u g ã³ o r b a a n g i j ã© g g i y o o n w i d u g g c i ã  l l b i 
+Eval:       I   S                                                                      
+
+id: (traj_ww_ehd_16khz_noisecancelling_61)
+Scores: (#C #S #D #I) 37 2 4 0
+REF:  x a l e B U j i g ã© e n b a a N G I j a a r c i g i n n a a w g a r a b g i d i d A w 
+HYP:  x a l e * * j i g ã© e n b a a * * Y j a a r c i g i n n a a w g a r a b g i d i d O w 
+Eval:         D D                    D D S                                               S   
+
+id: (traj_ww_ehd_16khz_noisecancelling_63)
+Scores: (#C #S #D #I) 34 1 1 1
+REF:  x a l * e B u g ã³ o r b a w e e r g a r a b g i d i l e k k b a n a a n A 
+HYP:  x a l E e L u g ã³ o r b a w e e r g a r a b g i d i l e k k b a n a a n * 
+Eval:       I   S                                                              D 
+
+id: (traj_ww_ehd_16khz_noisecancelling_64)
+Scores: (#C #S #D #I) 37 9 9 3
+REF:  x a l * e B u g ã³ o r b A a N G i * j o n k a n C I W E T U n D O W m I D i s * Ã  n e k a n a a r A Y i ã± u l e k k 
+HYP:  x a l E e L u g ã³ o r b * a * Y i T j o n k a n * * * * J O n * G A m A G i s A A  n e k a n a a r * * i ã± u l e k k 
+Eval:       I   S              D   D S   I             D D D D S S   D S S   S S     I S                  D D                
+
+id: (traj_ww_ehd_16khz_noisecancelling_65)
+Scores: (#C #S #D #I) 31 0 2 0
+REF:  x a l e B U j i g ã© e n b a a n g i r o m b d u g g c i ã  l l b i 
+HYP:  x a l e * * j i g ã© e n b a a n g i r o m b d u g g c i ã  l l b i 
+Eval:         D D                                                         
+
+id: (traj_ww_ehd_16khz_noisecancelling_66)
+Scores: (#C #S #D #I) 30 0 0 0
+REF:  x a l e b u j i g ã© e n b a a n g i y ã© e g i s k a l e y i 
+HYP:  x a l e b u j i g ã© e n b a a n g i y ã© e g i s k a l e y i 
+Eval:                                                               
+
+id: (traj_ww_ehd_16khz_noisecancelling_67)
+Scores: (#C #S #D #I) 30 3 3 1
+REF:  x a l * e B u g ã³ o r b a a n g i T Ã« B t a x a w c i W e n e e n x e e R 
+HYP:  x a l E e L u g ã³ o r b a a n g i * ** * t a x a w c i Y e n e e n x e e T 
+Eval:       I   S                        D D  D               S                 S 
+
+id: (traj_ww_ehd_16khz_noisecancelling_68)
+Scores: (#C #S #D #I) 29 0 0 0
+REF:  x a l e b u j i g ã© e n b a a n g i s o l a y d ã  l l a m 
+HYP:  x a l e b u j i g ã© e n b a a n g i s o l a y d ã  l l a m 
+Eval:                                                             
+
+id: (traj_ww_ehd_16khz_noisecancelling_69)
+Scores: (#C #S #D #I) 35 3 5 1
+REF:  x a l * e B u g ã³ o r b a a n g i g ã© n n E c i x u n t M I D i j ã© g g a T x E e r Y i 
+HYP:  x a l E e L u g ã³ o r b a a n g i g ã© n n * c i x u n t * * B i j ã© g g a L x * e r * i 
+Eval:       I   S                                 D             D D S              S   D     D   
+
+id: (traj_ww_ehd_16khz_noisecancelling_7)
+Scores: (#C #S #D #I) 41 1 4 1
+REF:  x a l e b u j i g ã© e n b a a N G I w ã  c c * i s k a l e Y I d u g g c i b i i r x u n t m i 
+HYP:  x a l e b u j i g ã© e n b a a * * Y w ã  c c E i s k a l e * * d u g g c i b i i r x u n t m i 
+Eval:                                D D S          I             D D                                 
+
+id: (traj_ww_ehd_16khz_noisecancelling_70)
+Scores: (#C #S #D #I) 32 0 8 0
+REF:  x a l E B U J I G Ã© e N b a a n g i d a w j a a r c i k a n a m u g a r a b g i 
+HYP:  x a l * * * * * * ** e * b a a n g i d a w j a a r c i k a n a m u g a r a b g i 
+Eval:       D D D D D D D    D                                                         
+
+id: (traj_ww_ehd_16khz_noisecancelling_71)
+Scores: (#C #S #D #I) 29 5 4 0
+REF:  N D A W s a a n G I s u M M I d ã  l l a m t a x a w c i k o w b a s a n b i 
+HYP:  * * C O s a a n * U s u * N U d ã  l l a m t a x a w c i k o w b a s a n b i 
+Eval: D D S S         D S     D S S                                                
+
+id: (traj_ww_ehd_16khz_noisecancelling_73)
+Scores: (#C #S #D #I) 26 1 0 1
+REF:  x a l * e B u g ã³ o r b a a n g i s o l a y y ã© r e e m 
+HYP:  x a l E e L u g ã³ o r b a a n g i s o l a y y ã© r e e m 
+Eval:       I   S                                               
+
+id: (traj_ww_ehd_16khz_noisecancelling_75)
+Scores: (#C #S #D #I) 32 1 0 0
+REF:  x a l e b u j i g ã© e n b a a n g i y d u g g S i c i x u n t m i 
+HYP:  x a l e b u j i g ã© e n b a a n g i y d u g g C i c i x u n t m i 
+Eval:                                                S                   
+
+id: (traj_ww_ehd_16khz_noisecancelling_76)
+Scores: (#C #S #D #I) 36 1 2 1
+REF:  x a l * e B u g ã³ o r b a a n g i j ã© g g i x Ã© e r Y i d u g g c i x u n t w i 
+HYP:  x a l E e L u g ã³ o r b a a n g i j ã© g g i x ** e r * i d u g g c i x u n t w i 
+Eval:       I   S                                     D      D                           
+
+id: (traj_ww_ehd_16khz_noisecancelling_77)
+Scores: (#C #S #D #I) 25 0 0 0
+REF:  x a l e b u j i g ã© e n b a a n g i s u m m i k u 
+HYP:  x a l e b u j i g ã© e n b a a n g i s u m m i k u 
+Eval:                                                    
+
+id: (traj_ww_ehd_16khz_noisecancelling_79)
+Scores: (#C #S #D #I) 30 0 1 0
+REF:  x a l e b u j i g ã© e n b a a n g i g ã© n n E c i x u n t w i 
+HYP:  x a l e b u j i g ã© e n b a a n g i g ã© n n * c i x u n t w i 
+Eval:                                               D                 
+
+id: (traj_ww_ehd_16khz_noisecancelling_8)
+Scores: (#C #S #D #I) 17 5 0 2
+REF:  x a l * e B u g ã³ o r b i * T Ã« B n a d Ã« x g i 
+HYP:  x a l E e L u g ã³ o r b i P E E  R n a d E  x g i 
+Eval:       I   S                I S S  S       S        
+
+id: (traj_ww_ehd_16khz_noisecancelling_81)
+Scores: (#C #S #D #I) 28 2 1 0
+REF:  x a l e b u j i g ã© e n b i t o o g n a c i k o w n Ã  P P b i 
+HYP:  x a l e b u j i g ã© e n b i t o o g n a c i k o w n ** A B b i 
+Eval:                                                      D  S S     
+
+id: (traj_ww_ehd_16khz_noisecancelling_82)
+Scores: (#C #S #D #I) 30 4 4 2
+REF:  x a l E B U j i g ã© e n b a a n g i y d o x * * T a X a W W E t u g a r a b b i 
+HYP:  x a l * * * j i g ã© e n b a a n g i y d o x D I D a R a * J O t u g a r a b b i 
+Eval:       D D D                                  I I S   S   D S S                   
+
+id: (traj_ww_ehd_16khz_noisecancelling_83)
+Scores: (#C #S #D #I) 23 0 0 0
+REF:  n i t ã± a a n g i ã  n d j ã© g g i y o o n w i 
+HYP:  n i t ã± a a n g i ã  n d j ã© g g i y o o n w i 
+Eval:                                                  
+
+id: (traj_ww_ehd_16khz_noisecancelling_9)
+Scores: (#C #S #D #I) 30 1 0 0
+REF:  x a l e b U g ã³ o r b a a n g i y j a a r c i k o w p o m b i 
+HYP:  x a l e b I g ã³ o r b a a n g i y j a a r c i k o w p o m b i 
+Eval:           S                                                    
+
+

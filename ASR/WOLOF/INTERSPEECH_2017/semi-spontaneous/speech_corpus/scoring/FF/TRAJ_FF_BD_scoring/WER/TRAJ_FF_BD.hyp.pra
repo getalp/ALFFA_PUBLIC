@@ -1,0 +1,575 @@
+
+
+		DUMP OF SYSTEM ALIGNMENT STRUCTURE
+
+System name:   TRAJ_FF_BD.hyp
+
+Speakers: 
+    0:  traj
+
+Speaker sentences   0:  traj   #utts: 94
+id: (traj_ff_bd_16khz_noisereduced_1)
+Scores: (#C #S #D #I) 0 2 1 0
+REF:  FOO SàNNI BAL  
+HYP:  *** COSAAN BAAL 
+Eval: D   S      S    
+
+id: (traj_ff_bd_16khz_noisereduced_100)
+Scores: (#C #S #D #I) 0 7 1 0
+REF:  KII FAAY WàCC FA HEEGOON BA    DA       WàCCAAT 
+HYP:  *** AB   AH    CI SA      WàJJ FEXEWOON WàCCAT  
+Eval: D   S    S     S  S       S     S        S        
+
+id: (traj_ff_bd_16khz_noisereduced_104)
+Scores: (#C #S #D #I) 0 2 1 0
+REF:  KII FAAY HéEGAAT 
+HYP:  *** YU   FEYAAT   
+Eval: D   S    S        
+
+id: (traj_ff_bd_16khz_noisereduced_105)
+Scores: (#C #S #D #I) 1 5 4 0
+REF:  GóOR AK JIGéEN LAñ FAñ  TOOG    MAY NA   KO    banaana 
+HYP:  ***** ** ******* **** GORON ëLLëG FEN TOGG MAROK banaana 
+Eval: D     D  D       D    S     S       S   S    S             
+
+id: (traj_ff_bd_16khz_noisereduced_106)
+Scores: (#C #S #D #I) 1 6 8 0
+REF:  GóOR GI FAAY WAAXU CI ñAX MI JEM CI    JIGéEN  JI    JIGéEN JI   FAAY nelaw 
+HYP:  ***** ** **** ***** ** **** ** *** NOONU RAWATINA WEDDI JéND   JéN FA   nelaw 
+Eval: D     D  D    D     D  D    D  D   S     S        S     S       S    S          
+
+id: (traj_ff_bd_16khz_noisereduced_107)
+Scores: (#C #S #D #I) 0 4 0 0
+REF:  FAAY SUMMI MBUB MI  
+HYP:  FAS  WI    MU   MER 
+Eval: S    S     S    S   
+
+id: (traj_ff_bd_16khz_noisereduced_108)
+Scores: (#C #S #D #I) 0 3 1 0
+REF:  FA SOL ñAARI MBUBBU 
+HYP:  ** KU  SONNAL WOOWU  
+Eval: D  S   S      S      
+
+id: (traj_ff_bd_16khz_noisereduced_109)
+Scores: (#C #S #D #I) 0 1 2 0
+REF:  FA KO TëHE  
+HYP:  ** ** FóOTE 
+Eval: D  D  S      
+
+id: (traj_ff_bd_16khz_noisereduced_11)
+Scores: (#C #S #D #I) 1 4 2 0
+REF:  YEEN  �i FEEN CI KOW   DOJ YI  
+HYP:  YéEN �i **** ** FECCI KO  DOY 
+Eval: S         D    D  S     S   S   
+
+id: (traj_ff_bd_16khz_noisereduced_110)
+Scores: (#C #S #D #I) 1 1 0 0
+REF:  FAAY daw 
+HYP:  FA   daw 
+Eval: S        
+
+id: (traj_ff_bd_16khz_noisereduced_112)
+Scores: (#C #S #D #I) 0 3 1 0
+REF:  FAAY SOLAAT MBUMB MI     
+HYP:  **** FAS    LA    NDUMBE 
+Eval: D    S      S     S      
+
+id: (traj_ff_bd_16khz_noisereduced_113)
+Scores: (#C #S #D #I) 0 4 2 0
+REF:  WAAW SOL NA KO BA      PARE 
+HYP:  **** *** MA WE SOLOWOO BAR  
+Eval: D    D   S  S  S       S    
+
+id: (traj_ff_bd_16khz_noisereduced_115)
+Scores: (#C #S #D #I) 1 2 3 0
+REF:  FAAY WAAXU CI ñAX   MI      rekk 
+HYP:  **** ***** ** FAWOON ñAWOON rekk 
+Eval: D    D     D  S      S            
+
+id: (traj_ff_bd_16khz_noisereduced_116)
+Scores: (#C #S #D #I) 0 2 1 0
+REF:  XAWMA FUM   JëM 
+HYP:  ***** XOOXU JëF 
+Eval: D     S     S    
+
+id: (traj_ff_bd_16khz_noisereduced_118)
+Scores: (#C #S #D #I) 1 1 1 0
+REF:  KII FAAY  firi 
+HYP:  *** DAFAY firi 
+Eval: D   S          
+
+id: (traj_ff_bd_16khz_noisereduced_119)
+Scores: (#C #S #D #I) 0 2 0 0
+REF:  FAAY JARAT 
+HYP:  KAAY GARAB 
+Eval: S    S     
+
+id: (traj_ff_bd_16khz_noisereduced_12)
+Scores: (#C #S #D #I) 0 6 3 0
+REF:  KII FA TAXAW WéEW CI DOJ  CI WEñ  GI    
+HYP:  *** ** ***** DIWAL KO NGIR YI DAñU LENGE 
+Eval: D   D  D     S     S  S    S  S     S     
+
+id: (traj_ff_bd_16khz_noisereduced_121)
+Scores: (#C #S #D #I) 2 5 3 0
+REF:  fa DAW HéEG CI garab DAAN GI JéGGI NA    KO     
+HYP:  fa *** DOXE  CA garab **** ** GA     DAGGE GINAAW 
+Eval:    D   S     S        D    D  S      S     S      
+
+id: (traj_ff_bd_16khz_noisereduced_122)
+Scores: (#C #S #D #I) 3 4 1 0
+REF:  jig�en GI FAAY SUMMI MBUBB MI fa toog 
+HYP:  jig�en ** JI   FAJ   MU    NE fa toog 
+Eval:         D  S    S     S     S          
+
+id: (traj_ff_bd_16khz_noisereduced_123)
+Scores: (#C #S #D #I) 1 3 0 0
+REF:  XAM NAA fa TàNG 
+HYP:  AM  NA  fa TANGO 
+Eval: S   S      S     
+
+id: (traj_ff_bd_16khz_noisereduced_124)
+Scores: (#C #S #D #I) 0 4 2 0
+REF:  GUNE GAA NGEE DOX  DA  DIKK 
+HYP:  **** *** WAR  NGAA DOO DOG  
+Eval: D    D   S    S    S   S    
+
+id: (traj_ff_bd_16khz_noisereduced_127)
+Scores: (#C #S #D #I) 0 5 2 0
+REF:  FAAY DAW JIGéEN JI    FAY    DAW DE    
+HYP:  **** *** FA      DAWUL DéENI FA  DAWAL 
+Eval: D    D   S       S     S      S   S     
+
+id: (traj_ff_bd_16khz_noisereduced_13)
+Scores: (#C #S #D #I) 2 1 5 0
+REF:  JIGéEN JI FA DOX DUG CI    ko dugub 
+HYP:  ******* ** ** *** *** NGEEN ko dugub 
+Eval: D       D  D  D   D   S              
+
+id: (traj_ff_bd_16khz_noisereduced_14)
+Scores: (#C #S #D #I) 1 5 2 0
+REF:  JIGéEN GI    FA MAY ndox MI GóOR GI   
+HYP:  ******* LEENI FU MA  ndox ** MU    BARE 
+Eval: D       S     S  S        D  S     S    
+
+id: (traj_ff_bd_16khz_noisereduced_15)
+Scores: (#C #S #D #I) 0 3 1 0
+REF:  JIGéEN GI    FAAY MAABU 
+HYP:  ******* LéEN FA   MAW   
+Eval: D       S     S    S     
+
+id: (traj_ff_bd_16khz_noisereduced_16)
+Scores: (#C #S #D #I) 4 2 1 0
+REF:  FA DOX    DUGGU ci biir garab yi 
+HYP:  ** PODOOR DUGG  ci biir garab yi 
+Eval: D  S      S                      
+
+id: (traj_ff_bd_16khz_noisereduced_17)
+Scores: (#C #S #D #I) 1 4 5 0
+REF:  ñII ñOOM NëPP A BëGG A   DUGGU ci NDOX MI    
+HYP:  **** ***** ***** * LI    ñU NëBB ci **** NDODD 
+Eval: D    D     D     D S     S   S        D    S     
+
+id: (traj_ff_bd_16khz_noisereduced_18)
+Scores: (#C #S #D #I) 0 8 5 0
+REF:  JIGéEN JI DAFA TëDD CI ñAX   MI   GóOR GAA    NGE DOX DA   DEM 
+HYP:  ******* ** **** ***** ** GéNNE WOTO BI    ñAWLE GOR NGA DOON LA  
+Eval: D       D  D    D     D  S      S    S     S      S   S   S    S   
+
+id: (traj_ff_bd_16khz_noisereduced_19)
+Scores: (#C #S #D #I) 1 4 3 0
+REF:  JIGéEN GAA NGEE DOX    CI BIIR garab YI 
+HYP:  ******* *** **** YENGAL BA BI   garab GI 
+Eval: D       D   D    S      S  S          S  
+
+id: (traj_ff_bd_16khz_noisereduced_20)
+Scores: (#C #S #D #I) 1 4 3 0
+REF:  g�or GI FA DAW HéEG TëB XEER WI    
+HYP:  g�or ** ** *** GU    NDAW GI   TOQAL 
+Eval:       D  D  D   S     S    S    S     
+
+id: (traj_ff_bd_16khz_noisereduced_22)
+Scores: (#C #S #D #I) 4 3 1 0
+REF:  GóOR GI FAAY dox dugg ci garab YI 
+HYP:  ***** DU FA   dox dugg ci garab BI 
+Eval: D     S  S                      S  
+
+id: (traj_ff_bd_16khz_noisereduced_23)
+Scores: (#C #S #D #I) 1 3 2 0
+REF:  GóOR GAŋ CI       BIIR garab YI 
+HYP:  ***** **** WóORADI BI   garab GI 
+Eval: D     D    S        S          S  
+
+id: (traj_ff_bd_16khz_noisereduced_24)
+Scores: (#C #S #D #I) 0 4 2 0
+REF:  FAAY DOX JëM CI   GARAB YI       
+HYP:  **** *** SA   DOOM JI    NDIGAALE 
+Eval: D    D   S    S    S     S        
+
+id: (traj_ff_bd_16khz_noisereduced_26)
+Scores: (#C #S #D #I) 0 3 1 0
+REF:  FAAY LEEM   MALAAN MI  
+HYP:  **** SALAAM MA     LAL 
+Eval: D    S      S      S   
+
+id: (traj_ff_bd_16khz_noisereduced_28)
+Scores: (#C #S #D #I) 1 2 3 0
+REF:  FA DUGGU CI BIIR  garab YI 
+HYP:  ** ***** ** KODDU garab GI 
+Eval: D  D     D  S           S  
+
+id: (traj_ff_bd_16khz_noisereduced_29)
+Scores: (#C #S #D #I) 1 4 1 0
+REF:  GUNE gi HéGGALAT NA     CI YI  
+HYP:  GONE gi ********* EGGALE BI DOY 
+Eval: S       D         S      S  S   
+
+id: (traj_ff_bd_16khz_noisereduced_3)
+Scores: (#C #S #D #I) 2 2 1 0
+REF:  jig�en JII FAAY LAL  malaan 
+HYP:  jig�en *** JI   ALAL malaan 
+Eval:         D   S    S           
+
+id: (traj_ff_bd_16khz_noisereduced_30)
+Scores: (#C #S #D #I) 0 3 2 0
+REF:  FA LAL BASAA   BI    DA    
+HYP:  ** *** FàLLAL WARAL GéNN 
+Eval: D  D   S       S     S     
+
+id: (traj_ff_bd_16khz_noisereduced_31)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  mu NGAA naan ndox 
+HYP:  mu NGA  naan ndox 
+Eval:    S              
+
+id: (traj_ff_bd_16khz_noisereduced_32)
+Scores: (#C #S #D #I) 2 4 6 0
+REF:  MU NE HUT   HéEG ci DOJ WI   t�b DUG CI NDOX MI      
+HYP:  ** ** NDUTT YI    ci *** DOYE t�b *** ** **** DUNDOON 
+Eval: D  D  S     S        D   S         D   D  D    S       
+
+id: (traj_ff_bd_16khz_noisereduced_33)
+Scores: (#C #S #D #I) 1 5 5 0
+REF:  HéEG CI DOJ WI    REKK  t�b DAL DI SUUF  DA DAW  
+HYP:  ***** ** *** XEETI DOYUL t�b *** ** DALDI SU NDAW 
+Eval: D     D  D   S     S          D   D  S     S  S    
+
+id: (traj_ff_bd_16khz_noisereduced_34)
+Scores: (#C #S #D #I) 3 8 0 0
+REF:  g�or gi fa TOOG CI SUUF  JëL KARNE BI  DA BIND    
+HYP:  g�or gi fa TOJ  SU DELLU KëR KAR   KAR NA DëGëR 
+Eval:             S    S  S     S    S     S   S  S       
+
+id: (traj_ff_bd_16khz_noisereduced_35)
+Scores: (#C #S #D #I) 0 4 2 0
+REF:  GUNE FAAY TëB  CI   DOJ   WI   
+HYP:  **** **** LAñU FARA TëGG DAJE 
+Eval: D    D    S     S    S     S    
+
+id: (traj_ff_bd_16khz_noisereduced_36)
+Scores: (#C #S #D #I) 5 4 2 0
+REF:  GóOR ñEEK JIGéEN ñI FAñU  toog g�or gi romb na LEEN 
+HYP:  ***** ***** GONE    GII LAFAñ toog g�or gi romb na LA   
+Eval: D     D     S       S   S                            S    
+
+id: (traj_ff_bd_16khz_noisereduced_4)
+Scores: (#C #S #D #I) 0 5 5 0
+REF:  JIGéEN GI FA NGëB SIWO BI    DUGG CI   NAX   MI   
+HYP:  ******* ** ** ***** **** YéEN NGA  SUUL DUGUB ñOR 
+Eval: D       D  D  D     D    S     S    S    S     S    
+
+id: (traj_ff_bd_16khz_noisereduced_40)
+Scores: (#C #S #D #I) 0 3 2 0
+REF:  GUNE GAA NGEE FO  AREKK    
+HYP:  **** *** MU   NGA DEFARAAT 
+Eval: D    D   S    S   S        
+
+id: (traj_ff_bd_16khz_noisereduced_41)
+Scores: (#C #S #D #I) 1 3 1 1
+REF:  ** FAñOO BAL g�or GEEK JIGéEN 
+HYP:  FU ñU    BAN g�or **** YEN     
+Eval: I  S      S         D    S       
+
+id: (traj_ff_bd_16khz_noisereduced_42)
+Scores: (#C #S #D #I) 1 2 3 0
+REF:  fa DAW DUGGU CI NDOX MI      
+HYP:  fa *** ***** ** NDAW DUNDOON 
+Eval:    D   D     D  S    S       
+
+id: (traj_ff_bd_16khz_noisereduced_43)
+Scores: (#C #S #D #I) 2 4 1 0
+REF:  JIGéEN JI   FAAY dugg ci NAX MI     
+HYP:  DI      LEEN FAY  dugg ci *** ñORUL 
+Eval: S       S    S            D   S      
+
+id: (traj_ff_bd_16khz_noisereduced_44)
+Scores: (#C #S #D #I) 1 5 4 0
+REF:  JIGéEN JI FA LAL BASAA BI      ba PARE    TOOG CI  
+HYP:  ******* ** ** *** GEEN  DEFALAL ba TANGOOR BA   TOJ 
+Eval: D       D  D  D   S     S          S       S    S   
+
+id: (traj_ff_bd_16khz_noisereduced_45)
+Scores: (#C #S #D #I) 0 3 5 0
+REF:  KII FA TëDD CI ñAX MI     DA    NELAW   
+HYP:  *** ** ***** ** **** ROBINE ñOOM GANNAAW 
+Eval: D   D  D     D  D    S      S     S       
+
+id: (traj_ff_bd_16khz_noisereduced_46)
+Scores: (#C #S #D #I) 0 3 3 0
+REF:  FAñOO DOX CI BIIR    GARAB YI       
+HYP:  ****** *** ** SAñOON DOO   TIRNGëL 
+Eval: D      D   D  S       S     S        
+
+id: (traj_ff_bd_16khz_noisereduced_47)
+Scores: (#C #S #D #I) 1 2 4 0
+REF:  KII FAAY DOX HAW    CI    yoon WI 
+HYP:  *** **** *** KILIFA DOXAL yoon ** 
+Eval: D   D    D   S      S          D  
+
+id: (traj_ff_bd_16khz_noisereduced_49)
+Scores: (#C #S #D #I) 0 2 2 0
+REF:  FAAY HéEG CI     KOW 
+HYP:  **** ***** FAYATI KO  
+Eval: D    D     S      S   
+
+id: (traj_ff_bd_16khz_noisereduced_5)
+Scores: (#C #S #D #I) 0 3 4 0
+REF:  GUNE GI FA HéEG CI DOJ WI     
+HYP:  **** ** ** ***** MU NI  REYTIL 
+Eval: D    D  D  D     S  S   S      
+
+id: (traj_ff_bd_16khz_noisereduced_50)
+Scores: (#C #S #D #I) 1 4 0 0
+REF:  FA g�nn CI      ñAX MI      
+HYP:  SA g�nn GINNAAW BA   DOXINAM 
+Eval: S        S       S    S       
+
+id: (traj_ff_bd_16khz_noisereduced_51)
+Scores: (#C #S #D #I) 0 2 3 0
+REF:  FAAY SANGU CI NDOX   MI    
+HYP:  **** ***** ** FAçON COONO 
+Eval: D    D     D  S      S     
+
+id: (traj_ff_bd_16khz_noisereduced_52)
+Scores: (#C #S #D #I) 1 1 0 0
+REF:  FAAY daw 
+HYP:  FA   daw 
+Eval: S        
+
+id: (traj_ff_bd_16khz_noisereduced_53)
+Scores: (#C #S #D #I) 0 4 0 0
+REF:  FAAY DOX SOLUT MBUB  
+HYP:  SA   DOO SOL   MBUBB 
+Eval: S    S   S     S     
+
+id: (traj_ff_bd_16khz_noisereduced_54)
+Scores: (#C #S #D #I) 2 3 3 0
+REF:  GóOR GI FAAY dem romb NA PAñE BI   
+HYP:  ***** LU LA   dem romb ** ***** PëL 
+Eval: D     S  S             D  D     S    
+
+id: (traj_ff_bd_16khz_noisereduced_55)
+Scores: (#C #S #D #I) 0 6 0 0
+REF:  FAñOO DOX DA DEM JIGéEN ñI 
+HYP:  SAñA  DOO LA DAL DI      YI  
+Eval: S      S   S  S   S       S   
+
+id: (traj_ff_bd_16khz_noisereduced_56)
+Scores: (#C #S #D #I) 0 3 2 0
+REF:  HéEG NAñ CI KOW WàCCAAT 
+HYP:  ***** **** LI MA  JABOOT   
+Eval: D     D    S  S   S        
+
+id: (traj_ff_bd_16khz_noisereduced_57)
+Scores: (#C #S #D #I) 0 7 3 0
+REF:  ñETTI JIGéEN ñI FAñ  SAXAW CI    KOW CI  WEñ GI    
+HYP:  ****** ******* *** WEDDI JEñ  TONTU KO  Né DI   WEñE 
+Eval: D      D       D   S     S     S     S   S   S    S     
+
+id: (traj_ff_bd_16khz_noisereduced_58)
+Scores: (#C #S #D #I) 2 1 2 0
+REF:  g�or ga FA LEEN ROMBU     
+HYP:  g�or ga ** **** TURANDOOM 
+Eval:          D  D    S         
+
+id: (traj_ff_bd_16khz_noisereduced_59)
+Scores: (#C #S #D #I) 0 4 0 0
+REF:  FAAY DOX DA    DEM  
+HYP:  NU   SA  DOOLE RANQ 
+Eval: S    S   S     S    
+
+id: (traj_ff_bd_16khz_noisereduced_6)
+Scores: (#C #S #D #I) 0 2 5 0
+REF:  JIGéEN JI FAAY DOX CI ñAX   MI      
+HYP:  ******* ** **** *** ** KILIFA DOXINAM 
+Eval: D       D  D    D   D  S      S       
+
+id: (traj_ff_bd_16khz_noisereduced_65)
+Scores: (#C #S #D #I) 2 3 2 0
+REF:  JIGéEN JI   FAAY dox ci ñAX MI    
+HYP:  ******* LEEN FA   dox ci **** NAWLE 
+Eval: D       S    S           D    S     
+
+id: (traj_ff_bd_16khz_noisereduced_66)
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  FAAY lekk banaana 
+HYP:  SA   lekk banaana 
+Eval: S                 
+
+id: (traj_ff_bd_16khz_noisereduced_67)
+Scores: (#C #S #D #I) 2 4 5 0
+REF:  KII FAAY DOX CI ñAX MI   DA      DEM      ci garab YI 
+HYP:  *** **** *** ** **** DAFA DOXINAM DëDDALE ci garab GI 
+Eval: D   D    D   D  D    S    S       S                 S  
+
+id: (traj_ff_bd_16khz_noisereduced_69)
+Scores: (#C #S #D #I) 2 4 1 0
+REF:  JIGéEN JI   fa GéNNEE CI     garab YI 
+HYP:  DI      LEEN fa ******* GéNNE garab GI 
+Eval: S       S       D       S            S  
+
+id: (traj_ff_bd_16khz_noisereduced_70)
+Scores: (#C #S #D #I) 0 3 3 0
+REF:  DUGGAAT NA CI BIIR   GARAB YI   
+HYP:  ******* ** ** GANAAR GI    GALE 
+Eval: D       D  D  S      S     S    
+
+id: (traj_ff_bd_16khz_noisereduced_71)
+Scores: (#C #S #D #I) 0 3 1 0
+REF:  FAAY DAW GóOR GI   
+HYP:  **** FA  DOW   GORE 
+Eval: D    S   S     S    
+
+id: (traj_ff_bd_16khz_noisereduced_72)
+Scores: (#C #S #D #I) 2 3 0 2
+REF:  ** FAAY daw **** ROMBU garab GI 
+HYP:  BU SA   daw FARA ROMB  garab GA 
+Eval: I  S        I    S           S  
+
+id: (traj_ff_bd_16khz_noisereduced_73)
+Scores: (#C #S #D #I) 0 5 4 0
+REF:  FAAY DOX CI KOW ñAX MI MU   NGAAY   WAAXU 
+HYP:  **** *** ** *** FATT KO ñAM WAAWAAW LA    
+Eval: D    D   D  D   S    S  S    S       S     
+
+id: (traj_ff_bd_16khz_noisereduced_75)
+Scores: (#C #S #D #I) 0 3 2 0
+REF:  FA JAAT CI YOON WI   
+HYP:  ** **** SA JAT  YORE 
+Eval: D  D    S  S    S    
+
+id: (traj_ff_bd_16khz_noisereduced_76)
+Scores: (#C #S #D #I) 0 5 4 0
+REF:  MU NGI WAAXU BëGG A  HéEEG CI   DOJ WI  
+HYP:  ** *** ***** ***** MA WAAW   BOOY DU  DOY 
+Eval: D  D   D     D     S  S      S    S   S   
+
+id: (traj_ff_bd_16khz_noisereduced_77)
+Scores: (#C #S #D #I) 2 5 3 0
+REF:  JIGéEN GI    fa GéNNEE F         l�nd�m FAAY WAAXU REG NAG     
+HYP:  FU      NGEEN fa ******* MBINDEEFU l�nd�m **** ***** FAA WORMAAL 
+Eval: S       S        D       S                  D    D     S   S       
+
+id: (traj_ff_bd_16khz_noisereduced_8)
+Scores: (#C #S #D #I) 0 4 3 0
+REF:  JIGéEN JI FA JëL SIWO  BI    HéEG   
+HYP:  ******* ** ** ñU  NJOñ FAJAL DëWLIN 
+Eval: D       D  D  S    S     S     S       
+
+id: (traj_ff_bd_16khz_noisereduced_80)
+Scores: (#C #S #D #I) 2 3 8 0
+REF:  FA NE CI      garab GI DE GóOR GI FA HAM LU      MOOY     dagg 
+HYP:  ** ** FANAALI garab ** ** ***** ** ** *** GREGORI FARANDOO dagg 
+Eval: D  D  S             D  D  D     D  D  D   S       S             
+
+id: (traj_ff_bd_16khz_noisereduced_82)
+Scores: (#C #S #D #I) 2 1 2 0
+REF:  FA MEL NI   doom la 
+HYP:  ** *** WENN doom la 
+Eval: D  D   S            
+
+id: (traj_ff_bd_16khz_noisereduced_83)
+Scores: (#C #S #D #I) 3 5 1 1
+REF:  JIGéEN JI      FAAY daw YI ROMBU na garab **** GI 
+HYP:  ******* DINAñU FA   daw NA ROMB  na garab FUKK AK 
+Eval: D       S       S        S  S              I    S  
+
+id: (traj_ff_bd_16khz_noisereduced_84)
+Scores: (#C #S #D #I) 0 3 1 0
+REF:  FAAY SIMMI DàLL YI     
+HYP:  **** FASE  NA    DALILL 
+Eval: D    S     S     S      
+
+id: (traj_ff_bd_16khz_noisereduced_85)
+Scores: (#C #S #D #I) 1 2 3 1
+REF:  FA HéEG CI BASAA bi **** TAXAW 
+HYP:  ** ***** ** FEY   bi BALA TAW   
+Eval: D  D     D  S        I    S     
+
+id: (traj_ff_bd_16khz_noisereduced_86)
+Scores: (#C #S #D #I) 0 2 2 0
+REF:  FAAY SOLAAT DàLL YI        
+HYP:  **** ****** FAS   RàBBAALE 
+Eval: D    D      S     S         
+
+id: (traj_ff_bd_16khz_noisereduced_87)
+Scores: (#C #S #D #I) 0 2 3 0
+REF:  SOLAAT NA KO BA     PARE   
+HYP:  ****** ** ** SORANO KOPPAR 
+Eval: D      D  D  S      S      
+
+id: (traj_ff_bd_16khz_noisereduced_89)
+Scores: (#C #S #D #I) 1 3 3 0
+REF:  JIGéEN JI FAAY WAAXU DA DEM  daan 
+HYP:  ******* ** **** LEEN  FA WARA daan 
+Eval: D       D  D    S     S  S         
+
+id: (traj_ff_bd_16khz_noisereduced_9)
+Scores: (#C #S #D #I) 1 4 1 0
+REF:  g�or GEEK JIGéEN JI FAñOO BAL 
+HYP:  g�or **** GI      LU XEW    BA  
+Eval:       D    S       S  S      S   
+
+id: (traj_ff_bd_16khz_noisereduced_90)
+Scores: (#C #S #D #I) 0 2 4 0
+REF:  KéE FA HéEG CI DOJ    WI   
+HYP:  **** ** ***** ** RéCCU DAJE 
+Eval: D    D  D     D  S      S    
+
+id: (traj_ff_bd_16khz_noisereduced_91)
+Scores: (#C #S #D #I) 0 3 3 0
+REF:  KENEEN GUNE GI HéEGAAT NA    CI   
+HYP:  ****** **** ** PERNGAL  IRAAN NOOJ 
+Eval: D      D    D  S        S     S    
+
+id: (traj_ff_bd_16khz_noisereduced_92)
+Scores: (#C #S #D #I) 1 5 2 0
+REF:  KII FA   DUGGU ci BIIR TOOLAB MBOQU  BI       
+HYP:  *** DAFA DUGG  ci **** NU     TOLLOO BOKKAALE 
+Eval: D   S    S        D    S      S      S        
+
+id: (traj_ff_bd_16khz_noisereduced_93)
+Scores: (#C #S #D #I) 0 3 2 0
+REF:  FAAY WAX DAROMBU YOON WI     
+HYP:  **** *** SA      WOTO MOYAAL 
+Eval: D    D   S       S    S      
+
+id: (traj_ff_bd_16khz_noisereduced_95)
+Scores: (#C #S #D #I) 2 6 4 0
+REF:  KII FA toog ci PEGG NDOX MI LA TOOG MU NGAAY     SàNNI 
+HYP:  TE  MA toog ci **** **** ** ** TEG  NA MëNATUMA SALE   
+Eval: S   S          D    D    D  D  S    S  S         S      
+
+id: (traj_ff_bd_16khz_noisereduced_96)
+Scores: (#C #S #D #I) 0 1 0 1
+REF:  ** PICCI 
+HYP:  TE CI    
+Eval: I  S     
+
+id: (traj_ff_bd_16khz_noisereduced_98)
+Scores: (#C #S #D #I) 1 5 6 0
+REF:  KII FAAY WAAXU CI ñAX   MI       DE   fa TAXAW CI GARAB GI    
+HYP:  *** **** ***** ** KILIFA RAWATINA WéR fa ***** ** TOJ   JARAG 
+Eval: D   D    D     D  S      S        S       D     D  S     S     
+
+

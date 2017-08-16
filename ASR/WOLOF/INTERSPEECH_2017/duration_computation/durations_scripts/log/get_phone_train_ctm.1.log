@@ -1,0 +1,7 @@
+# set -o pipefail && ali-to-phones --write-lengths=true --ctm-output=true exp/system2_o3g_lengthTag/vowel_labelling_only/dnn4b_pretrain-dbn_dnn_ali-Wolof_Trajectoire_TranscriptsVerified/final.mdl "ark:gunzip -c exp/system2_o3g_lengthTag/vowel_labelling_only/dnn4b_pretrain-dbn_dnn_ali-Wolof_Trajectoire_TranscriptsVerified/ali.1.gz |" - | utils/int2sym.pl -f 5 /home/getalp/gauthier/kaldi/wolof/lang_o3g_lengthTag/LM_combine_LM1-web/vowel_labelling_only/phones.txt | gzip -c > exp/system2_o3g_lengthTag/vowel_labelling_only/dnn4b_pretrain-dbn_dnn_ali-Wolof_Trajectoire_TranscriptsVerified/forced-aligmentOn-DNN-TranscriptsVerified/phoneseg-alignments.1.gz 
+# Started at Fri Feb 17 12:40:38 CET 2017
+#
+ali-to-phones --write-lengths=true --ctm-output=true exp/system2_o3g_lengthTag/vowel_labelling_only/dnn4b_pretrain-dbn_dnn_ali-Wolof_Trajectoire_TranscriptsVerified/final.mdl 'ark:gunzip -c exp/system2_o3g_lengthTag/vowel_labelling_only/dnn4b_pretrain-dbn_dnn_ali-Wolof_Trajectoire_TranscriptsVerified/ali.1.gz |' - 
+LOG (ali-to-phones:main():ali-to-phones.cc:132) Done 373 utterances.
+# Accounting: time=0 threads=1
+# Ended (code 0) at Fri Feb 17 12:40:38 CET 2017, elapsed time 0 seconds

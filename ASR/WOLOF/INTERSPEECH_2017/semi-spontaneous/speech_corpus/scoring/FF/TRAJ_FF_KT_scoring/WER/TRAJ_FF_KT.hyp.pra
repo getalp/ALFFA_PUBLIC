@@ -1,0 +1,691 @@
+
+
+		DUMP OF SYSTEM ALIGNMENT STRUCTURE
+
+System name:   TRAJ_FF_KT.hyp
+
+Speakers: 
+    0:  1)
+    1:  2)
+
+Speaker sentences   0:  1)   #utts: 15
+id: (1)_100)
+Scores: (#C #S #D #I) 2 1 4 0
+REF:  WAAW JëL NA MALAAM    lal KO (traj_ff_kt_16khz 
+HYP:  **** **** ** PARLAMAAM lal ** (traj_ff_kt_16khz 
+Eval: D    D    D  S             D                    
+
+id: (1)_106)
+Scores: (#C #S #D #I) 2 3 0 0
+REF:  KII DAY  DAMM mboq (traj_ff_kt_16khz 
+HYP:  LI  NGAY DEM  mboq (traj_ff_kt_16khz 
+Eval: S   S    S                           
+
+id: (1)_107)
+Scores: (#C #S #D #I) 2 4 2 0
+REF:  DUGGU na CI BIIR MBOQ MI   DAAL (traj_ff_kt_16khz 
+HYP:  DUGG  na ** **** YI   LOXO LA   (traj_ff_kt_16khz 
+Eval: S        D  D    S    S    S                      
+
+id: (1)_113)
+Scores: (#C #S #D #I) 3 10 3 0
+REF:  WAAW JóGE NA FII  MU      dugg ci BIIR MBOQ MI  XAWMA DAM     DAMMU WALA DAMMUL (traj_ff_kt_16khz 
+HYP:  **** ***** ** TAAL WEDDIWU dugg ci LOXO MA   DOY NA    MBOOLOO BA    MU   KO     (traj_ff_kt_16khz 
+Eval: D    D     D  S    S               S    S    S   S     S       S     S    S                        
+
+id: (1)_131)
+Scores: (#C #S #D #I) 1 5 5 0
+REF:  KII DE MOOM KII DE MOOM  DUGG NA   CI  BIIR (traj_ff_kt_16khz 
+HYP:  *** ** **** *** ** DEWUL YOON GUNE GII LA   (traj_ff_kt_16khz 
+Eval: D   D  D    D   D  S     S    S    S   S                      
+
+id: (1)_133)
+Scores: (#C #S #D #I) 2 2 1 0
+REF:  XAWMA FAN  la DUGGU (traj_ff_kt_16khz 
+HYP:  ***** XONQ la DUGG  (traj_ff_kt_16khz 
+Eval: D     S       S                       
+
+id: (1)_137)
+Scores: (#C #S #D #I) 2 1 1 1
+REF:  TE JIGéEN jii ** (traj_ff_kt_16khz 
+HYP:  ** TEY     jii GI (traj_ff_kt_16khz 
+Eval: D  S           I                    
+
+id: (1)_146)
+Scores: (#C #S #D #I) 2 2 2 0
+REF:  KII MOOM BANAANA LAY lekk (traj_ff_kt_16khz 
+HYP:  *** **** YOMB    NAA lekk (traj_ff_kt_16khz 
+Eval: D   D    S       S                          
+
+id: (1)_27)
+Scores: (#C #S #D #I) 2 4 1 0
+REF:  KII LI     mu GéNEE SàNQ MOOM    (traj_ff_kt_16khz 
+HYP:  *** LéEGI mu NGI    NE    SANCOOM (traj_ff_kt_16khz 
+Eval: D   S         S      S     S                         
+
+id: (1)_62)
+Scores: (#C #S #D #I) 1 7 3 0
+REF:  LéEGI LI MAA GIS FII DAMA  KOY   WAX OLOF WALA (traj_ff_kt_16khz 
+HYP:  ****** ** *** LII LA  GISEE DONGO A   KO   LA   (traj_ff_kt_16khz 
+Eval: D      D  D   S   S   S     S     S   S    S                      
+
+id: (1)_67)
+Scores: (#C #S #D #I) 4 5 1 0
+REF:  DAF KO       lal ba XAWMA DAY   PAASE walla DéET (traj_ff_kt_16khz 
+HYP:  *** BARKELLE lal ba XAWA  DEFAR SA    walla DEF   (traj_ff_kt_16khz 
+Eval: D   S               S     S     S           S                       
+
+id: (1)_80)
+Scores: (#C #S #D #I) 4 3 3 0
+REF:  DAMAB la DAFA WARA PAASE WALA DéET n� def (traj_ff_kt_16khz 
+HYP:  DAAW  la **** **** ***** OROB HASAV n� def (traj_ff_kt_16khz 
+Eval: S        D    D    D     S    S                               
+
+id: (1)_90)
+Scores: (#C #S #D #I) 3 1 4 0
+REF:  DAF BëGG A JëL MALAAN lal ko (traj_ff_kt_16khz 
+HYP:  *** ***** * **** NGELAW lal ko (traj_ff_kt_16khz 
+Eval: D   D     D D    S                               
+
+id: (1)_91)
+Scores: (#C #S #D #I) 6 0 0 0
+REF:  dafa j�l malaan lal ko (traj_ff_kt_16khz 
+HYP:  dafa j�l malaan lal ko (traj_ff_kt_16khz 
+Eval:                                           
+
+id: (1)_94)
+Scores: (#C #S #D #I) 9 0 0 0
+REF:  dafa j�l malaan mu lal ko wara paase (traj_ff_kt_16khz 
+HYP:  dafa j�l malaan mu lal ko wara paase (traj_ff_kt_16khz 
+Eval:                                                         
+
+Speaker sentences   1:  2)   #utts: 98
+id: (2)_10)
+Scores: (#C #S #D #I) 3 4 1 0
+REF:  KII DUGGU na ci BIIR PAX    MI (traj_ff_kt_16khz 
+HYP:  CI  DUGG  na ci **** WICCAX BI (traj_ff_kt_16khz 
+Eval: S   S           D    S      S                    
+
+id: (2)_101)
+Scores: (#C #S #D #I) 1 4 6 0
+REF:  KII DE MU NGEE DAW MOOM XAWMA LU   MOOY  DAW    (traj_ff_kt_16khz 
+HYP:  *** ** ** **** *** **** NA    NDAM NELAW DOOMAM (traj_ff_kt_16khz 
+Eval: D   D  D  D    D   D    S     S    S     S                        
+
+id: (2)_105)
+Scores: (#C #S #D #I) 1 3 3 0
+REF:  GARAB GA LàQ NA   KO    DE    (traj_ff_kt_16khz 
+HYP:  ***** ** **** NARA WALLA XAMAL (traj_ff_kt_16khz 
+Eval: D     D  D    S    S     S                       
+
+id: (2)_109)
+Scores: (#C #S #D #I) 2 4 3 0
+REF:  HU KII HéEG na KOW    PONT BI MOOM  (traj_ff_kt_16khz 
+HYP:  ** *** ***** na LENEEN A    KO KOMBO (traj_ff_kt_16khz 
+Eval: D  D   D        S      S    S  S                       
+
+id: (2)_11)
+Scores: (#C #S #D #I) 5 2 6 0
+REF:  ndaw SI g�nn ci TOOL YI DA       dox XAWMA FAN LA JëM  (traj_ff_kt_16khz 
+HYP:  ndaw ** g�nn ci **** ** ëPëLé dox ***** *** ** OMEGA (traj_ff_kt_16khz 
+Eval:      D           D    D  S            D     D   D  S                       
+
+id: (2)_111)
+Scores: (#C #S #D #I) 2 3 1 0
+REF:  NDAW SI      GéNNAAT na DI (traj_ff_kt_16khz 
+HYP:  **** NAWLEEM NA       na LI (traj_ff_kt_16khz 
+Eval: D    S       S           S                    
+
+id: (2)_112)
+Scores: (#C #S #D #I) 1 3 2 0
+REF:  MOOM XANAA FII LA   DëKK   (traj_ff_kt_16khz 
+HYP:  **** ***** MU  XARE DëKKAL (traj_ff_kt_16khz 
+Eval: D    D     S   S    S                         
+
+id: (2)_115)
+Scores: (#C #S #D #I) 1 4 2 0
+REF:  KII NAG LAN  LAY SàKK MOOM  (traj_ff_kt_16khz 
+HYP:  *** *** DINA LA  SA    KANAM (traj_ff_kt_16khz 
+Eval: D   D   S    S   S     S                       
+
+id: (2)_116)
+Scores: (#C #S #D #I) 2 3 0 0
+REF:  KII LAN lay SàKK (traj_ff_kt_16khz 
+HYP:  FII LA  lay SàQ  (traj_ff_kt_16khz 
+Eval: S   S       S                       
+
+id: (2)_119)
+Scores: (#C #S #D #I) 2 2 0 0
+REF:  HA  JEEX na (traj_ff_kt_16khz 
+HYP:  FAR JAR  na (traj_ff_kt_16khz 
+Eval: S   S                         
+
+id: (2)_12)
+Scores: (#C #S #D #I) 3 3 2 0
+REF:  ndaw si JëL NA SI      WO   BI (traj_ff_kt_16khz 
+HYP:  ndaw si **** ** DELLUSI YOON WI (traj_ff_kt_16khz 
+Eval:         D    D  S       S    S                    
+
+id: (2)_120)
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  JEEX na (traj_ff_kt_16khz 
+HYP:  YAA  na (traj_ff_kt_16khz 
+Eval: S                         
+
+id: (2)_122)
+Scores: (#C #S #D #I) 2 4 4 0
+REF:  KII DE MOOM  DUGGU na CI BASAŋ GI      MOOM    (traj_ff_kt_16khz 
+HYP:  *** ** BIRAM DUGG  na ** ****** JORDANI MAANAAM (traj_ff_kt_16khz 
+Eval: D   D  S     S        D  D      S       S                         
+
+id: (2)_123)
+Scores: (#C #S #D #I) 2 2 3 0
+REF:  MU NGEE SOLAAT d�ll YI DE (traj_ff_kt_16khz 
+HYP:  ** NE   SAMA   d�ll ** ** (traj_ff_kt_16khz 
+Eval: D  S    S            D  D                    
+
+id: (2)_124)
+Scores: (#C #S #D #I) 1 3 5 0
+REF:  MU NGI SOLAAT DàLL YI DE         FUM    JëM  (traj_ff_kt_16khz 
+HYP:  ** *** ****** ***** ** NASARAANAL LEERUL ñóW (traj_ff_kt_16khz 
+Eval: D  D   D      D     D  S          S      S                       
+
+id: (2)_125)
+Scores: (#C #S #D #I) 1 1 3 0
+REF:  HA NDAW SI DéET (traj_ff_kt_16khz 
+HYP:  ** **** ** RëDD (traj_ff_kt_16khz 
+Eval: D  D    D  S                       
+
+id: (2)_126)
+Scores: (#C #S #D #I) 1 1 2 0
+REF:  SUMMIHAAT NA DE     (traj_ff_kt_16khz 
+HYP:  ********* ** NAANAL (traj_ff_kt_16khz 
+Eval: D         D  S                        
+
+id: (2)_127)
+Scores: (#C #S #D #I) 1 4 3 0
+REF:  ñOOM ñAAN DEE KENN SOLU CI      MBUBBU   (traj_ff_kt_16khz 
+HYP:  ***** ***** *** LU   MA   NAWETAL FARANDOO (traj_ff_kt_16khz 
+Eval: D     D     D   S    S    S       S                          
+
+id: (2)_13)
+Scores: (#C #S #D #I) 2 3 3 0
+REF:  MOOM IT DUGGU ci BIIR PAX MI    (traj_ff_kt_16khz 
+HYP:  **** MU DUGG  ci **** *** WETAM (traj_ff_kt_16khz 
+Eval: D    S  S        D    D   S                       
+
+id: (2)_130)
+Scores: (#C #S #D #I) 1 5 7 0
+REF:  KII MOOM LU XONQ LA SOL MOOM KII   NII  A  TOOL BA    (traj_ff_kt_16khz 
+HYP:  *** **** ** **** ** *** **** NOONU OMAR BA ñU  TOLLU (traj_ff_kt_16khz 
+Eval: D   D    D  D    D  D   D    S     S    S  S    S                       
+
+id: (2)_133)
+Scores: (#C #S #D #I) 3 3 3 0
+REF:  ñII DEE MUŋ LEEN DI  s�nni mburu ñOOM (traj_ff_kt_16khz 
+HYP:  **** *** **** LIM  NEN s�nni mburu NA    (traj_ff_kt_16khz 
+Eval: D    D   D    S    S                S                       
+
+id: (2)_135)
+Scores: (#C #S #D #I) 1 4 3 0
+REF:  DIKK NA BA CI    GARAB GI        TAXAW (traj_ff_kt_16khz 
+HYP:  **** ** ** DëKK NAA   WELINGARA WETAM (traj_ff_kt_16khz 
+Eval: D    D  D  S     S     S         S                       
+
+id: (2)_136)
+Scores: (#C #S #D #I) 2 1 2 0
+REF:  MU NGI WàCC iskale (traj_ff_kt_16khz 
+HYP:  ** *** RàCC iskale (traj_ff_kt_16khz 
+Eval: D  D   S                              
+
+id: (2)_137)
+Scores: (#C #S #D #I) 2 5 4 0
+REF:  HU WII YOON DEE MU   NGI HéEG iskale YI MOOM (traj_ff_kt_16khz 
+HYP:  ** *** **** NU  NEEN DEM YéEG iskale ** AM   (traj_ff_kt_16khz 
+Eval: D  D   D    S   S    S   S            D  S                      
+
+id: (2)_138)
+Scores: (#C #S #D #I) 4 2 4 0
+REF:  HU MUŋ KOOY MAY BANAANA DENI ko mana bi (traj_ff_kt_16khz 
+HYP:  ** **** **** *** MU      NI   ko mana bi (traj_ff_kt_16khz 
+Eval: D  D    D    D   S       S                                 
+
+id: (2)_139)
+Scores: (#C #S #D #I) 1 5 7 0
+REF:  KII DE TIIMOOM NA NDAW SI SàNQ ñëWAAT NA   TIIM  KO    DE (traj_ff_kt_16khz 
+HYP:  *** ** ******* ** **** ** ***** NATIONAL SAMP ñAAN CàMM AK (traj_ff_kt_16khz 
+Eval: D   D  D       D  D    D  D     S        S    S     S     S                    
+
+id: (2)_14)
+Scores: (#C #S #D #I) 3 2 1 0
+REF:  KII d�or na BAL BI     (traj_ff_kt_16khz 
+HYP:  I   d�or na *** WALLET (traj_ff_kt_16khz 
+Eval: S            D   S                        
+
+id: (2)_141)
+Scores: (#C #S #D #I) 1 5 8 0
+REF:  HëY SOLAL SA MBUB MI WAAY BàYYI SA YARAMU NEEN BI       NGA DEF (traj_ff_kt_16khz 
+HYP:  **** ***** ** **** ** **** ****** ** REY    SONN RéEROON NA  LA  (traj_ff_kt_16khz 
+Eval: D    D     D  D    D  D    D      D  S      S    S        S   S                     
+
+id: (2)_143)
+Scores: (#C #S #D #I) 1 2 4 0
+REF:  WAAY KAY SOLAL SA MBUB   MI   (traj_ff_kt_16khz 
+HYP:  **** *** ***** ** XEESAL MBUL (traj_ff_kt_16khz 
+Eval: D    D   D     D  S      S                      
+
+id: (2)_145)
+Scores: (#C #S #D #I) 4 1 0 0
+REF:  lii moo g�na BAAX (traj_ff_kt_16khz 
+HYP:  lii moo g�na WAX  (traj_ff_kt_16khz 
+Eval:               S                      
+
+id: (2)_146)
+Scores: (#C #S #D #I) 3 1 2 0
+REF:  XANAA NDAW SI      jabaram la (traj_ff_kt_16khz 
+HYP:  ***** **** MàNDAL jabaram la (traj_ff_kt_16khz 
+Eval: D     D    S                                    
+
+id: (2)_148)
+Scores: (#C #S #D #I) 2 5 3 0
+REF:  HU KII DDE mu NGEE PEñE KARAW GI MOOM  (traj_ff_kt_16khz 
+HYP:  ** *** *** mu NE   MA    DEFE  NE XAWMA (traj_ff_kt_16khz 
+Eval: D  D   D      S    S     S     S  S                       
+
+id: (2)_149)
+Scores: (#C #S #D #I) 1 3 3 0
+REF:  PEñE NA BA KARAW GI DE   (traj_ff_kt_16khz 
+HYP:  ***** ** ** DINAA FA WéR (traj_ff_kt_16khz 
+Eval: D     D  D  S     S  S                      
+
+id: (2)_15)
+Scores: (#C #S #D #I) 1 2 3 0
+REF:  KU JIGéEN SI MOOM  IT (traj_ff_kt_16khz 
+HYP:  ** ******* ** GéEJ MA (traj_ff_kt_16khz 
+Eval: D  D       D  S     S                    
+
+id: (2)_150)
+Scores: (#C #S #D #I) 2 3 3 0
+REF:  MU NGEE t�b DE MOOM BANT BI   (traj_ff_kt_16khz 
+HYP:  ** NI   t�b ** **** DOOM WADD (traj_ff_kt_16khz 
+Eval: D  S         D  D    S    S                      
+
+id: (2)_151)
+Scores: (#C #S #D #I) 2 3 4 0
+REF:  ndaw SII SA NGEE SUMMI MBUB   MI   DE     (traj_ff_kt_16khz 
+HYP:  ndaw *** ** **** ***** GéNNE SEEN MUUMIN (traj_ff_kt_16khz 
+Eval:      D   D  D    D     S      S    S                        
+
+id: (2)_153)
+Scores: (#C #S #D #I) 1 5 3 0
+REF:  ñOOM LUTAX ñUY DEF  ŋARAM FONKU   YARAMU  NEEN (traj_ff_kt_16khz 
+HYP:  ***** ***** **** ñUN SUñU  DëNNAM POMPEEL SONN (traj_ff_kt_16khz 
+Eval: D     D     D    S    S      S       S       S                      
+
+id: (2)_155)
+Scores: (#C #S #D #I) 1 2 1 0
+REF:  YARAMU NEEN        BAAXUT (traj_ff_kt_16khz 
+HYP:  ****** GëRëMLEEN BAAXUL (traj_ff_kt_16khz 
+Eval: D      S           S                        
+
+id: (2)_19)
+Scores: (#C #S #D #I) 2 5 5 0
+REF:  ROMBU NA    KA g�or KI XAWMA FAN LA JëM  MOOM  IT (traj_ff_kt_16khz 
+HYP:  ***** DOOMU LA g�or ** ***** *** ** MOOMU RéEW MI (traj_ff_kt_16khz 
+Eval: D     S     S        D  D     D   D  S     S     S                    
+
+id: (2)_2)
+Scores: (#C #S #D #I) 1 4 3 0
+REF:  HAA KII JëL NA BAL  BI ENCORE (traj_ff_kt_16khz 
+HYP:  *** *** **** MA TUUF LA MBOQ   (traj_ff_kt_16khz 
+Eval: D   D   D    S  S    S  S                        
+
+id: (2)_20)
+Scores: (#C #S #D #I) 1 4 5 0
+REF:  NDAW SII HIT DEE MU NGEE WAAXU  DA   DEM (traj_ff_kt_16khz 
+HYP:  **** *** *** *** ** LA   FéETE WAAW LA  (traj_ff_kt_16khz 
+Eval: D    D   D   D   D  S    S      S    S                     
+
+id: (2)_21)
+Scores: (#C #S #D #I) 2 3 1 0
+REF:  KII MUŋ KOOY   XELLIL ndox (traj_ff_kt_16khz 
+HYP:  *** CI   MàNGO XENTAL ndox (traj_ff_kt_16khz 
+Eval: D   S    S      S                             
+
+id: (2)_22)
+Scores: (#C #S #D #I) 1 5 0 0
+REF:  XAWMA DAY NAAN WALA NAANUT (traj_ff_kt_16khz 
+HYP:  XAWA  DEE NA   LOOL DOOMAM (traj_ff_kt_16khz 
+Eval: S     S   S    S    S                        
+
+id: (2)_24)
+Scores: (#C #S #D #I) 1 4 3 0
+REF:  KII DEE MU NGEE LéTT KARAW GI         (traj_ff_kt_16khz 
+HYP:  *** *** ** YI   DEM   WIIRI JëKKëRAM (traj_ff_kt_16khz 
+Eval: D   D   D  S    S     S     S                            
+
+id: (2)_25)
+Scores: (#C #S #D #I) 2 2 5 0
+REF:  KU jig�en KII MU NGEE LéTT KARAW      GI     (traj_ff_kt_16khz 
+HYP:  ** jig�en *** ** **** ***** TéEMéERI TEQALE (traj_ff_kt_16khz 
+Eval: D          D   D  D    D     S          S                        
+
+id: (2)_26)
+Scores: (#C #S #D #I) 2 4 1 0
+REF:  WAAW KII DEE GéNNOON na SàNQ (traj_ff_kt_16khz 
+HYP:  **** MAN DE  DINA     na SAMA  (traj_ff_kt_16khz 
+Eval: D    S   S   S           S                       
+
+id: (2)_27)
+Scores: (#C #S #D #I) 3 5 2 0
+REF:  WAAW ñII DEE       jur�omi NIT LAñ FAN  LAñ j�m (traj_ff_kt_16khz 
+HYP:  **** **** RàññEE jur�omi NI  LEEN PëL LA   j�m (traj_ff_kt_16khz 
+Eval: D    D    S                  S   S    S    S                           
+
+id: (2)_28)
+Scores: (#C #S #D #I) 2 5 5 0
+REF:  KII MOOM dafa TëDD KII DA DOX ROMBU KO    DE  WéY  (traj_ff_kt_16khz 
+HYP:  *** OMAR dafa ***** *** ** *** Të   JEKKI RAX ROMPE (traj_ff_kt_16khz 
+Eval: D   S         D     D   D  D   S     S     S   S                       
+
+id: (2)_29)
+Scores: (#C #S #D #I) 1 2 1 0
+REF:  KII HITAM   MU (traj_ff_kt_16khz 
+HYP:  *** YITTEEM WI (traj_ff_kt_16khz 
+Eval: D   S       S                    
+
+id: (2)_3)
+Scores: (#C #S #D #I) 1 2 3 0
+REF:  KII JëL NA BAL    BI   (traj_ff_kt_16khz 
+HYP:  *** **** ** JéLAL BALE (traj_ff_kt_16khz 
+Eval: D   D    D  S      S                      
+
+id: (2)_30)
+Scores: (#C #S #D #I) 1 2 4 0
+REF:  KII DE MU NGEE DAW    MOOM (traj_ff_kt_16khz 
+HYP:  *** ** ** **** NEMMAT DOOM (traj_ff_kt_16khz 
+Eval: D   D  D  D    S      S                      
+
+id: (2)_31)
+Scores: (#C #S #D #I) 1 3 2 0
+REF:  OTO BI DAY DAW DE    (traj_ff_kt_16khz 
+HYP:  *** ** KO  LAY DAWAL (traj_ff_kt_16khz 
+Eval: D   D  S   S   S                       
+
+id: (2)_32)
+Scores: (#C #S #D #I) 1 6 5 0
+REF:  KII MOOM IT MU NGI ROMBU GARAB YI DA   DEM  DE  (traj_ff_kt_16khz 
+HYP:  *** **** ** ** *** YOW   MA    LU YOMB DARA REN (traj_ff_kt_16khz 
+Eval: D   D    D  D  D   S     S     S  S    S    S                     
+
+id: (2)_33)
+Scores: (#C #S #D #I) 2 4 5 0
+REF:  KI DE MUŋ CI BIIR GAJJI BI   MOOM  DA  g�nn (traj_ff_kt_16khz 
+HYP:  ** ** **** ** **** ñAM  JEGE JëMM NGA g�nn (traj_ff_kt_16khz 
+Eval: D  D  D    D  D    S     S    S     S                           
+
+id: (2)_4)
+Scores: (#C #S #D #I) 1 3 0 0
+REF:  ñU   KOOY SàNNIWANTI (traj_ff_kt_16khz 
+HYP:  WEESU NGA  WANTE       (traj_ff_kt_16khz 
+Eval: S     S    S                             
+
+id: (2)_40)
+Scores: (#C #S #D #I) 3 5 2 0
+REF:  KII NU mu DUGGAAT ci BIIR HàLL  BI  REKK (traj_ff_kt_16khz 
+HYP:  *** YU mu DUGAL   ci **** LEERAL LAN LA   (traj_ff_kt_16khz 
+Eval: D   S     S          D    S      S   S                      
+
+id: (2)_44)
+Scores: (#C #S #D #I) 2 7 7 0
+REF:  HA KII HIT DE MU NGEE LAN LAY  DE MU   NGI   LEEN YéRE    YI      de (traj_ff_kt_16khz 
+HYP:  ** *** *** ** ** **** *** XAAR YU DEME NOONU AK   SàNGARA NELAWEE de (traj_ff_kt_16khz 
+Eval: D  D   D   D  D  D    D   S    S  S    S     S    S        S                            
+
+id: (2)_45)
+Scores: (#C #S #D #I) 2 6 3 0
+REF:  WAAW KII day LEEM YéRE YI     MOOM WAAW PARE  NA  (traj_ff_kt_16khz 
+HYP:  **** AKI day **** ***** LAñUY RIYO LAA  XARAM AAY (traj_ff_kt_16khz 
+Eval: D    S       D    D     S      S    S    S     S                     
+
+id: (2)_46)
+Scores: (#C #S #D #I) 2 4 4 0
+REF:  KII MOOM MU NGI   DUGGU  ci BIIR àLL BI   (traj_ff_kt_16khz 
+HYP:  *** **** ** NOONU WéERU ci **** LI   DALE (traj_ff_kt_16khz 
+Eval: D   D    D  S     S         D    S    S                      
+
+id: (2)_49)
+Scores: (#C #S #D #I) 1 9 0 0
+REF:  KII  GéNNAAT NA  CI   BIIR NDOX  MI     BENENN XALE (traj_ff_kt_16khz 
+HYP:  ñUY NAANE    WIF ROMB DU   TàNC XALAAT RAAM   XAAT (traj_ff_kt_16khz 
+Eval: S    S        S   S    S    S     S      S      S                      
+
+id: (2)_5)
+Scores: (#C #S #D #I) 1 2 4 0
+REF:  KII JëL NA SéR BI     LAL    (traj_ff_kt_16khz 
+HYP:  *** **** ** **** YàLLA SELLAL (traj_ff_kt_16khz 
+Eval: D   D    D  D    S      S                        
+
+id: (2)_50)
+Scores: (#C #S #D #I) 5 3 2 0
+REF:  KII MOOM DAY     naan �ttaaya DAY NAAN ndox ndox (traj_ff_kt_16khz 
+HYP:  *** **** DAAWUDA naan �ttaaya REY NAA  ndox ndox (traj_ff_kt_16khz 
+Eval: D   D    S                     S   S                                
+
+id: (2)_54)
+Scores: (#C #S #D #I) 1 7 8 0
+REF:  HA KII MOOM FIM TëBBEE GUDDU NA DE DAANU NA       CI    BIIR GéEJ GI  DE  (traj_ff_kt_16khz 
+HYP:  ** *** **** *** ******* ***** ** ** XAAR  PIEMONTE KUDDU LA   DAAN  Nà JIU (traj_ff_kt_16khz 
+Eval: D  D   D    D   D       D     D  D  S     S        S     S    S     S   S                     
+
+id: (2)_55)
+Scores: (#C #S #D #I) 1 2 4 0
+REF:  HAA KII HIT TëB NA   DE    (traj_ff_kt_16khz 
+HYP:  *** *** *** **** TAAR ITARN (traj_ff_kt_16khz 
+Eval: D   D   D   D    S    S                       
+
+id: (2)_6)
+Scores: (#C #S #D #I) 6 0 0 0
+REF:  g�nn sellal xawma lay def (traj_ff_kt_16khz 
+HYP:  g�nn sellal xawma lay def (traj_ff_kt_16khz 
+Eval:                                              
+
+id: (2)_61)
+Scores: (#C #S #D #I) 1 3 2 0
+REF:  KII HIT TëBAAT NA     DE    (traj_ff_kt_16khz 
+HYP:  *** *** ñU     TAWAAN NAWET (traj_ff_kt_16khz 
+Eval: D   D   S       S      S                       
+
+id: (2)_62)
+Scores: (#C #S #D #I) 1 2 1 0
+REF:  CI XEER YI   (traj_ff_kt_16khz 
+HYP:  ** CA   XARE (traj_ff_kt_16khz 
+Eval: D  S    S                      
+
+id: (2)_64)
+Scores: (#C #S #D #I) 1 4 4 0
+REF:  KII DUGGAAT NA CI BIIR àLL BI DE    (traj_ff_kt_16khz 
+HYP:  *** ******* ** ** BIND BENN NE DàLL (traj_ff_kt_16khz 
+Eval: D   D       D  D  S    S    S  S                       
+
+id: (2)_65)
+Scores: (#C #S #D #I) 1 6 6 0
+REF:  HAN WAAW KII DEE TëBAAT NA MOOM IT HéEG  CI     XEER YI    (traj_ff_kt_16khz 
+HYP:  *** **** *** *** ******* ** ANA  AW TéERE DAWAAN MA   SEETE (traj_ff_kt_16khz 
+Eval: D   D    D   D   D       D  S    S  S      S      S    S                       
+
+id: (2)_66)
+Scores: (#C #S #D #I) 1 8 2 0
+REF:  WAAW FII DEE ñEWOON NAñ FI    BU   JAKK    ñUŋ FUTBAL (traj_ff_kt_16khz 
+HYP:  **** *** RAW RéERE  ñOO NAñU LEKK NéEWAL NéEW PODOOR (traj_ff_kt_16khz 
+Eval: D    D   S   S       S    S     S    S       S     S                        
+
+id: (2)_68)
+Scores: (#C #S #D #I) 4 3 1 0
+REF:  HU DUGGU na ci ndox MA DI     (traj_ff_kt_16khz 
+HYP:  MU DUGG  na ci ndox ** MàNDI (traj_ff_kt_16khz 
+Eval: S  S                D  S                        
+
+id: (2)_69)
+Scores: (#C #S #D #I) 1 3 0 0
+REF:  CA GéEJ GA (traj_ff_kt_16khz 
+HYP:  SA NéEG BI (traj_ff_kt_16khz 
+Eval: S  S     S                    
+
+id: (2)_7)
+Scores: (#C #S #D #I) 1 7 2 0
+REF:  JëL NA SIWO  BI  DUGG CI TOOLU MBOQU BI (traj_ff_kt_16khz 
+HYP:  **** ** GéNN SEW YUGG YI TOLLU MBOKK LA (traj_ff_kt_16khz 
+Eval: D    D  S     S   S    S  S     S     S                    
+
+id: (2)_70)
+Scores: (#C #S #D #I) 1 4 6 0
+REF:  HU WAAW KII DEE MOO GéNNEE CI BIIR   HALL   BI       (traj_ff_kt_16khz 
+HYP:  ** **** *** *** *** ******* NA TéERE MAGANE WEEXAALE (traj_ff_kt_16khz 
+Eval: D  D    D   D   D   D       S  S      S      S                          
+
+id: (2)_71)
+Scores: (#C #S #D #I) 1 3 4 0
+REF:  JONGAMA JII DEE BëGG NA      HàLL BI   (traj_ff_kt_16khz 
+HYP:  ******* *** *** ***** JAMAALE WëGG NALE (traj_ff_kt_16khz 
+Eval: D       D   D   D     S       S     S                      
+
+id: (2)_72)
+Scores: (#C #S #D #I) 1 5 6 0
+REF:  HA WAAW KII DEE LAñ NJAKKHOON MOO    LALOON SéR       BI     DE   (traj_ff_kt_16khz 
+HYP:  ** **** *** *** **** ********* ALTINE LAñU  JëKKëRAM MAYOON REKK (traj_ff_kt_16khz 
+Eval: D  D    D   D   D    D         S      S      S          S      S                      
+
+id: (2)_73)
+Scores: (#C #S #D #I) 1 4 1 0
+REF:  KII MOOM DAY  NELAW   WALA (traj_ff_kt_16khz 
+HYP:  *** SAMA NDEY NELAWAL LA   (traj_ff_kt_16khz 
+Eval: D   S    S    S       S                      
+
+id: (2)_74)
+Scores: (#C #S #D #I) 2 1 2 0
+REF:  MU NGI nelaw DE   (traj_ff_kt_16khz 
+HYP:  ** *** nelaw DéG (traj_ff_kt_16khz 
+Eval: D  D         S                      
+
+id: (2)_75)
+Scores: (#C #S #D #I) 5 2 2 0
+REF:  xale YI ñOOM FUñ  JóGEE  ca �ll ba (traj_ff_kt_16khz 
+HYP:  xale ** ***** NANGU ñóWEE ca �ll ba (traj_ff_kt_16khz 
+Eval:      D  D     S     S                                    
+
+id: (2)_76)
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  KII nag (traj_ff_kt_16khz 
+HYP:  FII nag (traj_ff_kt_16khz 
+Eval: S                         
+
+id: (2)_77)
+Scores: (#C #S #D #I) 1 3 3 0
+REF:  CI TOOL YI MOOM    IT DE  (traj_ff_kt_16khz 
+HYP:  ** **** ** JOTTALI MA NIT (traj_ff_kt_16khz 
+Eval: D  D    D  S       S  S                     
+
+id: (2)_78)
+Scores: (#C #S #D #I) 3 7 7 0
+REF:  YEEGAAT NA  DE   DELLUWAAT na CA KII BA DE ca WIIRAAS BA MU       CA      WIIRAAS BA    (traj_ff_kt_16khz 
+HYP:  ******* NEE NANU YàLLA    na ** *** ** ** ca ******* ** TéEREEM RéERAL MUCC    RAFET (traj_ff_kt_16khz 
+Eval: D       S   S    S            D  D   D  D     D       D  S        S       S       S                       
+
+id: (2)_79)
+Scores: (#C #S #D #I) 2 7 3 0
+REF:  NDAW SA GéNNAAT na CA    HALL BA CA   GAJJ     BA       DE   (traj_ff_kt_16khz 
+HYP:  **** ** ******** na JóGE NA   NA LEEN àLLARBA TëLLëJ WéR (traj_ff_kt_16khz 
+Eval: D    D  D           S     S    S  S    S        S        S                      
+
+id: (2)_8)
+Scores: (#C #S #D #I) 2 7 3 0
+REF:  XAWMA LAN LAY DEF    MOOM    IT day TAKK DAMM  WALA DAMMUT (traj_ff_kt_16khz 
+HYP:  ***** *** *** XOMAAG XAWAARE MA day DàQ DAMOO LA   AM     (traj_ff_kt_16khz 
+Eval: D     D   D   S      S       S      S    S     S    S                        
+
+id: (2)_80)
+Scores: (#C #S #D #I) 4 3 3 0
+REF:  HU WAAW KII HIT DEE   GéNN na ci g�ej (traj_ff_kt_16khz 
+HYP:  ** **** *** NA  RAABE DéGG na ci g�ej (traj_ff_kt_16khz 
+Eval: D  D    D   S   S     S                                   
+
+id: (2)_82)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  DAWAAT na de (traj_ff_kt_16khz 
+HYP:  DAAN   na de (traj_ff_kt_16khz 
+Eval: S                              
+
+id: (2)_83)
+Scores: (#C #S #D #I) 1 4 6 0
+REF:  KII DEE MOOM SOLUT MBUBBU MOOM DU   SOL       MBUUBU MUKK (traj_ff_kt_16khz 
+HYP:  *** *** **** ***** ****** **** NAMM TOOGANDOO MAN    ROOK (traj_ff_kt_16khz 
+Eval: D   D   D    D     D      D    S    S         S      S                      
+
+id: (2)_84)
+Scores: (#C #S #D #I) 1 2 6 0
+REF:  MUŋ CI BIIR HALL BI MOOM IT     DE    (traj_ff_kt_16khz 
+HYP:  **** ** **** **** ** **** NJULLI ALMET (traj_ff_kt_16khz 
+Eval: D    D  D    D    D  D    S      S                       
+
+id: (2)_85)
+Scores: (#C #S #D #I) 2 3 2 1
+REF:  ** DUGGAAT na CI XUR MA   DE      (traj_ff_kt_16khz 
+HYP:  DU LA      na ** *** JëL XOROMAL (traj_ff_kt_16khz 
+Eval: I  S          D  D   S    S                         
+
+id: (2)_86)
+Scores: (#C #S #D #I) 1 3 3 0
+REF:  DUGGAAT NA CI PAX MA  DE  (traj_ff_kt_16khz 
+HYP:  ******* ** ** ANA JOX MAG (traj_ff_kt_16khz 
+Eval: D       D  D  S   S   S                     
+
+id: (2)_87)
+Scores: (#C #S #D #I) 1 4 2 0
+REF:  NETT ñII NAG     FUñ JëM ñOOM (traj_ff_kt_16khz 
+HYP:  **** **** NETTALI NA   KU   JONN  (traj_ff_kt_16khz 
+Eval: D    D    S       S    S    S                       
+
+id: (2)_88)
+Scores: (#C #S #D #I) 1 1 2 0
+REF:  CI àLL BI   (traj_ff_kt_16khz 
+HYP:  ** **** CALL (traj_ff_kt_16khz 
+Eval: D  D    S                      
+
+id: (2)_89)
+Scores: (#C #S #D #I) 1 3 6 0
+REF:  HU XAWMA NAG ñUŋ CI KOW POM   BI     DE   (traj_ff_kt_16khz 
+HYP:  ** ***** *** ***** ** *** NAñU BOPPAM DëR (traj_ff_kt_16khz 
+Eval: D  D     D   D     D  D   S     S      S                      
+
+id: (2)_90)
+Scores: (#C #S #D #I) 3 5 3 0
+REF:  DUGGAAT CI BIIR PAX   MA    DE ca la JëM DE    (traj_ff_kt_16khz 
+HYP:  ******* ** SUBA NAWET AMOON NA ca la **** JëND (traj_ff_kt_16khz 
+Eval: D       D  S    S     S     S        D    S                       
+
+id: (2)_93)
+Scores: (#C #S #D #I) 1 1 1 0
+REF:  CI FERAW (traj_ff_kt_16khz 
+HYP:  ** RàBB (traj_ff_kt_16khz 
+Eval: D  S                       
+
+id: (2)_94)
+Scores: (#C #S #D #I) 1 3 4 0
+REF:  KII MOOM MU NGEE LEKK    BANAANA MOOM    (traj_ff_kt_16khz 
+HYP:  *** **** ** **** YONNANT KO      MAANAAM (traj_ff_kt_16khz 
+Eval: D   D    D  D    S       S       S                         
+
+id: (2)_96)
+Scores: (#C #S #D #I) 1 2 4 0
+REF:  WAAW MU NGEE LEKK BANAANA DE     (traj_ff_kt_16khz 
+HYP:  **** ** **** **** MA      NëQAM (traj_ff_kt_16khz 
+Eval: D    D  D    D    S       S                        
+
+id: (2)_99)
+Scores: (#C #S #D #I) 1 3 5 0
+REF:  XANAA NDAW SI CI àLL BA          LA   JëMATI   (traj_ff_kt_16khz 
+HYP:  ***** **** ** ** **** MàNDARGAAL WARA JàMMANTE (traj_ff_kt_16khz 
+Eval: D     D    D  D  D    S           S    S                           
+
+

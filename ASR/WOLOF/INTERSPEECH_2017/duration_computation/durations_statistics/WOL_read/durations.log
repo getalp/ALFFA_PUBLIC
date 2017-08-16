@@ -1,0 +1,259 @@
+---------------------------------
+	/u/
+---------------------------------
+
+Short model of /u/ (1,939 occurences): 
+Median of the values is 60.0 ms.
+25% of values are inferior or equal to 40.0 ms.
+75% of values are inferior or equal to 80.0 ms.
+Average length of the phoneme 73.34 ms (namely 0.07 seconds).
+Standard deviation is 56.0 ms.
+
+Peak (x) = 60.72307230723072 ms.
+Value of y (according to x) for short model (y1) = 0.010446805702964938.
+Value of y (according to x) for long model (y2) =  0.005901987262516456.
+Ratio between y1 and y2 = 1.7700488391956795.
+
+----------
+
+Long model of /u/ (112 occurences): 
+Median of the values is 110.0 ms.
+25% of values are inferior or equal to 70.0 ms.
+75% of values are inferior or equal to 140.0 ms.
+Average length of the phoneme 112.23 ms (namely 0.11 seconds).
+Standard deviation is 57.0 ms.
+
+Peak (x) = 94.98649864986498 ms.
+Value of y (according to x) for short model (y1) = 0.007417425740049449.
+Value of y (according to x) for long model (y2) =  0.007638464026871098.
+Ratio between y2 and y1 = 1.0297998651510836.
+
+==========
+Peak's delta is 34.26342634263426 ms.
+Area between long model and short model is 0.3194937679386498.
+Absolute error of the computed area is 2.5567254549255366e-10.
+==========
+
+
+---------------------------------
+	/a/
+---------------------------------
+
+Short model of /a/ (4,777 occurences): 
+Median of the values is 60.0 ms.
+25% of values are inferior or equal to 50.0 ms.
+75% of values are inferior or equal to 80.0 ms.
+Average length of the phoneme 73.85 ms (namely 0.07 seconds).
+Standard deviation is 48.0 ms.
+
+Peak (x) = 62.93129312931293 ms.
+Value of y (according to x) for short model (y1) = 0.012062780010742622.
+Value of y (according to x) for long model (y2) =  0.004087526529906182.
+Ratio between y1 and y2 = 2.951119686315404.
+
+----------
+
+Long model of /a/ (891 occurences): 
+Median of the values is 130.0 ms.
+25% of values are inferior or equal to 100.0 ms.
+75% of values are inferior or equal to 160.0 ms.
+Average length of the phoneme 130.19 ms (namely 0.13 seconds).
+Standard deviation is 64.0 ms.
+
+Peak (x) = 113.43234323432343 ms.
+Value of y (according to x) for short model (y1) = 0.004940588311767482.
+Value of y (according to x) for long model (y2) =  0.007847829883104496.
+Ratio between y2 and y1 = 1.5884403613255031.
+
+==========
+Peak's delta is 50.5010501050105 ms.
+Area between long model and short model is 0.4819435101256869.
+Absolute error of the computed area is 3.219823749291107e-11.
+==========
+
+
+---------------------------------
+	/e/
+---------------------------------
+
+Short model of /e/ (233 occurences): 
+Median of the values is 80.0 ms.
+25% of values are inferior or equal to 60.0 ms.
+75% of values are inferior or equal to 100.0 ms.
+Average length of the phoneme 85.54 ms (namely 0.09 seconds).
+Standard deviation is 51.0 ms.
+
+Peak (x) = 73.82838283828383 ms.
+Value of y (according to x) for short model (y1) = 0.011239980484389471.
+Value of y (according to x) for long model (y2) =  0.005983836137727973.
+Ratio between y1 and y2 = 1.8783904214090368.
+
+----------
+
+Long model of /e/ (181 occurences): 
+Median of the values is 120.0 ms.
+25% of values are inferior or equal to 90.0 ms.
+75% of values are inferior or equal to 140.0 ms.
+Average length of the phoneme 123.09 ms (namely 0.12 seconds).
+Standard deviation is 48.0 ms.
+
+Peak (x) = 109.59195919591959 ms.
+Value of y (according to x) for short model (y1) = 0.00735582111426242.
+Value of y (according to x) for long model (y2) =  0.009770137029539027.
+Ratio between y2 and y1 = 1.3282184106673582.
+
+==========
+Peak's delta is 35.763576357635756 ms.
+Area between long model and short model is 0.36561349427131296.
+Absolute error of the computed area is 2.5026945583473976e-11.
+==========
+
+
+---------------------------------
+	/E/
+---------------------------------
+
+Short model of /E/ (1,302 occurences): 
+Median of the values is 70.0 ms.
+25% of values are inferior or equal to 60.0 ms.
+75% of values are inferior or equal to 100.0 ms.
+Average length of the phoneme 89.35 ms (namely 0.09 seconds).
+Standard deviation is 66.0 ms.
+
+Peak (x) = 74.4904490449045 ms.
+Value of y (according to x) for short model (y1) = 0.00886769272326306.
+Value of y (according to x) for long model (y2) =  0.004683169587228585.
+Ratio between y1 and y2 = 1.893523725351744.
+
+----------
+
+Long model of /E/ (571 occurences): 
+Median of the values is 120.0 ms.
+25% of values are inferior or equal to 100.0 ms.
+75% of values are inferior or equal to 160.0 ms.
+Average length of the phoneme 138.77 ms (namely 0.14 seconds).
+Standard deviation is 73.0 ms.
+
+Peak (x) = 120.25702570257026 ms.
+Value of y (according to x) for short model (y1) = 0.005762631309875376.
+Value of y (according to x) for long model (y2) =  0.007122592031424891.
+Ratio between y2 and y1 = 1.2359964829294148.
+
+==========
+Peak's delta is 45.766576657665766 ms.
+Area between long model and short model is 0.36060912287467467.
+Absolute error of the computed area is 2.9050352813074303e-12.
+==========
+
+
+---------------------------------
+	/i/
+---------------------------------
+
+Short model of /i/ (2,221 occurences): 
+Median of the values is 60.0 ms.
+25% of values are inferior or equal to 50.0 ms.
+75% of values are inferior or equal to 90.0 ms.
+Average length of the phoneme 87.09 ms (namely 0.09 seconds).
+Standard deviation is 76.0 ms.
+
+Peak (x) = 70.13201320132013 ms.
+Value of y (according to x) for short model (y1) = 0.007762586675716373.
+Value of y (according to x) for long model (y2) =  0.004388666918404925.
+Ratio between y1 and y2 = 1.7687800920051844.
+
+----------
+
+Long model of /i/ (136 occurences): 
+Median of the values is 130.0 ms.
+25% of values are inferior or equal to 90.0 ms.
+75% of values are inferior or equal to 160.0 ms.
+Average length of the phoneme 139.34 ms (namely 0.14 seconds).
+Standard deviation is 80.0 ms.
+
+Peak (x) = 118.7128712871287 ms.
+Value of y (according to x) for short model (y1) = 0.005323028237523562.
+Value of y (according to x) for long model (y2) =  0.006388823461264246.
+Ratio between y2 and y1 = 1.2002234773483984.
+
+==========
+Peak's delta is 48.58085808580857 ms.
+Area between long model and short model is 0.3398201259723117.
+Absolute error of the computed area is 2.3092277682297405e-12.
+==========
+
+
+---------------------------------
+	/O/
+---------------------------------
+
+Short model of /O/ (904 occurences): 
+Median of the values is 60.0 ms.
+25% of values are inferior or equal to 50.0 ms.
+75% of values are inferior or equal to 90.0 ms.
+Average length of the phoneme 80.76 ms (namely 0.08 seconds).
+Standard deviation is 64.0 ms.
+
+Peak (x) = 66.30363036303629 ms.
+Value of y (according to x) for short model (y1) = 0.009110013959277555.
+Value of y (according to x) for long model (y2) =  0.006359079102608573.
+Ratio between y1 and y2 = 1.4325995654843349.
+
+----------
+
+Long model of /O/ (727 occurences): 
+Median of the values is 100.0 ms.
+25% of values are inferior or equal to 70.0 ms.
+75% of values are inferior or equal to 130.0 ms.
+Average length of the phoneme 110.11 ms (namely 0.11 seconds).
+Standard deviation is 74.0 ms.
+
+Peak (x) = 91.7161716171617 ms.
+Value of y (according to x) for short model (y1) = 0.007824901314491654.
+Value of y (according to x) for long model (y2) =  0.007153851798891756.
+Ratio between y2 and y1 = 0.9142417918604137.
+
+==========
+Peak's delta is 25.412541254125415 ms.
+Area between long model and short model is 0.22241771864395027.
+Absolute error of the computed area is 2.0951386135850463e-10.
+==========
+
+
+---------------------------------
+	/o/
+---------------------------------
+
+Short model of /o/ (61 occurences): 
+Median of the values is 70.0 ms.
+25% of values are inferior or equal to 60.0 ms.
+75% of values are inferior or equal to 80.0 ms.
+Average length of the phoneme 72.95 ms (namely 0.07 seconds).
+Standard deviation is 45.0 ms.
+
+Peak (x) = 63.3933393339334 ms.
+Value of y (according to x) for short model (y1) = 0.013775164307614662.
+Value of y (according to x) for long model (y2) =  0.006173341985882502.
+Ratio between y1 and y2 = 2.231394978460026.
+
+----------
+
+Long model of /o/ (70 occurences): 
+Median of the values is 100.0 ms.
+25% of values are inferior or equal to 80.0 ms.
+75% of values are inferior or equal to 140.0 ms.
+Average length of the phoneme 112.86 ms (namely 0.11 seconds).
+Standard deviation is 59.0 ms.
+
+Peak (x) = 97.08070807080709 ms.
+Value of y (according to x) for short model (y1) = 0.007948667482858812.
+Value of y (according to x) for long model (y2) =  0.008350613727328919.
+Ratio between y2 and y1 = 1.0505677518070669.
+
+==========
+Peak's delta is 33.687368736873694 ms.
+Area between long model and short model is 0.38804167305967324.
+Absolute error of the computed area is 6.011020749865754e-12.
+==========
+
+

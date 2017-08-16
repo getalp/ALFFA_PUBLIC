@@ -1,0 +1,553 @@
+
+
+		DUMP OF SYSTEM ALIGNMENT STRUCTURE
+
+System name:   TRAJ_FF_MD.hyp
+
+Speakers: 
+    0:  1)
+    1:  traj
+
+Speaker sentences   0:  1)   #utts: 2
+id: (1)_1)
+Scores: (#C #S #D #I) 3 1 1 0
+REF:  FAAY LAL     malaan gi (traj_ff_md_16khz 
+HYP:  **** FÃ LLAL malaan gi (traj_ff_md_16khz 
+Eval: D    S                                   
+
+id: (1)_2)
+Scores: (#C #S #D #I) 3 1 1 0
+REF:  PUR Ã±U tã«dd ci (traj_ff_md_16khz 
+HYP:  *** NGI tã«dd ci (traj_ff_md_16khz 
+Eval: D   S                              
+
+Speaker sentences   1:  traj   #utts: 88
+id: (traj_ff_md_16khz_1)
+Scores: (#C #S #D #I) 1 1 0 0
+REF:  DAÃ±UY futbal 
+HYP:  DAÃ±U  futbal 
+Eval: S             
+
+id: (traj_ff_md_16khz_10)
+Scores: (#C #S #D #I) 3 3 0 0
+REF:  KII FA daw jã©ggi bant BI  
+HYP:  KI  KO daw jã©ggi bant WIF 
+Eval: S   S                  S   
+
+id: (traj_ff_md_16khz_100)
+Scores: (#C #S #D #I) 0 6 0 0
+REF:  JIGÃ©EN JAA   NGEE  SUMMI MBUBBAM MI     
+HYP:  XEEX    Ã±AAN YEESU MI    MU      WOOMLE 
+Eval: S       S     S     S     S       S      
+
+id: (traj_ff_md_16khz_101)
+Scores: (#C #S #D #I) 0 2 1 0
+REF:  SUMMI NA    KO 
+HYP:  ***** NELAW BA 
+Eval: D     S     S  
+
+id: (traj_ff_md_16khz_102)
+Scores: (#C #S #D #I) 2 4 4 0
+REF:  JIGÃ©EN JI GÃ©NN na CI PAX MI     XUNTU MIM duggoon 
+HYP:  ******* ** LÃ©EN na ** *** JIBAAM KUND  LEM duggoon 
+Eval: D       D  S        D  D   S      S     S           
+
+id: (traj_ff_md_16khz_103)
+Scores: (#C #S #D #I) 3 3 4 0
+REF:  jigã©en JI DELLU NA TOOGAAT ci leeso BI MOOM KENN     
+HYP:  jigã©en ** ***** LA TOOG    ci leeso ** **** NANKALAM 
+Eval:         D  D     S  S                D  D    S        
+
+id: (traj_ff_md_16khz_104)
+Scores: (#C #S #D #I) 4 2 2 0
+REF:  jigã©en JAA NGEE WAAXU  JÃ«M ci garab gi 
+HYP:  jigã©en *** **** DAAYOO YEM  ci garab gi 
+Eval:         D   D    S      S                
+
+id: (traj_ff_md_16khz_105)
+Scores: (#C #S #D #I) 6 4 7 0
+REF:  ã±etti jigã©en Ã±I AT   ã±aari GÃ³OR YAA NGEE WAAXU MEL NI KU      JÃ«M     CI       biir gã©ej gi 
+HYP:  ã±etti jigã©en *** Ã±AA ã±aari ***** *** **** ***** *** ** WOYAALE WOOMALEE BIJJANTI biir gã©ej gi 
+Eval:                D   S           D     D   D    D     D   D  S       S        S                      
+
+id: (traj_ff_md_16khz_11)
+Scores: (#C #S #D #I) 4 2 1 1
+REF:  KII FA     daw jaar ci kow ****** PASAREL 
+HYP:  *** KILIFA daw jaar ci kow PASARE LA      
+Eval: D   S                      I      S       
+
+id: (traj_ff_md_16khz_13)
+Scores: (#C #S #D #I) 2 2 2 0
+REF:  KII FA     tã«dd ci Ã±AX MI      
+HYP:  *** KILIFA tã«dd ci **** Ã±AMMLE 
+Eval: D   S               D    S       
+
+id: (traj_ff_md_16khz_14)
+Scores: (#C #S #D #I) 1 5 5 0
+REF:  KII FAAY DOX CI Ã±AX MI    MU      NGI ROMBU garab GI 
+HYP:  *** **** *** ** **** DAFAY DOXINAM MAY ROMB  garab GA 
+Eval: D   D    D   D  D    S     S       S   S           S  
+
+id: (traj_ff_md_16khz_15)
+Scores: (#C #S #D #I) 2 7 4 0
+REF:  KII FA DIKK BA DIGG Ã±AX   MI        MU toog DI PEÃ±E karaw GI 
+HYP:  *** ** **** ** KI   WAYADI GINNAAWAM MA toog CI PAÃ±E karaw BI 
+Eval: D   D  D    D  S    S      S         S       S  S           S  
+
+id: (traj_ff_md_16khz_16)
+Scores: (#C #S #D #I) 0 6 3 0
+REF:  KII MOOM FAAY HÃ©EG CI KOW NJOONJOOL BI    DE   
+HYP:  *** **** **** LIMON JI KO  NJOOL     Ã±Ã«W REER 
+Eval: D   D    D    S     S  S   S         S     S    
+
+id: (traj_ff_md_16khz_17)
+Scores: (#C #S #D #I) 2 4 0 0
+REF:  ã±ett Ã±II  FU Ã±EE dugg NII  
+HYP:  ã±ett NAÃ±U FA Ã±U  dugg NEEN 
+Eval:       S     S  S         S    
+
+id: (traj_ff_md_16khz_19)
+Scores: (#C #S #D #I) 2 5 3 0
+REF:  KII DAFA   bã«gga COREETU ci KOW DAANU CI NDOX MI   
+HYP:  *** KILIFA bã«gga COBLET  ci *** ***** KO DAAN YOMB 
+Eval: D   S             S          D   D     S  S    S    
+
+id: (traj_ff_md_16khz_2)
+Scores: (#C #S #D #I) 1 3 0 0
+REF:  FAÃ±OO JOXANTE BAL    bi 
+HYP:  DAÃ±U  JOXOON  TAABAL bi 
+Eval: S      S       S         
+
+id: (traj_ff_md_16khz_20)
+Scores: (#C #S #D #I) 5 2 3 0
+REF:  GUNE GI    dafa BÃ«GG A    dugg ci biir gã©ej GI 
+HYP:  **** NAÃ±U dafa ***** BULU dugg ci biir gã©ej ** 
+Eval: D    S          D     S                       D  
+
+id: (traj_ff_md_16khz_21)
+Scores: (#C #S #D #I) 6 4 2 0
+REF:  WAA JI   dafa dikk FEKK jigã©en JAA  ngi tã«dd ci Ã±AX MI   
+HYP:  *** RALI dafa dikk REKK jigã©en Ã±AA ngi tã«dd ci **** NAAM 
+Eval: D   S              S            S                 D    S    
+
+id: (traj_ff_md_16khz_22)
+Scores: (#C #S #D #I) 4 3 0 0
+REF:  KII FAAY dagg ci garab gi DE 
+HYP:  LI  MA   dagg ci garab gi LA 
+Eval: S   S                     S  
+
+id: (traj_ff_md_16khz_23)
+Scores: (#C #S #D #I) 4 2 2 0
+REF:  jigã©en JII MU NGEE dox ci mbooy GI 
+HYP:  jigã©en *** JI MUY  dox ci mbooy ** 
+Eval:         D   S  S                 D  
+
+id: (traj_ff_md_16khz_25)
+Scores: (#C #S #D #I) 3 5 2 0
+REF:  WAA JI ROMBU  GAA YI DI    DUGGU ci pax mi 
+HYP:  *** ** BÃ YYI MA  MA GAREY DUGG  ci pax mi 
+Eval: D   D  S      S   S  S     S               
+
+id: (traj_ff_md_16khz_27)
+Scores: (#C #S #D #I) 1 3 1 0
+REF:  Ã±AAR Ã±II Ã±U NGEE    futbal 
+HYP:  ***** GIS  NAA Ã±Ã³WEE futbal 
+Eval: D     S    S   S              
+
+id: (traj_ff_md_16khz_3)
+Scores: (#C #S #D #I) 4 2 2 0
+REF:  GUNE GI DAY   HÃ©EG ci kow doj yi 
+HYP:  **** ** GUILA YÃ©EG ci kow doj yi 
+Eval: D    D  S     S                   
+
+id: (traj_ff_md_16khz_30)
+Scores: (#C #S #D #I) 4 3 0 0
+REF:  JIGÃ©EN JAA ngi jã«m ca garab YA 
+HYP:  NDIGAL  YAA ngi jã«m ca garab GA 
+Eval: S       S                     S  
+
+id: (traj_ff_md_16khz_33)
+Scores: (#C #S #D #I) 3 5 1 0
+REF:  gune GII mu NGI daw JÃ«M  CI GAJJI BI    
+HYP:  gune YU  mu *** daw JÃ«MM JI NGA   GÃ©NN 
+Eval:      S      D       S     S  S     S     
+
+id: (traj_ff_md_16khz_34)
+Scores: (#C #S #D #I) 4 4 1 0
+REF:  WAA JI    duggoon ci BIIR PAX  YI gã©nn na 
+HYP:  *** FOLLI duggoon ci WI   PEXE MU gã©nn na 
+Eval: D   S                S    S    S           
+
+id: (traj_ff_md_16khz_35)
+Scores: (#C #S #D #I) 1 2 0 0
+REF:  gã ddu TEÅ‹-TEÅ‹ GI     
+HYP:  gã ddu TAN       TAÃ±Ã± 
+Eval:        S         S      
+
+id: (traj_ff_md_16khz_36)
+Scores: (#C #S #D #I) 0 1 1 0
+REF:  DUGAAT NA    
+HYP:  ****** GÃ«NN 
+Eval: D      S     
+
+id: (traj_ff_md_16khz_37)
+Scores: (#C #S #D #I) 4 4 0 0
+REF:  jigã©en GEEK gã³or GAA NGEE PAASANTE  bal bi 
+HYP:  jigã©en JU   gã³or NAA NE   PALANTEER bal bi 
+Eval:         S          S   S    S                
+
+id: (traj_ff_md_16khz_38)
+Scores: (#C #S #D #I) 3 5 3 0
+REF:  LII    TOOLAB MBOQ  la JIGÃ©EN GAA NGI    DUGGU ci mboq MI 
+HYP:  JITLÃ© TOOLAM MBOKK la ******* *** GÃ©NNE DUGG  ci mboq ** 
+Eval: S      S      S        D       D   S      S             D  
+
+id: (traj_ff_md_16khz_4)
+Scores: (#C #S #D #I) 2 2 2 0
+REF:  KEE FAAY SANGU CI       gã©ej gi 
+HYP:  *** **** EFAL  SÃ NNIJI gã©ej gi 
+Eval: D   D    S     S                 
+
+id: (traj_ff_md_16khz_40)
+Scores: (#C #S #D #I) 5 3 1 0
+REF:  KII ci biir GAJJI BI    LA jã«m gã³or gi 
+HYP:  KU  ci biir ***** GÃ©EJ GA jã«m gã³or gi 
+Eval: S           D     S     S                
+
+id: (traj_ff_md_16khz_41)
+Scores: (#C #S #D #I) 2 2 5 0
+REF:  MU NGI tã«b CI COW XEER WI      GUNE gi 
+HYP:  ** *** tã«b ** *** **** COKKEER GONE gi 
+Eval: D  D        D  D   D    S       S       
+
+id: (traj_ff_md_16khz_42)
+Scores: (#C #S #D #I) 1 4 3 0
+REF:  gã³or GEEK JIGÃ©EN GAA NGEE     SEDDOO BANAANA BI   
+HYP:  gã³or **** ******* *** BÃ©JJÃ©N GANESI DUNQ    NAAN 
+Eval:       D    D       D   S        S      S       S    
+
+id: (traj_ff_md_16khz_44)
+Scores: (#C #S #D #I) 2 3 2 0
+REF:  MU NGEE takk MEESAM YI      jigã©en GI 
+HYP:  ** AMEE takk ****** MAASALE jigã©en JI 
+Eval: D  S         D      S               S  
+
+id: (traj_ff_md_16khz_45)
+Scores: (#C #S #D #I) 5 4 2 0
+REF:  jigã©en GAA  ngi GÃ©NNEE ci GAJJI BI    jaar ci MBOOY GI      
+HYP:  jigã©en Ã±AA ngi GÃ©NNE  ci ***** GÃ©EJ jaar ci ***** MBOOYOO 
+Eval:         S        S          D     S             D     S       
+
+id: (traj_ff_md_16khz_46)
+Scores: (#C #S #D #I) 0 3 2 0
+REF:  GONE FAAY TÃ«B  XEER WI     
+HYP:  **** **** NAÃ±U FA   TEQALE 
+Eval: D    D    S     S    S      
+
+id: (traj_ff_md_16khz_47)
+Scores: (#C #S #D #I) 3 4 2 0
+REF:  Ã±ETT Ã±II Ã±U  NGI TAXAW ci ron PONT bi 
+HYP:  ***** **** MATT MI  TAW   ci ron PAAN bi 
+Eval: D     D    S    S   S            S       
+
+id: (traj_ff_md_16khz_48)
+Scores: (#C #S #D #I) 2 4 2 0
+REF:  WAA ROMBU NA LEEN DUGGU ci GAJJI bi 
+HYP:  *** ***** MA YOMM DUGG  ci GAJJ  bi 
+Eval: D   D     S  S    S        S        
+
+id: (traj_ff_md_16khz_49)
+Scores: (#C #S #D #I) 7 2 1 0
+REF:  JIGÃ©EN gaa NGEEN may gã³or gi ndox MI mu naan 
+HYP:  NGEEN   gaa NGI   may gã³or gi ndox ** mu naan 
+Eval: S           S                       D          
+
+id: (traj_ff_md_16khz_50)
+Scores: (#C #S #D #I) 2 6 3 0
+REF:  JIGÃ©EN GAA NGEE   daw ci MBOO GI    AM KU MOOY  FÃ CCUJI 
+HYP:  ******* *** YENEEN daw ci **** MOYTU KO MA TÃ NK YI       
+Eval: D       D   S             D    S     S  S  S     S        
+
+id: (traj_ff_md_16khz_52)
+Scores: (#C #S #D #I) 7 3 3 0
+REF:  gã³or GII gã©nn NA ci pax mi ã±ã³w DUGGAT CI      beneen PAX MI    
+HYP:  gã³or GI  gã©nn ** ci pax mi ã±ã³w ****** DUGGATI beneen *** TORLU 
+Eval:       S         D                  D      S              D   S     
+
+id: (traj_ff_md_16khz_53)
+Scores: (#C #S #D #I) 6 4 0 0
+REF:  jigã©en gi GÃ©NNEE CI      GAJJI BI ã±ã³w galan yoon wi 
+HYP:  jigã©en gi NENAL   JIGÃ©EN YI    DI ã±ã³w galan yoon wi 
+Eval:            S       S       S     S                      
+
+id: (traj_ff_md_16khz_54)
+Scores: (#C #S #D #I) 2 5 1 0
+REF:  GÃ³OR GAA NGEE  DUGGU ci biir GAJJI BI   
+HYP:  ***** GOR NAÃ±U DUGG  ci biir LAY   JIWE 
+Eval: D     S   S     S             S     S    
+
+id: (traj_ff_md_16khz_55)
+Scores: (#C #S #D #I) 2 5 3 0
+REF:  gã³or gi BIIT GAJJI BI LA   GÃ©NNEE MU    NGEE DAW 
+HYP:  gã³or gi **** ***** ** JUGE JULA    GÃ©NN NE   DOW 
+Eval:          D    D     D  S    S       S     S    S   
+
+id: (traj_ff_md_16khz_56)
+Scores: (#C #S #D #I) 1 5 2 0
+REF:  jigã©en GI GÃ©NNEE NA CI    BIIR    NGUUNA GI 
+HYP:  jigã©en ** ******* JI NEENA JIBÃ©ER NGOON  BI 
+Eval:         D  D       S  S     S       S      S  
+
+id: (traj_ff_md_16khz_57)
+Scores: (#C #S #D #I) 0 1 2 0
+REF:  MU NGI WAAXU 
+HYP:  ** *** JOOR  
+Eval: D  D   S     
+
+id: (traj_ff_md_16khz_58)
+Scores: (#C #S #D #I) 4 4 0 0
+REF:  gã³or GGA NGI toog ci PEGG  garab GI 
+HYP:  gã³or LA  LA  toog ci PÃ«DD garab BI 
+Eval:       S   S           S           S  
+
+id: (traj_ff_md_16khz_59)
+Scores: (#C #S #D #I) 1 1 0 0
+REF:  DA   liir 
+HYP:  TUDD liir 
+Eval: S         
+
+id: (traj_ff_md_16khz_60)
+Scores: (#C #S #D #I) 1 4 2 0
+REF:  JIGÃ©EN GAA NGEE HÃ©EG  ci MOONTAAÃ± BI    
+HYP:  ******* *** YENN NAANEE ci MAAM      TÃ NN 
+Eval: D       D   S    S         S         S     
+
+id: (traj_ff_md_16khz_61)
+Scores: (#C #S #D #I) 3 1 2 0
+REF:  JIGÃ©EN GAA NGEE      lem yã©reem yi 
+HYP:  ******* *** YÃ«NGALEE lem yã©reem yi 
+Eval: D       D   S                        
+
+id: (traj_ff_md_16khz_62)
+Scores: (#C #S #D #I) 5 3 3 0
+REF:  KII MU NGEE    ci kow DOJ YI   bã«gga dugg CA biir 
+HYP:  *** ** JINNEEY ci kow *** DOYE bã«gga dugg CI biir 
+Eval: D   D  S              D   S                S       
+
+id: (traj_ff_md_16khz_63)
+Scores: (#C #S #D #I) 3 4 0 0
+REF:  GÃ³OR  GAA NGEE wã cce ci MBARTAN mi 
+HYP:  NGÃ³OR NGA NE   wã cce ci MBALKA  mi 
+Eval: S      S   S              S          
+
+id: (traj_ff_md_16khz_64)
+Scores: (#C #S #D #I) 4 4 0 0
+REF:  JIGÃ©EN gaa NGEE DUGGU ci biir NGUUNA gi 
+HYP:  YÃ©EN   gaa NGIY DUGG  ci biir NGOON  gi 
+Eval: S           S    S             S         
+
+id: (traj_ff_md_16khz_65)
+Scores: (#C #S #D #I) 2 5 3 0
+REF:  JIGÃ©EN GAA NGI ROMBU      GARAB GI     jaar ci MBOOY MI 
+HYP:  ******* *** *** YENDUWAANI ROMB  RÃ«BBI jaar ci MOOY  NA 
+Eval: D       D   D   S          S     S              S     S  
+
+id: (traj_ff_md_16khz_66)
+Scores: (#C #S #D #I) 4 3 1 0
+REF:  jigã©en JAA NGI   jã³ge ci PEGG  garab GI 
+HYP:  jigã©en *** NAÃ±U jã³ge ci PEGGU garab BI 
+Eval:         D   S              S           S  
+
+id: (traj_ff_md_16khz_67)
+Scores: (#C #S #D #I) 7 5 1 0
+REF:  ã±aari jigã©en NÃ©EK genn gã³or gaa NGEE GÃ©NNEE ci GAJJI bi JÃ«MSI FII    
+HYP:  ã±aari jigã©en NE    genn gã³or gaa NGI  NE      ci GAJJ  bi ****** JÃ©MSI 
+Eval:                S                    S    S          S        D      S      
+
+id: (traj_ff_md_16khz_68)
+Scores: (#C #S #D #I) 3 3 0 0
+REF:  gã³or gaa NGEE SIMMI MBUBBAM mi 
+HYP:  gã³or gaa NGIY SEEN  MBOOB   mi 
+Eval:           S    S     S          
+
+id: (traj_ff_md_16khz_7)
+Scores: (#C #S #D #I) 6 3 1 0
+REF:  KII FA     lal basan BI DA  naan ci kaas bi 
+HYP:  *** KILIFA lal basan GA NGA naan ci kaas bi 
+Eval: D   S                S  S                   
+
+id: (traj_ff_md_16khz_70)
+Scores: (#C #S #D #I) 5 5 3 0
+REF:  jigã©en GI gã©nn NA ci TOOLAB MBUQU  BI     MU   NGEE galan yoon WI 
+HYP:  jigã©en BI gã©nn ** ci ****** TOOLAM MOKKUL MOOY A    galan yoon ** 
+Eval:         S        D     D      S      S      S    S               D  
+
+id: (traj_ff_md_16khz_71)
+Scores: (#C #S #D #I) 1 4 5 0
+REF:  gune GA NGEE TÃ«B DA HÃ©EG CI     KOW   XEER WI    
+HYP:  gune ** **** **** ** ***** LAÃ±UY TUDDE KO   REERE 
+Eval:      D  D    D    D  D     S      S     S    S     
+
+id: (traj_ff_md_16khz_72)
+Scores: (#C #S #D #I) 3 6 1 1
+REF:  KENEEN GUNE  GI gã©nn NAÃ±  fekk ** ci KOW XEER WI  
+HYP:  REN    GÃ«NA YU gã©nn NAÃ±U fekk KO ci *** KO   REN 
+Eval: S      S     S        S          I     D   S    S   
+
+id: (traj_ff_md_16khz_74)
+Scores: (#C #S #D #I) 7 5 2 1
+REF:  jigã©en GI dikk na ROMBU waa ji TAXAWOON ci *** ron PONT KOW  PONT  BI   
+HYP:  jigã©en ** dikk na ROMB  waa ji TAWAAN   ci KOW ron **** POMP KOPPU MOOM 
+Eval:         D          S            S           I       D    S    S     S    
+
+id: (traj_ff_md_16khz_75)
+Scores: (#C #S #D #I) 4 3 2 0
+REF:  jigã©en GAA  NGEE dikk DA DUGGUSI ci gã©ej GI 
+HYP:  jigã©en Ã±AA NGIY dikk ** DUGG    ci gã©ej ** 
+Eval:         S    S         D  S                D  
+
+id: (traj_ff_md_16khz_76)
+Scores: (#C #S #D #I) 7 4 1 1
+REF:  ** gã³or gaa NGEEN gã©nn ci BIIR GAJJI BI   jã«msi ci mbooy GI 
+HYP:  KU gã³or gaa NGIY  gã©nn ci **** BINDE JIWE jã«msi ci mbooy BI 
+Eval: I            S              D    S     S                    S  
+
+id: (traj_ff_md_16khz_77)
+Scores: (#C #S #D #I) 10 3 0 0
+REF:  gã³or gaa ngi BÃ YYI jigã©en GI mu tã«dd mu dox jã«m XAWMA fan 
+HYP:  gã³or gaa ngi BAAY   jigã©en JI mu tã«dd mu dox jã«m OMAR  fan 
+Eval:               S              S                       S         
+
+id: (traj_ff_md_16khz_78)
+Scores: (#C #S #D #I) 6 4 3 0
+REF:  WAA JAA NGEE     galan yoon WI mel ni KUY DUGGU ci GAJJI bi 
+HYP:  *** *** WAAJTAAY galan yoon ** mel ni KU  DUGG  ci BEÃ±E bi 
+Eval: D   D   S                   D         S   S        S        
+
+id: (traj_ff_md_16khz_79)
+Scores: (#C #S #D #I) 3 5 3 0
+REF:  JIGÃ©EN GAA NGEE     daw ROMBU garab GI JÃ«M KENEEN BOOR ba 
+HYP:  ******* *** YERAANGE daw ROMB  garab ** LEEN BENN   BOR  ba 
+Eval: D       D   S            S           D  S    S      S       
+
+id: (traj_ff_md_16khz_8)
+Scores: (#C #S #D #I) 2 4 1 0
+REF:  jigã©en JII FAA JUGEE CI    GÃ©EJ    gi 
+HYP:  jigã©en *** JI  FA    JÃ³GE LIGGÃ©EY gi 
+Eval:         D   S   S     S     S           
+
+id: (traj_ff_md_16khz_80)
+Scores: (#C #S #D #I) 5 4 1 1
+REF:  GÃ³OR gaa ngi **** ci PEGG MBOOY GI     DA     lekk banaana 
+HYP:  KÃ«R  gaa ngi TOOG ci **** TEG   MOYAAL NDÃ«ND lekk banaana 
+Eval: S             I       D    S     S      S                   
+
+id: (traj_ff_md_16khz_81)
+Scores: (#C #S #D #I) 3 6 3 0
+REF:  GÃ³OR gaa ngi TOOG CI PEGG GÃ©EJ  gi DA XOOL KANAARA YI  
+HYP:  KÃ«R  gaa ngi **** ** TOJI TEGGEE gi ** DOG  NA      REY 
+Eval: S             D    D  S    S         D  S    S       S   
+
+id: (traj_ff_md_16khz_82)
+Scores: (#C #S #D #I) 4 6 0 0
+REF:  JIGÃ©EN gaa NGEE WAAXU DU DUGGAAT ci biir GAJJI bi 
+HYP:  KENN    gaa NE   WAAW  LU BA      ci biir GAJJ  bi 
+Eval: S           S    S     S  S               S        
+
+id: (traj_ff_md_16khz_83)
+Scores: (#C #S #D #I) 3 7 3 0
+REF:  JIGÃ©EN GAA NGEE  HÃ©EG ci kow DOJ YI  jã«m CI BIIR GAJJI BI    
+HYP:  ******* BU  NGEEN WAAYE ci kow *** DOY jã«m ** DIBI GA    JÃ³GE 
+Eval: D       S   S     S            D   S        D  S    S     S     
+
+id: (traj_ff_md_16khz_84)
+Scores: (#C #S #D #I) 0 6 5 0
+REF:  GUNE GAA NGEE TÃ«BANTU CI XEER  YI   CI    PEGG GÃ©EJ GI 
+HYP:  **** *** **** ******** ** NAWET WOON RÃ©JU PER  MIIR  BI 
+Eval: D    D   D    D        D  S     S    S     S    S     S  
+
+id: (traj_ff_md_16khz_85)
+Scores: (#C #S #D #I) 4 6 1 0
+REF:  JIGÃ©EN gaa NGEE JÃ³GEE ci basan BI BAY sol DÃ LLAM YI 
+HYP:  YÃ©EN   gaa NGI  JÃ³GE  ci basan ** BA  sol DÃ LL   MI 
+Eval: S           S    S               D  S       S       S  
+
+id: (traj_ff_md_16khz_86)
+Scores: (#C #S #D #I) 3 4 5 1
+REF:  ** GONE GI    GÃ©NNAAT ci pax mi Ã±Ã³W HÃ©EG CI KOW XEER YI    
+HYP:  NA YI   GÃ©NN NA       ci pax mi ***** ***** ** *** **** OPERE 
+Eval: I  S    S     S                  D     D     D  D   D    S     
+
+id: (traj_ff_md_16khz_87)
+Scores: (#C #S #D #I) 1 5 1 0
+REF:  JIGÃ©EN GI   DAWAAT NA ROMBU garab GI 
+HYP:  ******* YENN NDAWAL MA ROMB  garab GA 
+Eval: D       S    S      S  S           S  
+
+id: (traj_ff_md_16khz_88)
+Scores: (#C #S #D #I) 4 4 3 0
+REF:  JIGÃ©EN JI       summi na DÃ LL YI TOOGAAT CI      KOW leeso bi 
+HYP:  ******* GÃ©NNÃ©E summi na ***** ** DALEE   TOPPATI KO  leeso bi 
+Eval: D       S                 D     D  S       S       S            
+
+id: (traj_ff_md_16khz_89)
+Scores: (#C #S #D #I) 4 3 0 0
+REF:  gã³or gi MU NGEE sol MBUBBAM mi 
+HYP:  gã³or gi MA NE   sol MBUBB   mi 
+Eval:          S  S        S          
+
+id: (traj_ff_md_16khz_9)
+Scores: (#C #S #D #I) 0 6 0 0
+REF:  KII FAAY DUGGUSI CI XUNTU MI 
+HYP:  LI  FAY  DUGG    CA BUNTU NE 
+Eval: S   S    S       S  S     S  
+
+id: (traj_ff_md_16khz_90)
+Scores: (#C #S #D #I) 1 7 2 0
+REF:  JIGÃ©EN GAA NGEE   WAAXU DA     DUGGUSIHAAT ci BIIR XUTU MI      
+HYP:  ******* *** DINDIL NAAN  YÃ³OXU DUGG        ci Ã«TT BI   CULTURE 
+Eval: D       D   S      S     S      S              S    S    S       
+
+id: (traj_ff_md_16khz_91)
+Scores: (#C #S #D #I) 2 4 4 0
+REF:  LÃ©EGI JÃ³GEE NA CI XEER  YI    DUGGAAT  CI    pax mi 
+HYP:  ****** ****** ** ** NAÃ±U JOYAL KÃ«RIÃ±U GÃ TT pax mi 
+Eval: D      D      D  D  S     S     S        S            
+
+id: (traj_ff_md_16khz_93)
+Scores: (#C #S #D #I) 1 3 2 1
+REF:  JIGÃ©EN JAA NGEE SUMMI MBUBBAM mi **** 
+HYP:  ******* *** XEEX Ã±AAN YEESU   mi WONN 
+Eval: D       D   S    S     S          I    
+
+id: (traj_ff_md_16khz_94)
+Scores: (#C #S #D #I) 0 2 1 0
+REF:  SUMMI NA    KO 
+HYP:  ***** NELAW BA 
+Eval: D     S     S  
+
+id: (traj_ff_md_16khz_95)
+Scores: (#C #S #D #I) 2 4 4 0
+REF:  JIGÃ©EN JI GÃ©NN na CI PAX MI     XUNTU MIM duggoon 
+HYP:  ******* ** LÃ©EN na ** *** JIBAAM KUND  LEM duggoon 
+Eval: D       D  S        D  D   S      S     S           
+
+id: (traj_ff_md_16khz_96)
+Scores: (#C #S #D #I) 4 3 3 0
+REF:  jigã©en JI DELLU NA TOOGAAT ci leeso BI MOOM kenn 
+HYP:  jigã©en ** ***** LA TOOG    ci leeso ** MAN  kenn 
+Eval:         D  D     S  S                D  S         
+
+id: (traj_ff_md_16khz_97)
+Scores: (#C #S #D #I) 4 2 2 0
+REF:  jigã©en JAA NGEE WAAXU  JÃ«M ci garab gi 
+HYP:  jigã©en *** **** DAAYOO YEM  ci garab gi 
+Eval:         D   D    S      S                
+
+id: (traj_ff_md_16khz_98)
+Scores: (#C #S #D #I) 5 5 5 0
+REF:  ã±etti jigã©en Ã±I AK   ã±aari GÃ³OR YAA WAAXU MEL NI      KU       JÃ«M     CI   gã©ej gi 
+HYP:  ã±etti jigã©en *** Ã±AA ã±aari ***** *** ***** *** WOYAALE WOOMALEE BIJJANTI BIIR gã©ej gi 
+Eval:                D   S           D     D   D     D   S       S        S        S             
+
+

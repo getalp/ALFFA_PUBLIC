@@ -1,0 +1,467 @@
+
+
+		DUMP OF SYSTEM ALIGNMENT STRUCTURE
+
+System name:   TRAJ_FF_MAD.hyp
+
+Speakers: 
+    0:  traj
+
+Speaker sentences   0:  traj   #utts: 76
+id: (traj_ff_mad_16khz_10)
+Scores: (#C #S #D #I) 2 1 1 0
+REF:  FAAY DAW      ci montaaã± 
+HYP:  **** FAAYDAWU ci montaaã± 
+Eval: D    S                    
+
+id: (traj_ff_mad_16khz_11)
+Scores: (#C #S #D #I) 4 1 0 0
+REF:  FAAY dox ci mbooy gi 
+HYP:  FAY  dox ci mbooy gi 
+Eval: S                    
+
+id: (traj_ff_mad_16khz_12)
+Scores: (#C #S #D #I) 5 0 0 0
+REF:  fa dikk fekk muy nelaw 
+HYP:  fa dikk fekk muy nelaw 
+Eval:                        
+
+id: (traj_ff_mad_16khz_13)
+Scores: (#C #S #D #I) 6 0 0 0
+REF:  fay waaxu jã«m ci garab gi 
+HYP:  fay waaxu jã«m ci garab gi 
+Eval:                            
+
+id: (traj_ff_mad_16khz_14)
+Scores: (#C #S #D #I) 6 0 0 0
+REF:  fay waaxu dugg ci ã ll bi 
+HYP:  fay waaxu dugg ci ã ll bi 
+Eval:                           
+
+id: (traj_ff_mad_16khz_15)
+Scores: (#C #S #D #I) 3 2 0 0
+REF:  FAAY WÃ CCI ci xeer yi 
+HYP:  AY   WÃ CC  ci xeer yi 
+Eval: S    S                 
+
+id: (traj_ff_mad_16khz_16)
+Scores: (#C #S #D #I) 1 1 0 0
+REF:  FAAY dox 
+HYP:  FA   dox 
+Eval: S        
+
+id: (traj_ff_mad_16khz_17)
+Scores: (#C #S #D #I) 5 0 0 0
+REF:  fay nelaw ci ã±ax mi 
+HYP:  fay nelaw ci ã±ax mi 
+Eval:                      
+
+id: (traj_ff_mad_16khz_18)
+Scores: (#C #S #D #I) 5 0 0 0
+REF:  fa toog summi mbubb mi 
+HYP:  fa toog summi mbubb mi 
+Eval:                        
+
+id: (traj_ff_mad_16khz_19)
+Scores: (#C #S #D #I) 4 1 0 0
+REF:  FAAY dox ci ã±ax mi 
+HYP:  BAAY dox ci ã±ax mi 
+Eval: S                   
+
+id: (traj_ff_mad_16khz_2)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  fa ã±ooy sã neente bal 
+HYP:  fa ã±ooy sã neente bal 
+Eval:                        
+
+id: (traj_ff_mad_16khz_21)
+Scores: (#C #S #D #I) 5 0 0 0
+REF:  fa gã©nne ci gajj bi 
+HYP:  fa gã©nne ci gajj bi 
+Eval:                      
+
+id: (traj_ff_mad_16khz_22)
+Scores: (#C #S #D #I) 3 2 0 0
+REF:  FAÃ± DEM  ci gã©ej gi 
+HYP:  FAN  JÃ«M ci gã©ej gi 
+Eval: S    S                
+
+id: (traj_ff_mad_16khz_23)
+Scores: (#C #S #D #I) 2 3 0 0
+REF:  fa DUGGU ci XUNTU MI 
+HYP:  fa DUGG  ci XUNT  WI 
+Eval:    S        S     S  
+
+id: (traj_ff_mad_16khz_24)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  fa ko jox banaana 
+HYP:  fa ko jox banaana 
+Eval:                   
+
+id: (traj_ff_mad_16khz_3)
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  FAAY lal malaan 
+HYP:  FAY  lal malaan 
+Eval: S               
+
+id: (traj_ff_mad_16khz_30)
+Scores: (#C #S #D #I) 1 1 0 0
+REF:  FAAY tã«b 
+HYP:  FAY  tã«b 
+Eval: S         
+
+id: (traj_ff_mad_16khz_31)
+Scores: (#C #S #D #I) 5 0 0 0
+REF:  fa dox romb ã±i taxaw 
+HYP:  fa dox romb ã±i taxaw 
+Eval:                       
+
+id: (traj_ff_mad_16khz_32)
+Scores: (#C #S #D #I) 6 2 0 0
+REF:  fa dox ROMBU   KI sã«gg tiim ndox mi 
+HYP:  fa dox ROMBOON CI sã«gg tiim ndox mi 
+Eval:        S       S                     
+
+id: (traj_ff_mad_16khz_33)
+Scores: (#C #S #D #I) 2 4 0 0
+REF:  FA WAAXU DUGGU ci GAJJI bi 
+HYP:  MA WAXUL DUGG  ci GAJJ  bi 
+Eval: S  S     S        S        
+
+id: (traj_ff_mad_16khz_34)
+Scores: (#C #S #D #I) 2 1 1 0
+REF:  FA TÃ«B bant bi 
+HYP:  ** FÃ«Q bant bi 
+Eval: D  S            
+
+id: (traj_ff_mad_16khz_35)
+Scores: (#C #S #D #I) 5 3 1 0
+REF:  FA GÃ©NNEE ci XUNTU MI jã«l paã±e bi duggaat 
+HYP:  ** GÃ©NNE  ci XUNT  WI jã«l paã±e bi duggaat 
+Eval: D  S          S     S                        
+
+id: (traj_ff_mad_16khz_36)
+Scores: (#C #S #D #I) 4 1 0 0
+REF:  FAAY dox ak yaramu neen 
+HYP:  KAAY dox ak yaramu neen 
+Eval: S                       
+
+id: (traj_ff_mad_16khz_37)
+Scores: (#C #S #D #I) 6 0 0 0
+REF:  fa jaar ci pom bi jã ll 
+HYP:  fa jaar ci pom bi jã ll 
+Eval:                         
+
+id: (traj_ff_mad_16khz_38)
+Scores: (#C #S #D #I) 1 5 1 0
+REF:  FA LEEN   ROMBU DUGGU ci XUNTU MI 
+HYP:  ** FANAAN ROMB  DUGG  ci XUNT  WI 
+Eval: D  S      S     S        S     S  
+
+id: (traj_ff_mad_16khz_39)
+Scores: (#C #S #D #I) 4 3 0 2
+REF:  **** **** FA summi mbubbam MBUBBAM mi TIYE ko 
+HYP:  FASU BUUR FU summi mbubbam MBUBB   mi KI   ko 
+Eval: I    I    S                S          S       
+
+id: (traj_ff_mad_16khz_40)
+Scores: (#C #S #D #I) 1 2 0 0
+REF:  FAÃ±OOY PAASANTE bal 
+HYP:  PAÃ±EY  FASANTE  bal 
+Eval: S       S            
+
+id: (traj_ff_mad_16khz_41)
+Scores: (#C #S #D #I) 2 7 1 0
+REF:  FA WÃ CCI ESKALE bi ESKALE YI  DUGGU ci XUNTU MI 
+HYP:  ** DOWATI ISKALE bi ISKALE YII DUGG  ci XUNT  WI 
+Eval: D  S      S         S      S   S        S     S  
+
+id: (traj_ff_mad_16khz_42)
+Scores: (#C #S #D #I) 4 3 1 0
+REF:  FA summi DÃ LL YI    taxaw ci BASAÅ‹ bi 
+HYP:  KO summi ***** DALDI taxaw ci BASAN  bi 
+Eval: S        D     S              S         
+
+id: (traj_ff_mad_16khz_43)
+Scores: (#C #S #D #I) 6 0 0 0
+REF:  fa taxaw ci buntu ndox mi 
+HYP:  fa taxaw ci buntu ndox mi 
+Eval:                           
+
+id: (traj_ff_mad_16khz_47)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  fan HÃ ND da dox 
+HYP:  fan XAND  da dox 
+Eval:     S            
+
+id: (traj_ff_mad_16khz_49)
+Scores: (#C #S #D #I) 4 3 0 0
+REF:  fa TOOG ci BASAÅ‹ bi DA   lã©ttu 
+HYP:  fa TOJ  ci BASAN  bi DAAL lã©ttu 
+Eval:    S       S         S           
+
+id: (traj_ff_mad_16khz_5)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  FAÃ± taxaw ci tefes 
+HYP:  FAN  taxaw ci tefes 
+Eval: S                   
+
+id: (traj_ff_mad_16khz_50)
+Scores: (#C #S #D #I) 2 2 0 0
+REF:  FAAY dox DA ã±ã³w 
+HYP:  FAY  dox DI ã±ã³w 
+Eval: S        S        
+
+id: (traj_ff_mad_16khz_51)
+Scores: (#C #S #D #I) 4 1 0 0
+REF:  fa dox ROMBU garab gi 
+HYP:  fa dox ROMB  garab gi 
+Eval:        S              
+
+id: (traj_ff_mad_16khz_52)
+Scores: (#C #S #D #I) 5 0 0 0
+REF:  fa daw romb garab gi 
+HYP:  fa daw romb garab gi 
+Eval:                      
+
+id: (traj_ff_mad_16khz_53)
+Scores: (#C #S #D #I) 1 2 0 0
+REF:  FAÃ±OOY PAASANTE bal 
+HYP:  PAÃ±EY  FASANTE  bal 
+Eval: S       S            
+
+id: (traj_ff_mad_16khz_54)
+Scores: (#C #S #D #I) 2 3 0 0
+REF:  fa DUGGU ci XUNTU MI 
+HYP:  fa DUGG  ci XUNT  WI 
+Eval:    S        S     S  
+
+id: (traj_ff_mad_16khz_56)
+Scores: (#C #S #D #I) 7 1 0 0
+REF:  fa toog ci taatu garab gi DA  jã ng 
+HYP:  fa toog ci taatu garab gi NGA jã ng 
+Eval:                           S         
+
+id: (traj_ff_mad_16khz_57)
+Scores: (#C #S #D #I) 6 0 0 0
+REF:  fa tã«b daanu ci ndox mi 
+HYP:  fa tã«b daanu ci ndox mi 
+Eval:                          
+
+id: (traj_ff_mad_16khz_58)
+Scores: (#C #S #D #I) 0 2 0 0
+REF:  FAAY DAW 
+HYP:  FAY  DOW 
+Eval: S    S   
+
+id: (traj_ff_mad_16khz_6)
+Scores: (#C #S #D #I) 4 2 0 0
+REF:  FAAY dox ci BIIR ã±ax mi 
+HYP:  FAY  dox ci BIIG ã±ax mi 
+Eval: S           S            
+
+id: (traj_ff_mad_16khz_60)
+Scores: (#C #S #D #I) 6 1 0 1
+REF:  FA  wã ccee ci xeer wi daw dem **** 
+HYP:  FOO wã ccee ci xeer wi daw dem XEEX 
+Eval: S                              I    
+
+id: (traj_ff_mad_16khz_61)
+Scores: (#C #S #D #I) 5 2 0 0
+REF:  FAAY  DAGG ay doom ci garab gi 
+HYP:  FAYDA BI   ay doom ci garab gi 
+Eval: S     S                        
+
+id: (traj_ff_mad_16khz_62)
+Scores: (#C #S #D #I) 4 2 1 0
+REF:  FA HAM    lu mooy sã nni KANAARA yi 
+HYP:  ** NDAXAM lu mooy sã nni GANAAR  yi 
+Eval: D  S                     S          
+
+id: (traj_ff_mad_16khz_64)
+Scores: (#C #S #D #I) 1 3 0 0
+REF:  FAÃ± HAND DA dem 
+HYP:  FAN  XAND DE dem 
+Eval: S    S    S      
+
+id: (traj_ff_mad_16khz_65)
+Scores: (#C #S #D #I) 4 2 0 0
+REF:  fa dox DUGGU ci XUNTU mi 
+HYP:  fa dox DUGG  ci XUNT  mi 
+Eval:        S        S        
+
+id: (traj_ff_mad_16khz_66)
+Scores: (#C #S #D #I) 5 1 1 0
+REF:  fa toog ci basan bi DA NAAN    
+HYP:  fa toog ci basan bi ** DÃ«NNAM 
+Eval:                     D  S       
+
+id: (traj_ff_mad_16khz_68)
+Scores: (#C #S #D #I) 2 2 2 0
+REF:  FA HÃ©EG CI    ESKALE yi dem 
+HYP:  ** ***** YÃ©EG ISKALE yi dem 
+Eval: D  D     S     S             
+
+id: (traj_ff_mad_16khz_69)
+Scores: (#C #S #D #I) 1 2 0 0
+REF:  FA dox ROMBU 
+HYP:  BA dox ROMB  
+Eval: S      S     
+
+id: (traj_ff_mad_16khz_7)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  FAAY tã«b xeer wi 
+HYP:  FAY  tã«b xeer wi 
+Eval: S                 
+
+id: (traj_ff_mad_16khz_70)
+Scores: (#C #S #D #I) 6 1 0 0
+REF:  fa daw DUGGU ci biir ndox mi 
+HYP:  fa daw DUGG  ci biir ndox mi 
+Eval:        S                     
+
+id: (traj_ff_mad_16khz_71)
+Scores: (#C #S #D #I) 5 3 0 0
+REF:  fa daw DUGGU ci biir TOOLAB MBOQU bi 
+HYP:  fa daw DUGG  ci biir TOOLAM MBOQ  bi 
+Eval:        S             S      S        
+
+id: (traj_ff_mad_16khz_72)
+Scores: (#C #S #D #I) 6 3 0 0
+REF:  FA GÃ©NNEE ci buntu bii duggee ci buntu BÃ«LE 
+HYP:  BI GÃ©NNE  ci buntu bii duggee ci buntu BALE  
+Eval: S  S                                    S     
+
+id: (traj_ff_mad_16khz_74)
+Scores: (#C #S #D #I) 7 2 0 0
+REF:  fa toog ci basan bi DA   PEÃ±E karaw gi 
+HYP:  fa toog ci basan bi DEFE NE    karaw gi 
+Eval:                     S    S              
+
+id: (traj_ff_mad_16khz_75)
+Scores: (#C #S #D #I) 4 1 0 0
+REF:  fa daw ROMBU garab gi 
+HYP:  fa daw ROMB  garab gi 
+Eval:        S              
+
+id: (traj_ff_mad_16khz_76)
+Scores: (#C #S #D #I) 4 2 0 0
+REF:  fa GÃ©NNEE ci XUNTU mi dem 
+HYP:  fa GÃ©NNE  ci XUNT  mi dem 
+Eval:    S          S            
+
+id: (traj_ff_mad_16khz_77)
+Scores: (#C #S #D #I) 6 1 0 0
+REF:  fa WÃ CCI taxaw ci buntu ndox mi 
+HYP:  fa WACCI  taxaw ci buntu ndox mi 
+Eval:    S                             
+
+id: (traj_ff_mad_16khz_78)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  FAAY waaxu la dem 
+HYP:  FAY  waaxu la dem 
+Eval: S                 
+
+id: (traj_ff_mad_16khz_79)
+Scores: (#C #S #D #I) 8 1 0 0
+REF:  fa toog ci taatu garab gi DA lekk banaana 
+HYP:  fa toog ci taatu garab gi DE lekk banaana 
+Eval:                           S               
+
+id: (traj_ff_mad_16khz_8)
+Scores: (#C #S #D #I) 3 2 0 0
+REF:  FAAY dox ci ESKALIYEE yi 
+HYP:  FAY  dox ci ASKAN     yi 
+Eval: S           S            
+
+id: (traj_ff_mad_16khz_80)
+Scores: (#C #S #D #I) 3 3 1 0
+REF:  FAAY DAW      DA GÃ©NNEE  ci ndox mi 
+HYP:  **** FAAYDAWU DI GÃ©NNÃ©E ci ndox mi 
+Eval: D    S        S  S                   
+
+id: (traj_ff_mad_16khz_81)
+Scores: (#C #S #D #I) 3 4 0 0
+REF:  fa GÃ©NNEE ci TOOLU   TOOLAB MBOQU bi 
+HYP:  fa GÃ©NNE  ci TOLLOOK TOOLAM MBOQ  bi 
+Eval:    S          S       S      S        
+
+id: (traj_ff_mad_16khz_82)
+Scores: (#C #S #D #I) 2 2 0 0
+REF:  FAAY LEEM ay yã©reem 
+HYP:  FAY  LEM  ay yã©reem 
+Eval: S    S               
+
+id: (traj_ff_mad_16khz_84)
+Scores: (#C #S #D #I) 2 2 0 0
+REF:  FAAY waaxu DA dem 
+HYP:  FAY  waaxu DI dem 
+Eval: S          S      
+
+id: (traj_ff_mad_16khz_85)
+Scores: (#C #S #D #I) 2 5 0 0
+REF:  FAAY DUGGU CA ci BIIR HÃ LL bi 
+HYP:  FAY  DUGG  CI ci BI   Ã LL  bi 
+Eval: S    S     S     S    S        
+
+id: (traj_ff_mad_16khz_86)
+Scores: (#C #S #D #I) 5 0 0 0
+REF:  foo ko wann gannaaw dem 
+HYP:  foo ko wann gannaaw dem 
+Eval:                         
+
+id: (traj_ff_mad_16khz_87)
+Scores: (#C #S #D #I) 1 1 1 0
+REF:  FA SOL    mbubbam 
+HYP:  ** FAÃ§ON mbubbam 
+Eval: D  S              
+
+id: (traj_ff_mad_16khz_89)
+Scores: (#C #S #D #I) 5 0 0 0
+REF:  fa toog ci basan bi 
+HYP:  fa toog ci basan bi 
+Eval:                     
+
+id: (traj_ff_mad_16khz_9)
+Scores: (#C #S #D #I) 1 3 1 0
+REF:  FAAY YHÃ©EG CI    ESKALIYEE yi 
+HYP:  **** FA     YÃ©EG ISKALE    yi 
+Eval: D    S      S     S            
+
+id: (traj_ff_mad_16khz_90)
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  fa dox ROMBU 
+HYP:  fa dox ROMB  
+Eval:        S     
+
+id: (traj_ff_mad_16khz_91)
+Scores: (#C #S #D #I) 4 2 1 0
+REF:  FA JÃ³GEE ci garab gi DA daw 
+HYP:  KO JÃ³GE  ci garab gi ** daw 
+Eval: S  S                  D      
+
+id: (traj_ff_mad_16khz_92)
+Scores: (#C #S #D #I) 4 1 0 0
+REF:  FA  taxaw sol dã llam yi 
+HYP:  NGA taxaw sol dã llam yi 
+Eval: S                        
+
+id: (traj_ff_mad_16khz_93)
+Scores: (#C #S #D #I) 6 1 0 0
+REF:  fa daw HÃ©EG ci kow xeer wi 
+HYP:  fa daw YÃ©EG ci kow xeer wi 
+Eval:        S                    
+
+id: (traj_ff_mad_16khz_94)
+Scores: (#C #S #D #I) 5 1 0 0
+REF:  FA  ko defal ndox mu naan 
+HYP:  FOO ko defal ndox mu naan 
+Eval: S                         
+
+id: (traj_ff_mad_16khz_95)
+Scores: (#C #S #D #I) 2 2 2 0
+REF:  FA HÃ©EG ci ESKALIYEE YI     dem 
+HYP:  ** YÃ©EG ci ********* ESKÃ«Y dem 
+Eval: D  S        D         S          
+
+

@@ -1,0 +1,467 @@
+
+
+		DUMP OF SYSTEM ALIGNMENT STRUCTURE
+
+System name:   traj_ww_tc-char.hyp
+
+Speakers: 
+    0:  traj
+
+Speaker sentences   0:  traj   #utts: 76
+id: (traj_ww_tc_16khz_1)
+Scores: (#C #S #D #I) 29 1 1 2
+REF:  b e n * * n N i T a k d o o m a m d a ã± u y s ã  n e e n t e b a l 
+HYP:  b e n E E n Y i * a k d o o m a m d a ã± u y s ã  n e e n t e b a l 
+Eval:       I I   S   D                                                   
+
+id: (traj_ww_tc_16khz_10)
+Scores: (#C #S #D #I) 30 2 0 0
+REF:  x a l e b i d a f a y j ã© g g i a m n d o x j a a r c i p o N T 
+HYP:  x a l e b i d a f a y j ã© g g i a m n d o x j a a r c i p o O R 
+Eval:                                                              S S 
+
+id: (traj_ww_tc_16khz_11)
+Scores: (#C #S #D #I) 42 3 2 1
+REF:  n i t k i d a f a t ã« d d c i ã± a x m i c i s u u f u g a r a b g i M E l * N  I k U y n e l a w 
+HYP:  n i t k i d a f a t ã« d d c i ã± a x m i c i s u u f u g a r a b g i * * l A Ã± U k O y n e l a w 
+Eval:                                                                       D D   I S  S   S             
+
+id: (traj_ww_tc_16khz_12)
+Scores: (#C #S #D #I) 33 0 0 1
+REF:  n i t k i d a f a y r o m b ** j a a r c i g i n a a w g a r a b g i 
+HYP:  n i t k i d a f a y r o m b Ã  j a a r c i g i n a a w g a r a b g i 
+Eval:                             I                                        
+
+id: (traj_ww_tc_16khz_13)
+Scores: (#C #S #D #I) 42 0 1 0
+REF:  x a l e b u j i g ã© e n b i d a f a t o o g c i m B a l a a n d i d e f a l k a n a m 
+HYP:  x a l e b u j i g ã© e n b i d a f a t o o g c i m * a l a a n d i d e f a l k a n a m 
+Eval:                                                    D                                   
+
+id: (traj_ww_tc_16khz_14)
+Scores: (#C #S #D #I) 38 0 0 0
+REF:  d a m a y s e e n b e n n n i t m u n g i y d o x m e l n i c i l u k a w e 
+HYP:  d a m a y s e e n b e n n n i t m u n g i y d o x m e l n i c i l u k a w e 
+Eval:                                                                             
+
+id: (traj_ww_tc_16khz_15)
+Scores: (#C #S #D #I) 33 1 2 0
+REF:  ã± e t t i j ã© e m a n g i n i i ã  n d a l j a a r c i b e n n a P o N T 
+HYP:  ã± e t t i j ã© e m a n g i n i i ã  n d a l j a a r c i b e n n a K o * * 
+Eval:                                                                    S   D D 
+
+id: (traj_ww_tc_16khz_16)
+Scores: (#C #S #D #I) 34 2 0 3
+REF:  x a l e b i d a f a j ã³ g e c i * * k a w e t * Ã« B d a a n u c i n d o x m i 
+HYP:  x a l e b i d a f a j ã³ g e c i F U k a w e t O P  P d a a n u c i n d o x m i 
+Eval:                                  I I           I S  S                           
+
+id: (traj_ww_tc_16khz_17)
+Scores: (#C #S #D #I) 26 0 0 1
+REF:  x a l e b i d a f a y d o x * d a w j ã« m c i g ã© e j 
+HYP:  x a l e b i d a f a y d o x N d a w j ã« m c i g ã© e j 
+Eval:                             I                           
+
+id: (traj_ww_tc_16khz_18)
+Scores: (#C #S #D #I) 38 1 2 1
+REF:  w a a j i d a f a ã± ã³ w f e k k n d a w S i * t ã« D d d I n e l a w m u t i i m k o 
+HYP:  w a a j i d a f a ã± ã³ w f e k k n d a w C i N t ã« * d d * n e l a w m u t i i m k o 
+Eval:                                           S   I      D     D                           
+
+id: (traj_ww_tc_16khz_2 )
+Scores: (#C #S #D #I) 27 1 1 0
+REF:  n d a w s i d a f a y l a l m B a l a a n m I c i s u u f 
+HYP:  n d a w s i d a f a y l a l m * a l a a n m U c i s u u f 
+Eval:                               D             S             
+
+id: (traj_ww_tc_16khz_20 )
+Scores: (#C #S #D #I) 29 3 5 0
+REF:  n i t k i d a f a n e k k D I A  m L U m U Y w i t t c i g ã« n N g a r a b 
+HYP:  n i t k i d a f a n e k k * J Ã  m * * m * * w i t t c i g ã« n A g a r a b 
+Eval:                           D S S    D D   D D                    S           
+
+id: (traj_ww_tc_16khz_21)
+Scores: (#C #S #D #I) 28 0 0 0
+REF:  n d a w s i d a f a y d o x j ã« m s i c i g a r a b g i 
+HYP:  n d a w s i d a f a y d o x j ã« m s i c i g a r a b g i 
+Eval:                                                          
+
+id: (traj_ww_tc_16khz_22 )
+Scores: (#C #S #D #I) 27 3 3 2
+REF:  w a a j i d a f a y * d o x r o m b A A Y  n i t N U  Y w a x t a a n * 
+HYP:  w a a j i d a f a y I d o x r o m b * * Ã  n i t * Ã± I w a x t a a n U 
+Eval:                     I               D D S        D S  S               I 
+
+id: (traj_ww_tc_16khz_24)
+Scores: (#C #S #D #I) 22 3 1 0
+REF:  ã± a a R Ã± i d a ã± u m e l n i d a N  u Y f u t b a l 
+HYP:  ã± a a N G  i d a ã± u m e l n i d a Ã± u * f u t b a l 
+Eval:        S S                           S    D             
+
+id: (traj_ww_tc_16khz_25)
+Scores: (#C #S #D #I) 39 0 0 0
+REF:  n d a w s i d a f a j ã³ g e c i g a r a b g i j ã« m c i f u m e l f u s o r e 
+HYP:  n d a w s i d a f a j ã³ g e c i g a r a b g i j ã« m c i f u m e l f u s o r e 
+Eval:                                                                                 
+
+id: (traj_ww_tc_16khz_26)
+Scores: (#C #S #D #I) 30 0 0 0
+REF:  x a l e b i d a f a y d a w r o m b d e f t ã  n k u n e e n 
+HYP:  x a l e b i d a f a y d a w r o m b d e f t ã  n k u n e e n 
+Eval:                                                              
+
+id: (traj_ww_tc_16khz_27)
+Scores: (#C #S #D #I) 55 0 0 0
+REF:  n d a w s i d a f a j ã³ g e c i b a r a b g ã© n n n a a m l u m u j ã« l c i p a ã± e b i d e l l u c i b i i r 
+HYP:  n d a w s i d a f a j ã³ g e c i b a r a b g ã© n n n a a m l u m u j ã« l c i p a ã± e b i d e l l u c i b i i r 
+Eval:                                                                                                                   
+
+id: (traj_ww_tc_16khz_28)
+Scores: (#C #S #D #I) 23 2 1 0
+REF:  ã± A a R Ã± i d a ã± u d a ã± u y d a ã± u y f u t b a l 
+HYP:  ã± * a M Y  i d a ã± u d a ã± u y d a ã± u y f u t b a l 
+Eval:    D   S S                                               
+
+id: (traj_ww_tc_16khz_29)
+Scores: (#C #S #D #I) 30 2 0 2
+REF:  n d a w s i d a f a * * T a l I b i j ã« m c i t o o l d u g u b b i 
+HYP:  n d a w s i d a f a I S K a l E b i j ã« m c i t o o l d u g u b b i 
+Eval:                     I I S     S                                      
+
+id: (traj_ww_tc_16khz_3)
+Scores: (#C #S #D #I) 26 2 0 1
+REF:  x a l e b i d a f a y w ã  c c d i d o x c i * A J x e e r 
+HYP:  x a l e b i d a f a y w ã  c c d i d o x c i * * * x e e r 
+Eval:                                              I S S         
+
+id: (traj_ww_tc_16khz_30)
+Scores: (#C #S #D #I) 37 1 0 0
+REF:  w a a j i d a f a j ã³ g e c i c i b a r a b j ã« m c i b i i r g a r a b Y i 
+HYP:  w a a j i d a f a j ã³ g e c i c i b a r a b j ã« m c i b i i r g a r a b G i 
+Eval:                                                                           S   
+
+id: (traj_ww_tc_16khz_31)
+Scores: (#C #S #D #I) 20 4 6 0
+REF:  n i t k i D A F A J O G Ã© c I a W x e e r t ã« b c i s u u f 
+HYP:  n i t k i * * * * * * W I  c C a L x e e r t ã« b c i s u u f 
+Eval:           D D D D D D S S    S   S                            
+
+id: (traj_ww_tc_16khz_33)
+Scores: (#C #S #D #I) 29 10 6 0
+REF:  k u j i g ã© e n k i a K k U G Ã³ O  R K i d a ã± u T O o G d i s Ã© D D O O a y b a n a a n A 
+HYP:  k u j i g ã© e n k i a * k * * W  Ã« T T i d a ã± u * K o * d i s E  E T B A a y b a n a a n * 
+Eval:                        D   D D S  S  S S            D S   D       S  S S S S                 D 
+
+id: (traj_ww_tc_16khz_35)
+Scores: (#C #S #D #I) 34 1 2 0
+REF:  n d a w s i d a f a t o o g l ã© t t k A  r A W a m d i l ã© t t b o p p a m 
+HYP:  n d a w s i d a f a t o o g l ã© t t k Ã« r * * a m d i l ã© t t b o p p a m 
+Eval:                                        S    D D                              
+
+id: (traj_ww_tc_16khz_36)
+Scores: (#C #S #D #I) 25 3 0 0
+REF:  n d a w s i d a f a g ã© n n c i g A r A B y i d i d o x 
+HYP:  n d a w s i d a f a g ã© n n c i g E r E G y i d i d o x 
+Eval:                                    S   S S               
+
+id: (traj_ww_tc_16khz_37)
+Scores: (#C #S #D #I) 25 0 0 0
+REF:  x a l e b i d a f a y d a w t ã« b b e n n x e e r 
+HYP:  x a l e b i d a f a y d a w t ã« b b e n n x e e r 
+Eval:                                                    
+
+id: (traj_ww_tc_16khz_38)
+Scores: (#C #S #D #I) 49 1 0 0
+REF:  w a a j i d a f a r o m b ã± e t t i j i g ã© e n ã± U t a x a w c a k o w p o m b i d i w a x t a a n 
+HYP:  w a a j i d a f a r o m b ã± e t t i j i g ã© e n ã± I t a x a w c a k o w p o m b i d i w a x t a a n 
+Eval:                                                      S                                                 
+
+id: (traj_ww_tc_16khz_39)
+Scores: (#C #S #D #I) 26 1 6 0
+REF:  k u j I G Ã© e N K I d a f a y x e l l i L k u g ã³ o r k i n d o x 
+HYP:  k u j * * J  e * * * d a f a y x e l l i * k u g ã³ o r k i n d o x 
+Eval:       D D S    D D D                     D                          
+
+id: (traj_ww_tc_16khz_4)
+Scores: (#C #S #D #I) 24 3 7 0
+REF:  n i T k i d A f a D o o n s a n g u g ã© e j g ã© n n C I n D O X M I 
+HYP:  n i * k i d E f a L o o n s a n g u g ã© e j g ã© n n * * n * * * * A 
+Eval:     D       S     S                                   D D   D D D D S 
+
+id: (traj_ww_tc_16khz_40)
+Scores: (#C #S #D #I) 34 1 1 0
+REF:  n d a w s i d a f a j ã³ g e c i g a r a b g i d a w j ã« m c i B a r a B 
+HYP:  n d a w s i d a f a j ã³ g e c i g a r a b g i d a w j ã« m c i D a r a * 
+Eval:                                                                 S       D 
+
+id: (traj_ww_tc_16khz_41)
+Scores: (#C #S #D #I) 46 0 0 0
+REF:  w a a j i d a f a g ã© n n c i b a r a b j ã« m c i b e n e e n b a r a b r o m b p a ã± e b i 
+HYP:  w a a j i d a f a g ã© n n c i b a r a b j ã« m c i b e n e e n b a r a b r o m b p a ã± e b i 
+Eval:                                                                                                
+
+id: (traj_ww_tc_16khz_42)
+Scores: (#C #S #D #I) 39 1 1 0
+REF:  n d a w s i d a f a j ã³ g e c i b a r a b r o m b j ã« m c i b e n e e n B a r a B 
+HYP:  n d a w s i d a f a j ã³ g e c i b a r a b r o m b j ã« m c i b e n e e n D a r a * 
+Eval:                                                                           S       D 
+
+id: (traj_ww_tc_16khz_43)
+Scores: (#C #S #D #I) 33 2 1 0
+REF:  w a a j i d a f a Y d o X d u g g c i b i i r g a r a b Y i b a r ã© e r 
+HYP:  w a a j i d a f a * d o O d u g g c i b i i r g a r a b G i b a r ã© e r 
+Eval:                   D     S                               S                
+
+id: (traj_ww_tc_16khz_44)
+Scores: (#C #S #D #I) 32 0 1 1
+REF:  n i t k i d a f a j ã³ g e c i b o o r U n d o x m i * d a w r o m b 
+HYP:  n i t k i d a f a j ã³ g e c i b o o r * n d o x m i N d a w r o m b 
+Eval:                                        D             I               
+
+id: (traj_ww_tc_16khz_45)
+Scores: (#C #S #D #I) 34 0 1 3
+REF:  n d a w s i d a f a j ã³ g e c i b a r a B b i * * * g ã© n n d o x w u t s i 
+HYP:  n d a w s i d a f a j ã³ g e c i b a r a * b i * * * g ã© n n d o x w u t s i 
+Eval:                                          D     I I I                          
+
+id: (traj_ww_tc_16khz_46)
+Scores: (#C #S #D #I) 29 1 1 0
+REF:  n i T k i d a f a t o o g w ã© e r u c i g a r a b D i j ã  n g 
+HYP:  n i * k i d a f a t o o g w ã© e r u c i g a r a b G i j ã  n g 
+Eval:     D                                              S            
+
+id: (traj_ww_tc_16khz_47)
+Scores: (#C #S #D #I) 26 0 0 0
+REF:  n d a w s i d a f a j ã³ g e c i s u u f d i r o m b 
+HYP:  n d a w s i d a f a j ã³ g e c i s u u f d i r o m b 
+Eval:                                                      
+
+id: (traj_ww_tc_16khz_49)
+Scores: (#C #S #D #I) 36 0 3 0
+REF:  n d a w s i d a f a t o o g c i k o w m B a l A a N m i d i l e m a y y ã© r e 
+HYP:  n d a w s i d a f a t o o g c i k o w m * a l * a * m i d i l e m a y y ã© r e 
+Eval:                                         D     D   D                            
+
+id: (traj_ww_tc_16khz_5)
+Scores: (#C #S #D #I) 19 3 3 0
+REF:  n i t L A k u t O G G C i m a l a a n d i n a a n 
+HYP:  n i t * * k u t * E K K i m a l a a n d i n a a n 
+Eval:       D D       D S S S                           
+
+id: (traj_ww_tc_16khz_51)
+Scores: (#C #S #D #I) 39 2 2 2
+REF:  n d a w s i d a f a j ã³ g e c i b a r a b y ã© e g A Y E s k a l e j ã« m c i b * a r * a B 
+HYP:  n d a w s i d a f a j ã³ g e c i b a r a b y ã© e g * * I s k a l e j ã« m c i b A a r A a M 
+Eval:                                                     D D S                        I     I   S 
+
+id: (traj_ww_tc_16khz_52)
+Scores: (#C #S #D #I) 39 2 1 0
+REF:  ã± I t K i d a f a d e f t ã  n k u n e e n d i d o x c i y o o n W u b a r i x e e r 
+HYP:  ã± E t T i d a f a d e f t ã  n k u n e e n d i d o x c i y o o n * u b a r i x e e r 
+Eval:    S   S                                                          D                   
+
+id: (traj_ww_tc_16khz_54)
+Scores: (#C #S #D #I) 32 1 1 0
+REF:  n d a w s i d a f a y r o m b j ã³ g e c i F I i j ã« m c i b a r a b 
+HYP:  n d a w s i d a f a y r o m b j ã³ g e c i * B i j ã« m c i b a r a b 
+Eval:                                            D S                        
+
+id: (traj_ww_tc_16khz_55)
+Scores: (#C #S #D #I) 29 2 1 0
+REF:  n d a w s i d A Y r o m b j a a r c i k a n a m U g a r a b g i 
+HYP:  n d a w s i d E E r o m b j a a r c i k a n a m * g a r a b g i 
+Eval:               S S                               D               
+
+id: (traj_ww_tc_16khz_56)
+Scores: (#C #S #D #I) 41 0 0 0
+REF:  n d a w s i d a f a t a x a w c i s u u f u g a r a b g i b a j ã© k k i m u d e m 
+HYP:  n d a w s i d a f a t a x a w c i s u u f u g a r a b g i b a j ã© k k i m u d e m 
+Eval:                                                                                    
+
+id: (traj_ww_tc_16khz_58)
+Scores: (#C #S #D #I) 34 1 5 0
+REF:  ã± e t t A N G i n I i Ã± u m e l n i ã± u y d o x a n t u c i b i i r I g a r a b 
+HYP:  ã± e t t * * * i n * i M  u m e l n i ã± u y d o x a n t u c i b i i r * g a r a b 
+Eval:          D D D     D   S                                               D           
+
+id: (traj_ww_tc_16khz_6)
+Scores: (#C #S #D #I) 31 0 2 0
+REF:  n d a w s i d a f a a m f u m u y ã© e g d i d o x c i A Y x e e r 
+HYP:  n d a w s i d a f a a m f u m u y ã© e g d i d o x c i * * x e e r 
+Eval:                                                        D D         
+
+id: (traj_ww_tc_16khz_61)
+Scores: (#C #S #D #I) 34 1 1 2
+REF:  n i t k i i d a f a t a x a w * s i m m i g ã© n n * y ã© r e e m t Ã© Y e k o 
+HYP:  n i t k i i d a f a t a x a w U s i m m i g ã© n n E y ã© r e e m t ** E e k o 
+Eval:                               I                    I                D  S       
+
+id: (traj_ww_tc_16khz_62)
+Scores: (#C #S #D #I) 31 0 1 0
+REF:  n d a w s i d a f a g ã© n n E c i t o o l b i j ã« m c i b i t i 
+HYP:  n d a w s i d a f a g ã© n n * c i t o o l b i j ã« m c i b i t i 
+Eval:                              D                                    
+
+id: (traj_ww_tc_16khz_64)
+Scores: (#C #S #D #I) 35 1 0 0
+REF:  x a l e b i d a f a j ã³ g e c i s u u f d a w y ã© e g c i k o w x e e R 
+HYP:  x a l e b i d a f a j ã³ g e c i s u u f d a w y ã© e g c i k o w x e e X 
+Eval:                                                                         S 
+
+id: (traj_ww_tc_16khz_65)
+Scores: (#C #S #D #I) 55 4 0 0
+REF:  x a l e b i d a f a t a x a w d i x a a r b e n e e n x a l e b u j Ã³ G E c i b i i r B a r a b g ã© n n e c i b i t i 
+HYP:  x a l e b i d a f a t a x a w d i x a a r b e n e e n x a l e b u j Ã« K K c i b i i r D a r a b g ã© n n e c i b i t i 
+Eval:                                                                     S  S S             S                                
+
+id: (traj_ww_tc_16khz_66)
+Scores: (#C #S #D #I) 31 4 3 0
+REF:  n d a w s i d A Y  r O  m B c i k A W p o m b i r o m b A  n i t k u t a x a w 
+HYP:  n d a w s i d * Ã« r Ã« m * c i k * O p o m b i r o m b Ã  n i t k u t a x a w 
+Eval:               D S    S    D       D S                   S                      
+
+id: (traj_ww_tc_16khz_67)
+Scores: (#C #S #D #I) 42 0 2 0
+REF:  n d a w s i d a f a m e l n i k u j ã³ g e c i F U k a w e w ã  c c j ã« m c i n d o x m i 
+HYP:  n d a w s i d a f a m e l n i k u j ã³ g e c i * * k a w e w ã  c c j ã« m c i n d o x m i 
+Eval:                                                D D                                         
+
+id: (traj_ww_tc_16khz_68)
+Scores: (#C #S #D #I) 38 5 2 0
+REF:  n i t k i d a f a M E L N  I k U j ã³ g e c i b i i r I g a r a b g ã© n n j ã« m c i b i t i 
+HYP:  n i t k i d a f a * N A Ã± U k O j ã³ g e c i b i i r * g a r a b g ã© n n j ã« m c i b i t i 
+Eval:                   D S S S  S   S                      D                                       
+
+id: (traj_ww_tc_16khz_69)
+Scores: (#C #S #D #I) 26 0 0 0
+REF:  k i i d a f a j ã³ g e c i n d a w s i t ã« d d d o x 
+HYP:  k i i d a f a j ã³ g e c i n d a w s i t ã« d d d o x 
+Eval:                                                       
+
+id: (traj_ww_tc_16khz_7)
+Scores: (#C #S #D #I) 39 2 3 2
+REF:  n d a w s i d a f a f u m u j ã³ g e d i w ã  C c c I A Y i s k a l e j ã« m c i b * a r * a B 
+HYP:  n d a w s i d a f a f u m u j ã³ g e d i w ã  * c c * * E i s k a l e j ã« m c i b A a r A a M 
+Eval:                                               D     D D S                          I     I   S 
+
+id: (traj_ww_tc_16khz_72)
+Scores: (#C #S #D #I) 21 1 1 0
+REF:  n i t k i i d a f a R O  m b r e k k d i d o x 
+HYP:  n i t k i i d a f a * Ã« m b r e k k d i d o x 
+Eval:                     D S                        
+
+id: (traj_ww_tc_16khz_73)
+Scores: (#C #S #D #I) 33 3 3 0
+REF:  n d a w s i d a f a r o m b ã  d i d a w j a a r c i G i n A a w G A r A b G i 
+HYP:  n d a w s i d a f a r o m b ã  d i d a w j a a r c i D i n * a w E E r * b * i 
+Eval:                                                      S     D     S S   D   D   
+
+id: (traj_ww_tc_16khz_74)
+Scores: (#C #S #D #I) 39 0 1 0
+REF:  n i T k i d a f a t o o g c i t a a t u g a r a b g i d i l e k k b a n a a n a 
+HYP:  n i * k i d a f a t o o g c i t a a t u g a r a b g i d i l e k k b a n a a n a 
+Eval:     D                                                                           
+
+id: (traj_ww_tc_16khz_75)
+Scores: (#C #S #D #I) 50 3 3 1
+REF:  n i t k i d a f a j o n k a n c i w e t n d o x m i d i s ã  n n i ã± a m K a n a R a * y i c i b I i R n d O x M i 
+HYP:  n i t k i d a f a j o n k a n c i w e t n d o x m i d i s ã  n n i ã± a m G a n a * a R y i c i b * i * n d A x B i 
+Eval:                                                                           S       D   I           D   D     S   S   
+
+id: (traj_ww_tc_16khz_76)
+Scores: (#C #S #D #I) 38 1 0 0
+REF:  n d a w s i d a f a j ã³ g e c i b i t i d o x j ã« m c i b i i r g a r a b Y i 
+HYP:  n d a w s i d a f a j ã³ g e c i b i t i d o x j ã« m c i b i i r g a r a b G i 
+Eval:                                                                             S   
+
+id: (traj_ww_tc_16khz_77)
+Scores: (#C #S #D #I) 14 0 0 0
+REF:  n d a w s i d a f a y ã© e g 
+HYP:  n d a w s i d a f a y ã© e g 
+Eval:                              
+
+id: (traj_ww_tc_16khz_78)
+Scores: (#C #S #D #I) 57 1 4 0
+REF:  x a l e b i d a f a m e l n i k u n e k k c i b o o r u n d o x D i j ã³ g e c i x e e r w I i t ã« b j ã« m c i x E e R w E e 
+HYP:  x a l e b i d a f a m e l n i k u n e k k c i b o o r u n d o x M i j ã³ g e c i x e e r w * i t ã« b j ã« m c i x * e * w * e 
+Eval:                                                                 S                          D                       D   D   D   
+
+id: (traj_ww_tc_16khz_79)
+Scores: (#C #S #D #I) 22 0 0 2
+REF:  n d a w s i d a f a s o * * l d ã  l l t a x a w 
+HYP:  n d a w s i d a f a s o L A l d ã  l l t a x a w 
+Eval:                         I I                      
+
+id: (traj_ww_tc_16khz_80)
+Scores: (#C #S #D #I) 42 4 0 1
+REF:  x a l e b i d a f a g ã© n n c i b a r a B t a x a W c i t e x e e d i c i b o * o R U n d o x 
+HYP:  x a l e b i d a f a g ã© n n c i b a r a T t a x a L c i t e x e e d i c i b o R o O M n d o x 
+Eval:                                          S         S                           I   S S         
+
+id: (traj_ww_tc_16khz_81)
+Scores: (#C #S #D #I) 36 0 0 0
+REF:  n d a w s i d a f a y d a w r o m b j a a r c i k a n a m g a r a b g i 
+HYP:  n d a w s i d a f a y d a w r o m b j a a r c i k a n a m g a r a b g i 
+Eval:                                                                         
+
+id: (traj_ww_tc_16khz_82)
+Scores: (#C #S #D #I) 32 2 2 0
+REF:  K I i d a f a s i m m i d ã  l l a m t a x a w c i k A W m a l a a n m i 
+HYP:  * J i d a f a s i m m i d ã  l l a m t a x a w c i k * O m a l a a n m i 
+Eval: D S                                                  D S                 
+
+id: (traj_ww_tc_16khz_83)
+Scores: (#C #S #D #I) 23 0 0 0
+REF:  n i t k i d a f a t a x a w s o l y ã© r e e m 
+HYP:  n i t k i d a f a t a x a w s o l y ã© r e e m 
+Eval:                                                
+
+id: (traj_ww_tc_16khz_84)
+Scores: (#C #S #D #I) 46 3 11 0
+REF:  x a l e b i d a f A T a X a W W O O n c i k o w x e r I C i b O O R U n d o x m i d o x j ã« m c i b i i r B a r a b b i 
+HYP:  x a l e b i d a f * * a C a * * * * n c i k o w x e r * * i b * * * A n d o x m i d o x j ã« m c i b i i r D a r a b b i 
+Eval:                   D D   S   D D D D                   D D     D D D S                                      S             
+
+id: (traj_ww_tc_16khz_85)
+Scores: (#C #S #D #I) 24 5 2 0
+REF:  n d a w s i d a f a t o O G S i M m i y ã© r e e m T Ã© Y e k o 
+HYP:  n d a w s i d a f a t o P P C i * m i y ã© r e e m * C  E e k o 
+Eval:                         S S S   D                  D S  S       
+
+id: (traj_ww_tc_16khz_86)
+Scores: (#C #S #D #I) 33 0 0 0
+REF:  n d a w s i d a f a j ã³ g e c i b a r a b d o x j ã« m c i b i t i 
+HYP:  n d a w s i d a f a j ã³ g e c i b a r a b d o x j ã« m c i b i t i 
+Eval:                                                                     
+
+id: (traj_ww_tc_16khz_87)
+Scores: (#C #S #D #I) 32 4 6 0
+REF:  n d a w s i d a f a t A X A W  c I K A W m a l A a N m i b a m u y ã  g g m u t o o g 
+HYP:  n d a w s i d a f a t * * * Ã  c * C O O m a l * a * m i b a m u y ã  g g m u t o o g 
+Eval:                       D D D S    D S S S       D   D                                  
+
+id: (traj_ww_tc_16khz_88)
+Scores: (#C #S #D #I) 25 0 0 0
+REF:  n d a w s i d a f a d o x j ã« m c i g a r a b g i 
+HYP:  n d a w s i d a f a d o x j ã« m c i g a r a b g i 
+Eval:                                                    
+
+id: (traj_ww_tc_16khz_9)
+Scores: (#C #S #D #I) 19 1 1 2
+REF:  n i t k i i d A Y  d a w t ã« * * b a b b a n t 
+HYP:  n i t k i i d * Ã© d a w t ã« B A b a b b a n t 
+Eval:               D S             I I               
+
+id: (traj_ww_tc_16khz_90)
+Scores: (#C #S #D #I) 39 1 0 0
+REF:  a y n i t l a Y  u m e l n i d a ã± u j ã³ g e c i b a r a b j ã« m c i n d o x m i 
+HYP:  a y n i t l a Ã± u m e l n i d a ã± u j ã³ g e c i b a r a b j ã« m c i n d o x m i 
+Eval:               S                                                                     
+
+id: (traj_ww_tc_2_16khz_1)
+Scores: (#C #S #D #I) 39 1 1 0
+REF:  n d a w s i d a f a j ã³ g e c i b a r a b r o m b j ã« m c i b e n e e n B a r a B 
+HYP:  n d a w s i d a f a j ã³ g e c i b a r a b r o m b j ã« m c i b e n e e n D a r a * 
+Eval:                                                                           S       D 
+
+

@@ -1,0 +1,575 @@
+
+
+		DUMP OF SYSTEM ALIGNMENT STRUCTURE
+
+System name:   TRAJ_FF_BD_char.hyp
+
+Speakers: 
+    0:  traj
+
+Speaker sentences   0:  traj   #utts: 94
+id: (traj_ff_bd_16khz_noisereduced_1)
+Scores: (#C #S #D #I) 6 3 2 1
+REF:  F O o s Ã  N n I b * a l 
+HYP:  * C o s A  A n * b A a l 
+Eval: D S     S  S   D   I     
+
+id: (traj_ff_bd_16khz_noisereduced_100)
+Scores: (#C #S #D #I) 16 6 9 4
+REF:  * * * K I i F A a Y w ã  C C f A H e * e G o o n B A D A w ã  c c A a t 
+HYP:  A B A H C i * S a * w ã  J J f * * e X e W o o n * * * * w ã  c c * a t 
+Eval: I I I S S   D S   D      S S   D D   I   S       D D D D          D     
+
+id: (traj_ff_bd_16khz_noisereduced_104)
+Scores: (#C #S #D #I) 5 3 6 0
+REF:  K I I F A A y H Ã© e G a a t 
+HYP:  * * * * * * y U F  e Y a a t 
+Eval: D D D D D D   S S    S       
+
+id: (traj_ff_bd_16khz_noisereduced_105)
+Scores: (#C #S #D #I) 18 11 7 0
+REF:  g Ã³ o r A K J I G Ã© E  N l A  Ã± f A Ã± t o O g m a Y N A k O b a n a a n a 
+HYP:  g ** o r * * * * O N  Ã« L l Ã« G  f E N  t o G g m a * R O k * b a n a a n a 
+Eval:   D      D D D D S S  S  S   S  S    S S      S       D S S   D               
+
+id: (traj_ff_bd_16khz_noisereduced_106)
+Scores: (#C #S #D #I) 21 11 20 0
+REF:  G Ã³ o R G I F A a Y w A a X U C i Ã± a X M I J e M C i j I G ã© E n J I j I G ã© E n J I f A a Y n e l a w 
+HYP:  * N  o * O N U R a * w * a * * T i N  a * * * W e D D i j * * ã© * n * D j * * ã© * n * * f * a * n e l a w 
+Eval: D S    D S S S S   D   D   D D S   S    D D D S   S S     D D    D   D S   D D    D   D D   D   D           
+
+id: (traj_ff_bd_16khz_noisereduced_107)
+Scores: (#C #S #D #I) 7 2 6 1
+REF:  f A a Y s U M M i m B u B m * I 
+HYP:  f * a * s * * W i m * u * m E R 
+Eval:   D   D   D D S     D   D   I S 
+
+id: (traj_ff_bd_16khz_noisereduced_108)
+Scores: (#C #S #D #I) 4 9 3 0
+REF:  F A s o L Ã± A a R I M B U B B u 
+HYP:  K U s o * N  N a * * L W O O W u 
+Eval: S S     D S  S   D D S S S S S   
+
+id: (traj_ff_bd_16khz_noisereduced_109)
+Scores: (#C #S #D #I) 4 1 3 0
+REF:  f A K  o t Ã« H e 
+HYP:  f * Ã³ o t ** * e 
+Eval:   D S      D  D   
+
+id: (traj_ff_bd_16khz_noisereduced_11)
+Scores: (#C #S #D #I) 14 2 4 0
+REF:  y E  e n ã± i f E e N c i k o W d o J y I 
+HYP:  y Ã© e n ã± i f * e C c i k o * d o * y * 
+Eval:   S             D   S         D     D   D 
+
+id: (traj_ff_bd_16khz_noisereduced_110)
+Scores: (#C #S #D #I) 5 0 2 0
+REF:  f A a Y d a w 
+HYP:  f * a * d a w 
+Eval:   D   D       
+
+id: (traj_ff_bd_16khz_noisereduced_112)
+Scores: (#C #S #D #I) 8 3 6 0
+REF:  f A a Y s O l A a T M B u m b M I 
+HYP:  f * a * s * l * a * N D u m b * E 
+Eval:   D   D   D   D   D S S       D S 
+
+id: (traj_ff_bd_16khz_noisereduced_113)
+Scores: (#C #S #D #I) 9 4 4 1
+REF:  W A a w * s o l N A K o b A P a r E 
+HYP:  * M a w E s o l O W O o b * * a r * 
+Eval: D S     I       S S S     D D     D 
+
+id: (traj_ff_bd_16khz_noisereduced_115)
+Scores: (#C #S #D #I) 9 6 5 1
+REF:  f A a Y w A A X U C I ã± a * X M I r e k k 
+HYP:  f * a * w * * * O O N ã± a W O O N r e k k 
+Eval:   D   D   D D D S S S      I S S S         
+
+id: (traj_ff_bd_16khz_noisereduced_116)
+Scores: (#C #S #D #I) 4 4 3 0
+REF:  x A W M A F u M j ã« M 
+HYP:  x * * O O X u * j ã« F 
+Eval:   D D S S S   D      S 
+
+id: (traj_ff_bd_16khz_noisereduced_118)
+Scores: (#C #S #D #I) 7 2 2 0
+REF:  K I I f A a y f i r i 
+HYP:  * D A f * a y f i r i 
+Eval: D S S   D             
+
+id: (traj_ff_bd_16khz_noisereduced_119)
+Scores: (#C #S #D #I) 6 3 0 0
+REF:  F a a y J a r a T 
+HYP:  K a a y G a r a B 
+Eval: S       S       S 
+
+id: (traj_ff_bd_16khz_noisereduced_12)
+Scores: (#C #S #D #I) 6 16 4 0
+REF:  K I i F A T a X A W W Ã© E W C i d O J C  I W e Ã± g I 
+HYP:  * D i * * W a L K O N G  I R Y i d * A Ã± U L e N  g E 
+Eval: D S   D D S   S S S S S  S S S     D S S  S S   S    S 
+
+id: (traj_ff_bd_16khz_noisereduced_121)
+Scores: (#C #S #D #I) 18 6 7 2
+REF:  f a d A W H Ã© e G c I g a r a b D a * a N g I J Ã© g * g i n a K O 
+HYP:  f a d * * O X  e * c A g a r a b G a D a * g * * ** g E g i n a A W 
+Eval:       D D S S    D   S           S   I   D   D D D    I         S S 
+
+id: (traj_ff_bd_16khz_noisereduced_122)
+Scores: (#C #S #D #I) 17 4 9 0
+REF:  j i g ã© e n G i f A a Y S U M M I m B u B B M I f a t o o g 
+HYP:  j i g ã© e n J i f * a * * * * * J m * u * * N E f a t o o g 
+Eval:              S     D   D D D D D S   D   D D S S             
+
+id: (traj_ff_bd_16khz_noisereduced_123)
+Scores: (#C #S #D #I) 9 1 2 1
+REF:  X a m n A a f a t Ã  n g * 
+HYP:  * a m n * a f a t A  n g O 
+Eval: D       D         S      I 
+
+id: (traj_ff_bd_16khz_noisereduced_124)
+Scores: (#C #S #D #I) 7 5 8 1
+REF:  * G U n E g a a N G E E d o X D A d I K K 
+HYP:  W A R n * g a a * * * * d o * * O d * O G 
+Eval: I S S   D       D D D D     D D S   D S S 
+
+id: (traj_ff_bd_16khz_noisereduced_127)
+Scores: (#C #S #D #I) 14 5 4 0
+REF:  f A a Y d a w J I G ã© e n J i f a Y d a w D E 
+HYP:  f * a * d a w U L D ã© e n * i f a * d a w A L 
+Eval:   D   D       S S S        D       D       S S 
+
+id: (traj_ff_bd_16khz_noisereduced_13)
+Scores: (#C #S #D #I) 10 2 13 0
+REF:  J I g Ã© e n J I F A D O X D U G C I k o d u g u b 
+HYP:  * N g E  e n * * * * * * * * * * * * k o d u g u b 
+Eval: D S   S      D D D D D D D D D D D D               
+
+id: (traj_ff_bd_16khz_noisereduced_14)
+Scores: (#C #S #D #I) 12 7 6 0
+REF:  J I G Ã© e n G i f A m a Y n d o x m I G Ã³ O r G I 
+HYP:  * * L E  e n * i f U m a * n d o x m * U B  A r * E 
+Eval: D D S S      D     S     D           D S S  S   D S 
+
+id: (traj_ff_bd_16khz_noisereduced_15)
+Scores: (#C #S #D #I) 7 2 8 0
+REF:  J I G ã© e n G I f A a Y m A a B U 
+HYP:  * * L ã© e n * * f * a * m * a * W 
+Eval: D D S        D D   D   D   D   D S 
+
+id: (traj_ff_bd_16khz_noisereduced_16)
+Scores: (#C #S #D #I) 19 3 1 1
+REF:  F A d * o X d u g g U c i b i i r g a r a b y i 
+HYP:  P O d O o R d u g g * c i b i i r g a r a b y i 
+Eval: S S   I   S         D                           
+
+id: (traj_ff_bd_16khz_noisereduced_17)
+Scores: (#C #S #D #I) 10 5 15 0
+REF:  Ã± I i ã± O O M n ã« P P A b Ã« G G A D U G G U c i n d o X M I 
+HYP:  ** L i ã± * * U n ã« * * * b ** * * * * * * * B c i n d o * D D 
+Eval: D  S      D D S      D D D   D  D D D D D D D S           D S S 
+
+id: (traj_ff_bd_16khz_noisereduced_18)
+Scores: (#C #S #D #I) 15 12 14 1
+REF:  J I g ã© E n J I D A F A t Ã« D D C i ã± a X M I g Ã³ o r G A A n g E d * o X D a D E M 
+HYP:  * * g ã© * n * * N E W O t ** * O B i ã± a W L E g ** o r * * * n g A d O o N L a * * * 
+Eval: D D      D   D D S S S S   D  D S S        S S S   D      D D D     S   I   S S   D D D 
+
+id: (traj_ff_bd_16khz_noisereduced_19)
+Scores: (#C #S #D #I) 12 5 12 0
+REF:  J I G Ã© e n g A a N G E E D O X C I b I i R g a r a b Y i 
+HYP:  * * * Y  e n g * a * * * * * * L B A b * i * g a r a b G i 
+Eval: D D D S        D   D D D D D D S S S   D   D           S   
+
+id: (traj_ff_bd_16khz_noisereduced_20)
+Scores: (#C #S #D #I) 10 6 8 1
+REF:  g ã³ o r g I F A d a w H Ã© E g * t Ã« B X E E R W I 
+HYP:  g ã³ o r g * U N d a w * ** * g I t ** * * * O Q A L 
+Eval:            D S S       D D  D   I   D  D D D S S S S 
+
+id: (traj_ff_bd_16khz_noisereduced_22)
+Scores: (#C #S #D #I) 17 3 6 0
+REF:  G Ã³ O R G I f A a Y d o x d u g g c i g a r a b Y i 
+HYP:  * ** * * D U f * a * d o x d u g g c i g a r a b B i 
+Eval: D D  D D S S   D   D                             S   
+
+id: (traj_ff_bd_16khz_noisereduced_23)
+Scores: (#C #S #D #I) 13 3 4 0
+REF:  G ã³ o r G a Å‹ C i b I i R g a r a b Y i 
+HYP:  W ã³ o r * a ** D i b * i * g a r a b G i 
+Eval: S        D   D  S     D   D           S   
+
+id: (traj_ff_bd_16khz_noisereduced_24)
+Scores: (#C #S #D #I) 8 7 4 1
+REF:  F A a Y d * o X j Ã« M C i g a R a B Y I 
+HYP:  * S a * d O o M j I  N D i g a * a * L E 
+Eval: D S   D   I   S   S  S S       D   D S S 
+
+id: (traj_ff_bd_16khz_noisereduced_26)
+Scores: (#C #S #D #I) 7 4 5 0
+REF:  F A a Y l E E m m a l A a N M I 
+HYP:  * S a * l A A m m a l * a * * L 
+Eval: D S   D   S S         D   D D S 
+
+id: (traj_ff_bd_16khz_noisereduced_28)
+Scores: (#C #S #D #I) 8 4 8 0
+REF:  F A d U G G u C I B I I R g a r a b Y i 
+HYP:  K O d * * D u * * * * * * g a r a b G i 
+Eval: S S   D D S   D D D D D D           S   
+
+id: (traj_ff_bd_16khz_noisereduced_29)
+Scores: (#C #S #D #I) 10 7 3 0
+REF:  g U n e g i H Ã© g g a l A T N A C I y I 
+HYP:  g O n e g i * E  g g a l * E B I D O y * 
+Eval:   S         D S          D S S S S S   D 
+
+id: (traj_ff_bd_16khz_noisereduced_3)
+Scores: (#C #S #D #I) 18 0 4 0
+REF:  j i g ã© e n j I i F A a Y l a l m a l a a n 
+HYP:  j i g ã© e n j * i * * a * l a l m a l a a n 
+Eval:                D   D D   D                   
+
+id: (traj_ff_bd_16khz_noisereduced_30)
+Scores: (#C #S #D #I) 6 8 0 1
+REF:  f ** A l a l B a S a A B I  D A 
+HYP:  f Ã  L l a l W a R a L G Ã© N N 
+Eval:   I  S       S   S   S S S  S S 
+
+id: (traj_ff_bd_16khz_noisereduced_31)
+Scores: (#C #S #D #I) 13 0 1 0
+REF:  m u n g A a n a a n n d o x 
+HYP:  m u n g * a n a a n n d o x 
+Eval:         D                   
+
+id: (traj_ff_bd_16khz_noisereduced_32)
+Scores: (#C #S #D #I) 15 8 9 0
+REF:  M U n E H u t H Ã© E G c i d o J W I t ã« b d u G C I n d o X M I 
+HYP:  * * n * D u t * T  Y I c i d o * Y E t ã« b d u * * * n d o * O N 
+Eval: D D   D S     D S  S S         D S S            D D D       D S S 
+
+id: (traj_ff_bd_16khz_noisereduced_33)
+Scores: (#C #S #D #I) 17 7 8 0
+REF:  H Ã© e G C i d o J W I R E K K t ã« b d a l d i s U u F D A d a w 
+HYP:  * X  e E T i d o * * * * Y U L t ã« b d a l d i s * u * * N d a w 
+Eval: D S    S S       D D D D S S S                    D   D D S       
+
+id: (traj_ff_bd_16khz_noisereduced_34)
+Scores: (#C #S #D #I) 18 11 5 5
+REF:  g ã³ o r g i f a t O o G C I s u * * * * u F J ã« L k a r N E B I D a * B  I N  D 
+HYP:  g ã³ o r g i f a t * o * * J s u D E L L u * K ã« R k a r * K A R N a D Ã« G Ã« R 
+Eval:                    D   D D S     I I I I   D S    S       D S S S S   I S  S S  S 
+
+id: (traj_ff_bd_16khz_noisereduced_35)
+Scores: (#C #S #D #I) 7 8 3 1
+REF:  G U N  E f a * a Y t ã« B C I d O j W I 
+HYP:  L A Ã± U f a R a * t ã« * G G d A j * E 
+Eval: S S S  S     I   D      D S S   S   D S 
+
+id: (traj_ff_bd_16khz_noisereduced_36)
+Scores: (#C #S #D #I) 24 6 10 0
+REF:  g Ã³ o R Ã± E e K J I g Ã© E N Ã± I f a ã± U t o o g g ã³ o r g i r o m b n a l E E N 
+HYP:  g ** o * ** N e * * * g ** I I L  A f a ã± * t o o g g ã³ o r g i r o m b n a l * * A 
+Eval:   D    D D  S   D D D   D  S S S  S        D                                    D D S 
+
+id: (traj_ff_bd_16khz_noisereduced_4)
+Scores: (#C #S #D #I) 9 10 12 0
+REF:  J I G ã© e n G I F A n g Ã« B s I W O B I d u G g C I N A X  M I 
+HYP:  * * Y ã© e n * * * * n g ** A s * * U U L d u * g * * U B Ã± O R 
+Eval: D D S        D D D D     D  S   D D S S S     D   D D S S S  S S 
+
+id: (traj_ff_bd_16khz_noisereduced_40)
+Scores: (#C #S #D #I) 8 5 5 0
+REF:  G u n E g A a N G E e f O a r E K K 
+HYP:  M u n * g * a * * D e f * a r A A T 
+Eval: S     D   D   D D S     D     S S S 
+
+id: (traj_ff_bd_16khz_noisereduced_41)
+Scores: (#C #S #D #I) 10 4 8 0
+REF:  f A ã± O O b a L g ã³ o r G E E K J I G Ã© e n 
+HYP:  f U ã± * U b a N g ã³ o r * * * * * * * Y  e n 
+Eval:   S    D S     S          D D D D D D D S      
+
+id: (traj_ff_bd_16khz_noisereduced_42)
+Scores: (#C #S #D #I) 10 2 6 1
+REF:  f a * d a w d U G G u C I n d o X M I 
+HYP:  f a N d a w d * * * u * * n d o * O N 
+Eval:     I         D D D   D D       D S S 
+
+id: (traj_ff_bd_16khz_noisereduced_43)
+Scores: (#C #S #D #I) 12 8 3 0
+REF:  J i G Ã© e n J I f A a y d u g g c i N  A X M I 
+HYP:  D i L E  e n * * f * a y d u g g c i Ã± O R U L 
+Eval: S   S S      D D   D                 S  S S S S 
+
+id: (traj_ff_bd_16khz_noisereduced_44)
+Scores: (#C #S #D #I) 14 11 7 0
+REF:  J I g Ã© e n J I f a l a l b a S a A B I B A P a R E t O o G C I 
+HYP:  * * g E  e n D E f a l a l b a T a N G O O R B a * * t * o * * J 
+Eval: D D   S      S S               S   S S S S S S   D D   D   D D S 
+
+id: (traj_ff_bd_16khz_noisereduced_45)
+Scores: (#C #S #D #I) 7 9 7 1
+REF:  * K I i F A T Ã« D D C I ã± A X m I D a n E L a w 
+HYP:  R O B i * * * ** * * N E ã± O O m * G a n N A a w 
+Eval: I S S   D D D D  D D S S    S S   D S     S S     
+
+id: (traj_ff_bd_16khz_noisereduced_46)
+Scores: (#C #S #D #I) 9 5 7 2
+REF:  F a ã± o o * d o X C I B I i r * g A R A B Y  I 
+HYP:  S a ã± o o N d o * * * O T i r N g * * * * Ã« L 
+Eval: S          I     D D D S S     I   D D D D S  S 
+
+id: (traj_ff_bd_16khz_noisereduced_47)
+Scores: (#C #S #D #I) 13 1 7 1
+REF:  k i * i f A a Y d o x H a W C I y o o n W I 
+HYP:  k i L i f * a * d o x * a * * L y o o n * * 
+Eval:     I     D   D       D   D D S         D D 
+
+id: (traj_ff_bd_16khz_noisereduced_49)
+Scores: (#C #S #D #I) 6 2 5 0
+REF:  f A a y H Ã© E G C i k o W 
+HYP:  f * a y * ** * A T i k o * 
+Eval:   D     D D  D S S       D 
+
+id: (traj_ff_bd_16khz_noisereduced_5)
+Scores: (#C #S #D #I) 5 5 9 0
+REF:  G u n E G i F A H Ã© e G C i D O J W I 
+HYP:  M u n * * i * * * R  e Y T i * * * * L 
+Eval: S     D D   D D D S    S S   D D D D S 
+
+id: (traj_ff_bd_16khz_noisereduced_50)
+Scores: (#C #S #D #I) 9 3 1 10
+REF:  F a g ã© n n C i * * * * * Ã± a * * x M i * * * 
+HYP:  S a g ã© n n G i N N A A W B  a D O x * i N A M 
+Eval: S            S   I I I I I S    I I   D   I I I 
+
+id: (traj_ff_bd_16khz_noisereduced_51)
+Scores: (#C #S #D #I) 6 3 8 1
+REF:  f A a Y S  A n G U c * I n D o X M I 
+HYP:  f * a * Ã§ O n * * c O O n * o * * * 
+Eval:   D   D S  S   D D   I S   D   D D D 
+
+id: (traj_ff_bd_16khz_noisereduced_52)
+Scores: (#C #S #D #I) 5 0 2 0
+REF:  f A a Y d a w 
+HYP:  f * a * d a w 
+Eval:   D   D       
+
+id: (traj_ff_bd_16khz_noisereduced_53)
+Scores: (#C #S #D #I) 10 2 4 1
+REF:  F A a Y d o X s o l U T m b u * b 
+HYP:  * S a * d o O s o l * * m b u B b 
+Eval: D S   D     S       D D       I   
+
+id: (traj_ff_bd_16khz_noisereduced_54)
+Scores: (#C #S #D #I) 9 5 11 0
+REF:  G Ã³ O R G I F A a Y d e m r o m b N A p A Ã± E B  I 
+HYP:  * ** * * * L U L a * d e m r o m b * * p * ** * Ã« L 
+Eval: D D  D D D S S S   D               D D   D D  D S  S 
+
+id: (traj_ff_bd_16khz_noisereduced_55)
+Scores: (#C #S #D #I) 8 8 5 0
+REF:  F a ã± O O d o X D a d E M J i G Ã© E N Ã± i 
+HYP:  S a ã± * A d o O L a d A L D i * ** * * Y  i 
+Eval: S      D S     S S     S S S   D D  D D S    
+
+id: (traj_ff_bd_16khz_noisereduced_56)
+Scores: (#C #S #D #I) 3 7 9 0
+REF:  H Ã© E G N a Ã± C I K o W W Ã  C C A A t 
+HYP:  * ** L I M a ** J A B o * * ** * * * O t 
+Eval: D D  S S S   D  S S S   D D D  D D D S   
+
+id: (traj_ff_bd_16khz_noisereduced_57)
+Scores: (#C #S #D #I) 11 11 11 1
+REF:  Ã± e T T i j I G Ã© e N Ã± I F A ã± S A X A W C I k o * W  C i w e ã± G I 
+HYP:  W  e D D i j * * ** e * ** * * * ã± * * T O N T U k o N Ã© D i w e ã± * E 
+Eval: S    S S     D D D    D D  D D D    D D S S S S S     I S  S          D S 
+
+id: (traj_ff_bd_16khz_noisereduced_58)
+Scores: (#C #S #D #I) 9 5 3 1
+REF:  g ã³ o r g a F A L E E n * R o m B U 
+HYP:  g ã³ o r g a * T U R A n D O o m * * 
+Eval:              D S S S S   I S     D D 
+
+id: (traj_ff_bd_16khz_noisereduced_59)
+Scores: (#C #S #D #I) 4 6 2 3
+REF:  * F A a Y d * o * X D a D E M 
+HYP:  N U S a * d O o L E R a * N Q 
+Eval: I S S   D   I   I S S   D S S 
+
+id: (traj_ff_bd_16khz_noisereduced_6)
+Scores: (#C #S #D #I) 10 3 9 0
+REF:  J i G Ã© E N J i f A a Y d o x C i Ã± a X m I 
+HYP:  K i * ** * * L i f * a * d o x * i N  a * m * 
+Eval: S   D D  D D S     D   D       D   S    D   D 
+
+id: (traj_ff_bd_16khz_noisereduced_65)
+Scores: (#C #S #D #I) 10 6 6 0
+REF:  J I G Ã© e n J I f A a Y d o x c i Ã± a X M I 
+HYP:  * * L E  e n * * f * a * d o x c i N  a W L E 
+Eval: D D S S      D D   D   D           S    S S S 
+
+id: (traj_ff_bd_16khz_noisereduced_66)
+Scores: (#C #S #D #I) 12 1 2 0
+REF:  F A a Y l e k k b a n a a n a 
+HYP:  * S a * l e k k b a n a a n a 
+Eval: D S   D                       
+
+id: (traj_ff_bd_16khz_noisereduced_67)
+Scores: (#C #S #D #I) 19 6 6 2
+REF:  K I I f A a Y d o x C i Ã± a X m * ** I d a D e M c i g a r a b Y i 
+HYP:  * D A f * a * d o x * i N  a * m D Ã« D d a L e * c i g a r a b G i 
+Eval: D S S   D   D       D   S    D   I I  S     S   D               S   
+
+id: (traj_ff_bd_16khz_noisereduced_69)
+Scores: (#C #S #D #I) 16 4 5 0
+REF:  J i G Ã© e n J I f a g ã© n n E e C I g a r a b Y i 
+HYP:  D i L E  e n * * f a g ã© n n * e * * g a r a b G i 
+Eval: S   S S      D D              D   D D           S   
+
+id: (traj_ff_bd_16khz_noisereduced_70)
+Scores: (#C #S #D #I) 7 5 10 0
+REF:  D U G g A a T n a C I B I I r g A R a B Y I 
+HYP:  * * * g * a * n a * * * * A r g I G a * L E 
+Eval: D D D   D   D     D D D D S     S S   D S S 
+
+id: (traj_ff_bd_16khz_noisereduced_71)
+Scores: (#C #S #D #I) 7 2 4 0
+REF:  f A a Y d A w g Ã³ o r G I 
+HYP:  f * a * d O w g ** o r * E 
+Eval:   D   D   S     D      D S 
+
+id: (traj_ff_bd_16khz_noisereduced_72)
+Scores: (#C #S #D #I) 14 3 2 5
+REF:  * F A a Y d a w * * * * r o m b U g a r a b g I 
+HYP:  B U S a * d a w F A R A r o m b * g a r a b g A 
+Eval: I S S   D       I I I I         D             S 
+
+id: (traj_ff_bd_16khz_noisereduced_73)
+Scores: (#C #S #D #I) 12 5 12 1
+REF:  f A a Y D O X C I k o W ã± a X M I m U N G a a Y w a a * X U 
+HYP:  f * a * * * * T T k o * ã± a * * * m * * W a a * w a a W L A 
+Eval:   D   D D D D S S     D      D D D   D D S     D       I S S 
+
+id: (traj_ff_bd_16khz_noisereduced_75)
+Scores: (#C #S #D #I) 6 3 5 0
+REF:  F a j A a t C I y O o N W I 
+HYP:  S a j * a t * * y * o * R E 
+Eval: S     D     D D   D   D S S 
+
+id: (traj_ff_bd_16khz_noisereduced_76)
+Scores: (#C #S #D #I) 7 8 12 0
+REF:  m U N G I w a a X U b Ã« G G A H Ã© E E G C I d o J W I 
+HYP:  m * * * A w a a * W b ** * * * * ** O O Y D U d o * * Y 
+Eval:   D D D S       D S   D  D D D D D  S S S S S     D D S 
+
+id: (traj_ff_bd_16khz_noisereduced_77)
+Scores: (#C #S #D #I) 21 10 7 3
+REF:  * J I g Ã© e n G I f a * G Ã© n N e e f * l ã« n d ã« m f a a Y w A A X U r E G N a G 
+HYP:  F U N g E  e n * * f a M B I  n D e e f U l ã« n d ã« m f a a * w * * * O r * M A a L 
+Eval: I S S   S      D D     I S S    S       I                     D   D D D S   D S S   S 
+
+id: (traj_ff_bd_16khz_noisereduced_8)
+Scores: (#C #S #D #I) 8 8 7 1
+REF:  J I G Ã© E n j * I  f a j Ã« l S I  w O B i H Ã© E G 
+HYP:  * * * Ã± U n j O Ã± f a j A  l D Ã« w * L i * ** * N 
+Eval: D D D S  S     I S        S    S S    D S   D D  D S 
+
+id: (traj_ff_bd_16khz_noisereduced_80)
+Scores: (#C #S #D #I) 24 6 6 1
+REF:  f a n * E C i g a r a b g I D e g Ã³ o r G i f a H a M L U M o o Y d a g g 
+HYP:  f a n A A L i g a r a b g * R e g ** o r * i f a R a * * N D o o * d a g g 
+Eval:       I S S               D S     D      D       S   D D S S     D         
+
+id: (traj_ff_bd_16khz_noisereduced_82)
+Scores: (#C #S #D #I) 8 2 3 0
+REF:  F A M e L n I d o o m l a 
+HYP:  * * W e * n N d o o m l a 
+Eval: D D S   D   S             
+
+id: (traj_ff_bd_16khz_noisereduced_83)
+Scores: (#C #S #D #I) 18 7 6 5
+REF:  J i G Ã© E n * J  I f A a Y d a w Y I r o m b U n a g a r a b * * * * G I 
+HYP:  D i * ** * n A Ã± U f * a * d a w N A r o m b * n a g a r a b F U K K A K 
+Eval: S   D D  D   I S  S   D   D       S S         D               I I I I S S 
+
+id: (traj_ff_bd_16khz_noisereduced_84)
+Scores: (#C #S #D #I) 6 5 4 1
+REF:  f A a Y s I M M I d Ã  l * l Y I 
+HYP:  f * a * s * E N A d A  l I l * L 
+Eval:   D   D   D S S S   S    I   D S 
+
+id: (traj_ff_bd_16khz_noisereduced_85)
+Scores: (#C #S #D #I) 9 3 8 0
+REF:  f A H Ã© e G C i b a S A a B I t A X a w 
+HYP:  f * * ** e Y B i b a * L a * * t * * a w 
+Eval:   D D D    S S       D S   D D   D D     
+
+id: (traj_ff_bd_16khz_noisereduced_86)
+Scores: (#C #S #D #I) 5 6 5 0
+REF:  f a A Y S  O L a a T D Ã  L l Y I 
+HYP:  f a S R Ã  B B a a * * ** * l * E 
+Eval:     S S S  S S     D D D  D   D S 
+
+id: (traj_ff_bd_16khz_noisereduced_87)
+Scores: (#C #S #D #I) 9 3 4 0
+REF:  s o L A a T n A k o B A p a r E 
+HYP:  s o * R a * n O k o * P p a r * 
+Eval:     D S   D   S     D S       D 
+
+id: (traj_ff_bd_16khz_noisereduced_89)
+Scores: (#C #S #D #I) 11 3 12 0
+REF:  J I G Ã© e n J I f A a Y w A a X U D a D E M d a a n 
+HYP:  * * L E  e n * * f * a * w * a * * R a * * * d a a n 
+Eval: D D S S      D D   D   D   D   D D S   D D D         
+
+id: (traj_ff_bd_16khz_noisereduced_9)
+Scores: (#C #S #D #I) 9 3 12 1
+REF:  g ã³ o r g E E K J i * G Ã© e N J I F A Ã± O O b a L 
+HYP:  g ã³ o r g * * * * i L U X  e * * * * * ** * W b a * 
+Eval:            D D D D   I S S    D D D D D D  D S     D 
+
+id: (traj_ff_bd_16khz_noisereduced_90)
+Scores: (#C #S #D #I) 4 5 7 0
+REF:  K Ã© E F A H ã© E G c I d O j W I 
+HYP:  * ** * * * R ã© * C c U d A j * E 
+Eval: D D  D D D S    D S   S   S   D S 
+
+id: (traj_ff_bd_16khz_noisereduced_91)
+Scores: (#C #S #D #I) 7 9 7 0
+REF:  K E N e E n g U N E G i H Ã© E G a a T n A C I 
+HYP:  * * P e R n g * * A L i * ** * R a a N n O O J 
+Eval: D D S   S     D D S S   D D  D S     S   S S S 
+
+id: (traj_ff_bd_16khz_noisereduced_92)
+Scores: (#C #S #D #I) 13 11 5 2
+REF:  K I I f a d u g g U c I B i I R t O o l A B M b o * * Q U B I 
+HYP:  * D A f a d u g g * c * * i N U t * o l L O O b o K K A A L E 
+Eval: D S S             D   D D   S S   D     S S S     I I S S S S 
+
+id: (traj_ff_bd_16khz_noisereduced_93)
+Scores: (#C #S #D #I) 5 7 8 0
+REF:  F A a Y w A X D A R o m B U Y o O N W I 
+HYP:  * S a * w * * * O T o m * * * o Y A A L 
+Eval: D S   D   D D D S S     D D D   S S S S 
+
+id: (traj_ff_bd_16khz_noisereduced_95)
+Scores: (#C #S #D #I) 16 11 12 0
+REF:  K I I F a t o o g c i P e G g n D O X m I  L a t O O G M u N G A a Y s Ã  N N I 
+HYP:  * T E M a t o o g c i T e * g n * * A m Ã« N a t * * * * u * * M a * s ** A L E 
+Eval: D S S S               S   D     D D S   S  S     D D D D   D D S   D   D  S S S 
+
+id: (traj_ff_bd_16khz_noisereduced_96)
+Scores: (#C #S #D #I) 2 2 1 0
+REF:  P I C c i 
+HYP:  * T E c i 
+Eval: D S S     
+
+id: (traj_ff_bd_16khz_noisereduced_98)
+Scores: (#C #S #D #I) 17 8 12 2
+REF:  k i * i f a * a Y w A a X U C i Ã± a X M I D  E f a t A X A W C I G a r a B g I 
+HYP:  k i L i f a R a * w * a * * T i N  a * * W Ã© R f a t * * * * O J J a r a * g * 
+Eval:     I       I   D   D   D D S   S    D D S S  S       D D D D S S S       D   D 
+
+
