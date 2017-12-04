@@ -28,7 +28,7 @@ KALDI_DIR=$HOME/kaldi-trunk
 
 # Config:
 gmmdir=exp/system1_NoLengthContrast/tri3b
-data_fmllr=system1_NoLengthContrast
+data_fmllr=data-fmllr/system1_NoLengthContrast
 stage=0 # resume training with --stage=N
 # End of config.
 . $KALDI_DIR/egs/wsj/s5/utils/parse_options.sh || exit 1;
@@ -68,7 +68,7 @@ if [ $stage -le 2 ]; then
   dir=exp/system1_NoLengthContrast/dnn4b_pretrain-dbn_dnn
   ali=${gmmdir}_ali
   feature_transform=exp/system1_NoLengthContrast/dnn4b_pretrain-dbn/final.feature_transform
-  dbn=exp/system1_NoLengthContrast/dnn4b_pretrain-dbn/2.dbn
+  dbn=exp/system1_NoLengthContrast/dnn4b_pretrain-dbn/6.dbn
   (tail --pid=$$ -F $dir/log/train_nnet.log 2>/dev/null)& # forward log
   # Train
   $cuda_cmd $dir/log/train_nnet.log \
