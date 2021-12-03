@@ -4,7 +4,7 @@
 # GETALP LIG, Grenoble, France
 ###
 
-![ScreenShot](https://github.com/getalp/ALFFA_PUBLIC/tree/master/ASR/SWAHILI/swahili-dataset-CCO-license.png)
+![image](https://github.com/getalp/ALFFA_PUBLIC/tree/master/ASR/SWAHILI/swahili-dataset-CCO-license.png)
 
 ### OVERVIEW
 The package contains swahili speech corpus with audio data in the directory /data. The data directory contains 2 subdirectories:
